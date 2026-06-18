@@ -1,21 +1,20 @@
 0613
-B组 加拿大(CAN)1-1波黑(BIH)  [03:00]
--CAN-11'A.约翰斯顿[Celtic]黄牌(1)
--BIH-21'J.卢基奇[BoracBL](1)破门(S.科拉希纳茨[Atalanta]助攻(1))
--BIH-45'E.德米罗维奇[Stuttgart]黄牌(1)
--BIH-45+2'J.卢基奇[BoracBL]黄牌(1)
--CAN-53'L.德富热罗勒[Fulham]黄牌(1)
--CAN-78'C.拉林[Valladolid](1)破门(P.戴维[USG]助攻(1))
--BIH-90+3'N.卡蒂奇[Schalke]黄牌(1)
-
 D组 美国(USA)4-1巴拉圭(PAR)  [09:00]
 -PAR-08'D.博瓦迪利亚[SaoPaulo]乌龙(OG)
 -PAR-10'J.卡塞雷斯[DynamoM]黄牌(1)
--USA-31'F.巴洛贡[Monaco](1)破门(C.普利西奇[Milan]助攻(1))
--USA-45'F.巴洛贡[Monaco](2)破门(M.蒂尔曼[Leverkusen]助攻(1))
+-USA-31'F.巴洛贡[Monaco](1)破门 C.普利西奇[Milan](1)助攻
+-USA-45'F.巴洛贡[Monaco](2)破门 M.蒂尔曼[Leverkusen](1)助攻
 -PAR-53'M.阿尔米隆[Atlanta]黄牌(1)
 -USA-60'T.亚当斯[Bournemouth]黄牌(1)
--PAR-73'M.普拉多[Palmeiras](1)破门(J.恩西索[Brighton]助攻(1))
+-PAR-73'M.普拉多[Palmeiras](1)破门 J.恩西索[Brighton](1)助攻
 -PAR-79'G.戈麦斯[Palmeiras]黄牌(1)
 -PAR-88'A.阿尔塞[IndRiv]黄牌(1)
--USA-90'G.雷纳[Gladbach](1)破门(A.弗里曼[Villarreal]助攻(1))
+-USA-90'G.雷纳[Gladbach](1)破门 A.弗里曼[Villarreal](1)助攻
+B组 加拿大(CAN)1-1波黑(BIH)  [03:00]
+-CAN-11'A.约翰斯顿[Celtic]黄牌(1)
+-BIH-21'J.卢基奇[Cluj](1)破门 S.科拉希纳茨[Atalanta](1)助攻
+-BIH-45'E.德米罗维奇[Stuttgart]黄牌(1)
+-BIH-45+2'J.卢基奇[Cluj]黄牌(1)
+-CAN-53'L.德富热罗勒[Dender]黄牌(1)
+-CAN-78'C.拉林[Southampton](1)破门 P.戴维[USG](1)助攻
+-BIH-90+3'N.卡蒂奇[Schalke]黄牌(1)
