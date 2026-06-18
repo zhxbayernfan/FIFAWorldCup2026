@@ -6,188 +6,315 @@
 <title>2026世界杯数据看板</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-body{font-family:KaiTi,Georgia,serif;background:#0a0a0a;color:#e0e0e0;min-height:100vh}
-.header{background:linear-gradient(135deg,#1a1a2e,#16213e);padding:30px 20px;text-align:center;border-bottom:2px solid #0f3460}
-.header h1{font-size:2em;color:#fff;text-shadow:0 0 20px rgba(0,100,255,0.5)}
-.header .sub{color:#888;margin-top:8px;font-size:0.9em}
-.container{max-width:1200px;margin:0 auto;padding:20px}
-.section{margin-bottom:40px}
-.section h2{font-size:1.4em;color:#4fc3f7;margin-bottom:15px;padding-bottom:8px;border-bottom:1px solid #333}
-.tabs{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:20px}
-.tab{padding:8px 16px;background:#1a1a2e;border:1px solid #333;border-radius:6px;cursor:pointer;transition:all 0.2s;color:#ccc}
-.tab:hover{background:#16213e;border-color:#4fc3f7}
-.tab.active{background:#0f3460;border-color:#4fc3f7;color:#fff}
-.panel{display:none}
-.panel.active{display:block}
-.club-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(350px,1fr));gap:15px}
-.club-card{background:#111;border:1px solid #222;border-radius:8px;padding:15px}
-.club-card h3{font-size:1.1em;margin-bottom:10px;padding-bottom:6px;border-bottom:1px solid #333}
-.club-card h3 .rank{color:#4fc3f7;margin-right:8px}
-.club-card .players{display:flex;flex-wrap:wrap;gap:6px}
-.player-tag{background:#1a1a2e;padding:3px 10px;border-radius:4px;font-size:0.85em}
-.player-tag .club{color:#666;font-size:0.8em}
-.match{background:#111;border:1px solid #222;border-radius:8px;margin-bottom:12px;overflow:hidden}
-.match-header{background:#16213e;padding:12px 15px;display:flex;justify-content:space-between;align-items:center}
-.match-header .teams{font-size:1.1em;font-weight:bold}
-.match-header .info{color:#888;font-size:0.85em}
-.match-events{padding:12px 15px}
-.event{padding:4px 0;font-size:0.9em;display:flex;gap:10px}
-.event .time{color:#4fc3f7;min-width:50px;font-weight:bold}
-.event .detail{flex:1}
-.event .club{color:#666;font-size:0.85em;margin-left:6px}
-.goal{color:#4caf50}
-.card-y{color:#ffc107}
-.card-r{color:#f44336}
-.own{color:#9e9e9e}
-.loading{text-align:center;padding:40px;color:#666}
-.loading .spinner{display:inline-block;width:30px;height:30px;border:3px solid #333;border-top-color:#4fc3f7;border-radius:50%;animation:spin 1s linear infinite;margin-bottom:10px}
-@keyframes spin{to{transform:rotate(360deg)}}
-.error{text-align:center;padding:40px;color:#f44336}
-.leaderboard{display:grid;grid-template-columns:1fr 1fr;gap:20px}
-.lb-col h3{color:#4fc3f7;margin-bottom:10px;font-size:1.1em}
-.lb-row{display:flex;justify-content:space-between;padding:6px 10px;border-bottom:1px solid #222;font-size:0.9em}
-.lb-row:nth-child(even){background:#0d0d0d}
-.lb-row .name{flex:1}
-.lb-row .count{color:#4fc3f7;min-width:30px;text-align:right}
-@media(max-width:768px){.leaderboard{grid-template-columns:1fr}.club-grid{grid-template-columns:1fr}}
+body{font-family:KaiTi,Georgia,monospace;background:#0d1117;color:#c9d1d9;min-height:100vh}
+.header{background:linear-gradient(135deg,#161b22,#0d1117);padding:20px;text-align:center;border-bottom:1px solid #30363d}
+.header h1{font-size:1.8em;color:#58a6ff}
+.header .sub{color:#8b949e;font-size:0.85em;margin-top:5px}
+.container{max-width:1000px;margin:0 auto;padding:20px}
+.half{margin-bottom:30px}
+.half-title{color:#58a6ff;font-size:1.2em;margin-bottom:15px;padding-bottom:8px;border-bottom:1px solid #30363d}
+.controls{margin-bottom:20px}
+.section-label{color:#8b949e;font-size:0.85em;margin-bottom:8px;text-transform:uppercase;letter-spacing:1px}
+.btn-row{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:15px}
+.btn{padding:6px 14px;background:#161b22;border:1px solid #30363d;border-radius:6px;cursor:pointer;color:#c9d1d9;font-size:0.9em;transition:all 0.15s;font-family:inherit}
+.btn:hover{border-color:#58a6ff;background:#1c2333}
+.btn.active{background:#1f6feb;border-color:#58a6ff;color:#fff;box-shadow:0 0 8px rgba(88,166,255,0.3)}
+.btn.has-match{border-color:#238636;position:relative}
+.btn.has-match::after{content:'';position:absolute;top:2px;right:2px;width:6px;height:6px;background:#3fb950;border-radius:50%}
+.btn.has-match.active::after{background:#fff}
+.btn.large{padding:10px 24px;font-size:1em}
+.calendar{display:flex;gap:30px;flex-wrap:wrap;margin-bottom:15px}
+.cal-month{flex:1;min-width:280px}
+.cal-month-title{color:#58a6ff;font-size:1em;margin-bottom:8px;text-align:center}
+.cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:4px}
+.cal-head{text-align:center;color:#6e7681;font-size:0.8em;padding:4px 0}
+.cal-day{aspect-ratio:1;display:flex;align-items:center;justify-content:center;background:#161b22;border:1px solid #30363d;border-radius:4px;font-size:0.85em;cursor:default;color:#484f58}
+.cal-day.upcoming{color:#fff;cursor:pointer}
+.cal-day.upcoming:hover{border-color:#58a6ff}
+.cal-day.has-result{color:#3fb950;text-decoration:underline;cursor:pointer;font-weight:bold}
+.cal-day.has-result:hover{border-color:#3fb950;background:#1c2333}
+.cal-day.active{background:#1f6feb;border-color:#58a6ff;color:#fff;box-shadow:0 0 8px rgba(88,166,255,0.3)}
+.cal-day.empty{background:transparent;border-color:transparent}
+#output,#lbOutput{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:20px;min-height:200px;white-space:pre-wrap;line-height:1.8;font-size:0.95em}
+.match-title{color:#f0f6fc;font-size:1.1em;margin:15px 0 8px;padding-bottom:5px;border-bottom:1px solid #30363d}
+.match-title:first-child{margin-top:0}
+.events{padding-left:10px}
+.goal{color:#3fb950}
+.yellow{color:#d29922}
+.red{color:#f85149}
+.own{color:#8b949e}
+.club{color:#6e7681;font-size:0.85em}
+.time{color:#58a6ff;font-weight:bold;min-width:50px;display:inline-block}
+.placeholder{color:#484f58;text-align:center;padding:60px 20px;font-size:1.1em}
+.lb-row{display:flex;gap:15px;padding:8px 12px;border-bottom:1px solid #21262d;font-size:0.95em}
+.lb-row:nth-child(even){background:#0d1117}
+.lb-rank{min-width:35px;color:#8b949e;font-weight:bold}
+.lb-name{flex:1;color:#f0f6fc}
+.lb-count{color:#58a6ff;font-weight:bold;min-width:30px;text-align:right}
+.lb-players{color:#6e7681;font-size:0.85em;margin-top:3px;margin-left:50px}
+hr{border:none;border-top:1px solid #30363d;margin:30px 0}
 </style>
 </head>
 <body>
 <div class="header">
 <h1>⚽ 2026世界杯数据看板</h1>
-<div class="sub">数据实时更新 | 来源: github.com/zhxbayernfan/FIFAWorldCup2026</div>
+<div class="sub">数据来源: github.com/zhxbayernfan/FIFAWorldCup2026</div>
 </div>
-<div class="container" id="app">
-<div class="loading"><div class="spinner"></div><br>加载数据中...</div>
+<div class="container">
+
+<div class="half">
+<div class="half-title">📋 比赛结果</div>
+<div class="controls">
+<div class="section-label">按组别</div>
+<div class="btn-row" id="grpBtns"></div>
+<div class="section-label">按日期</div>
+<div class="calendar" id="calendar"></div>
 </div>
+<div id="output"><div class="placeholder">点击按钮查看比赛结果</div></div>
+</div>
+
+<hr>
+
+<div class="half">
+<div class="half-title">🏆 俱乐部榜单</div>
+<div class="btn-row" id="lbBtns">
+<button class="btn large active" data-lb="goals">⚽ 射手榜</button>
+<button class="btn large" data-lb="assists">🅰️ 助攻榜</button>
+</div>
+<div id="lbOutput"><div class="placeholder">加载中...</div></div>
+</div>
+
+</div>
+
 <script>
 const RAW='https://raw.githubusercontent.com/zhxbayernfan/FIFAWorldCup2026/refs/heads/main';
 const GROUPS='ABCDEFGHIJKL'.split('');
+const DATES=[];
+for(let m=6;m<=7;m++)for(let d=1;d<=31;d++){
+  if(m===6&&d<11)continue;
+  if(m===7&&d>20)continue;
+  DATES.push(String(m).padStart(2,'0')+String(d).padStart(2,'0'));
+}
 const GROUP_NAMES={A:'A组',B:'B组',C:'C组',D:'D组',E:'E组',F:'F组',G:'G组',H:'H组',I:'I组',J:'J组',K:'K组',L:'L组'};
 
-async function load(){
-  try{
-    const [qr,...groups]=await Promise.all([
-      fetch(RAW+'/FIFAWorldCup2026-QuickResult-Show.txt').then(r=>r.text()),
-      ...GROUPS.map(g=>fetch(RAW+`/Group_Result/${g}.txt`).then(r=>r.text()).catch(()=>null))
-    ]);
-    render(qr,groups);
-  }catch(e){
-    document.getElementById('app').innerHTML=`<div class="error">加载失败: ${e.message}<br>请检查网络连接</div>`;
-  }
+const groupData={};
+const dateData={};
+const matchDays=new Set();
+let lbData={goals:[],assists:[]};
+
+async function init(){
+  const promises=[
+    ...GROUPS.map(async g=>{
+      try{
+        const r=await fetch(RAW+`/Group_Result/${g}.txt`);
+        const t=await r.text();
+        groupData[g]=parseGroup(t);
+      }catch(e){}
+    }),
+    ...DATES.map(async d=>{
+      try{
+        const r=await fetch(RAW+`/Daily_Result/${d}.txt`);
+        if(r.ok){
+          const t=await r.text();
+          if(t.trim()&&t.includes('组')){
+            dateData[d]=t;
+            matchDays.add(d);
+          }
+        }
+      }catch(e){}
+    }),
+    fetch(RAW+'/FIFAWorldCup2026-QuickResult-Show.txt').then(r=>r.text()).then(t=>{lbData=parseLB(t);}).catch(e=>{})
+  ];
+  await Promise.all(promises);
+  renderBtns();
+  renderLB('goals');
 }
 
-function parseLeaderboard(txt){
-  const m=txt.match(/进球:[\s\S]*?助攻:/);
-  if(!m) return {goals:[],assists:[]};
-  const goalsPart=m[0].replace('进球:','').replace('助攻:','');
-  const assM=txt.match(/助攻:[\s\S]*?-{10}/);
-  const assPart=assM?assM[0].replace('助攻:','').replace(/-{10}/,''):'';
-  return {goals:parseClubList(goalsPart),assists:parseClubList(assPart)};
-}
-
-function parseClubList(txt){
-  const lines=txt.trim().split('\n').filter(l=>l.match(/^\d+\./));
-  return lines.map(l=>{
-    const rank=l.match(/^(\d+)/)[1];
-    const name=l.match(/([一-龥\w.]+)\d+/)?.[1]||'';
-    const count=l.match(/\d+([一-龥\w.]+)(\d+)/)?.[2]||'0';
-    const players=l.match(/\(([^)]+)\)/)?.[1]||'';
-    return {rank:+rank,name,count:+count,players};
-  });
-}
-
-function parseMatchLine(line){
-  const m=line.match(/([A-Z]+)\s?组?\s?([一-龥\w]+)\(([A-Z]{2,3})\)(\d+-\d+)([一-龥\w]+)\(([A-Z]{2,3})\)\s+\[(\d{2}:\d{2})\]/);
-  if(!m) return null;
-  return {
-    group:m[1],home:m[2],homeCode:m[3],score:m[4],away:m[5],awayCode:m[6],time:m[7]
-  };
-}
-
-function parseEvents(text){
-  const events=[];
-  const lines=text.split('\n').filter(l=>l.startsWith('-'));
-  for(const line of lines){
-    const m=line.match(/-([A-Z]{2,3})-(\d+(?:\+\d+)?)'([一-龥\w.]+)(?:\[([^\]]+)\])?\((\d+(?:\|[\d.]+)?)?\)(.+?)(?:\((.+?)\))?$/);
-    if(!m) continue;
-    events.push({
-      code:m[1],time:m[2],player:m[3],club:m[4]||'',count:m[5]||'',event:m[6],assist:m[7]||''
-    });
-  }
-  return events;
-}
-
-function render(qr,groups){
-  const app=document.getElementById('app');
-  const lb=parseLeaderboard(qr);
-
-  let html='<div class="section"><h2>🏆 俱乐部进球/助攻榜</h2><div class="leaderboard">';
-  html+='<div class="lb-col"><h3>⚽ 进球</h3>';
-  for(const c of lb.goals) html+=`<div class="lb-row"><span class="name">${c.rank}. ${c.name} ${c.players?'('+c.players+')':''}</span><span class="count">${c.count}</span></div>`;
-  html+='</div><div class="lb-col"><h3>🅰️ 助攻</h3>';
-  for(const c of lb.assists) html+=`<div class="lb-row"><span class="name">${c.rank}. ${c.name} ${c.players?'('+c.players+')':''}</span><span class="count">${c.count}</span></div>`;
-  html+='</div></div></div>';
-
-  html+='<div class="section"><h2>📋 按组别查看</h2><div class="tabs" id="grpTabs">';
-  for(const g of GROUPS) html+=`<div class="tab${g==='A'?' active':''}" data-g="${g}">${GROUP_NAMES[g]}</div>`;
-  html+='</div>';
-
-  for(let i=0;i<GROUPS.length;i++){
-    const g=GROUPS[i],data=groups[i];
-    html+=`<div class="panel${g==='A'?' active':''}" id="p${g}">`;
-    if(!data){html+='<div class="loading">暂无数据</div>';html+='</div>';continue;}
-    const lines=data.trim().split('\n');
-    let curMatch=null,evts=[];
-    for(const line of lines){
-      const matchInfo=parseMatchLine(line);
-      if(matchInfo){
-        if(curMatch) html+=renderMatch(curMatch,evts);
-        curMatch=matchInfo;evts=[];
-      }else if(line.startsWith('-')){
-        evts.push(line);
-      }
+function parseGroup(txt){
+  const matches=[];
+  let curLine=null,events=[];
+  for(const line of txt.split('\n')){
+    if(line.match(/[A-L]组.*\[\d{2}:\d{2}\]/)){
+      if(curLine) matches.push({line:curLine,events});
+      curLine=line;events=[];
+    }else if(line.startsWith('-')){
+      events.push(line);
     }
-    if(curMatch) html+=renderMatch(curMatch,evts);
-    html+='</div>';
   }
-  html+='</div>';
-  app.innerHTML=html;
+  if(curLine) matches.push({line:curLine,events});
+  return matches;
+}
 
-  document.querySelectorAll('.tab').forEach(t=>{
-    t.onclick=()=>{
-      document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
-      document.querySelectorAll('.panel').forEach(x=>x.classList.remove('active'));
-      t.classList.add('active');
-      document.getElementById('p'+t.dataset.g).classList.add('active');
+function parseLB(txt){
+  const out={goals:[],assists:[]};
+  const gm=txt.match(/进球:([\s\S]*?)助攻:/);
+  const am=txt.match(/助攻:([\s\S]*?)(?=-{10})/);
+  function parse(t){
+    return t.split('\n').filter(l=>l.match(/^\d+\./)).map(l=>{
+      const m=l.match(/^(\d+)\.\s*([一-龥\w.]+?)(\d+)\(([^)]+)\)/);
+      if(!m) return null;
+      return {rank:+m[1],name:m[2],count:+m[3],players:m[4]};
+    }).filter(Boolean);
+  }
+  if(gm) out.goals=parse(gm[1]);
+  if(am) out.assists=parse(am[1]);
+  return out;
+}
+
+
+const matchSchedule=new Set();
+// Group stage: June 12-18
+for(let d=12;d<=18;d++) matchSchedule.add('06'+String(d).padStart(2,'0'));
+// Round of 32: June 26 - July 3
+for(let d=26;d<=30;d++) matchSchedule.add('06'+String(d).padStart(2,'0'));
+for(let d=1;d<=3;d++) matchSchedule.add('07'+String(d).padStart(2,'0'));
+// Round of 16: July 4-5
+matchSchedule.add('0704');matchSchedule.add('0705');
+// Rest: July 9, 13-14, 17-18 (no matches)
+// Quarter-finals: July 10-12
+matchSchedule.add('0710');matchSchedule.add('0711');matchSchedule.add('0712');
+// Semi-finals: July 15-16
+matchSchedule.add('0715');matchSchedule.add('0716');
+// 3rd place: July 19
+matchSchedule.add('0719');
+// Final: July 20
+matchSchedule.add('0720');
+function renderBtns(){
+  const grpEl=document.getElementById('grpBtns');
+  GROUPS.forEach(g=>{
+    const b=document.createElement('button');
+    b.className='btn';
+    b.textContent=GROUP_NAMES[g];
+    if(groupData[g]&&groupData[g].length>0) b.classList.add('has-match');
+    b.onclick=()=>showGroup(g,b);
+    grpEl.appendChild(b);
+  });
+  const calEl=document.getElementById('calendar');
+  // 2026年6月1日是周一(weekday=1)，7月1日是周三(weekday=3)
+  const months=[
+    {label:'2026年6月',first:1,days:30,startDay:1},
+    {label:'2026年7月',first:1,days:31,startDay:3}
+  ];
+  const weekHead=['一','二','三','四','五','六','日'];
+  months.forEach(m=>{
+    const monthDiv=document.createElement('div');
+    monthDiv.className='cal-month';
+    let html=`<div class="cal-month-title">${m.label}</div><div class="cal-grid">`;
+    weekHead.forEach(w=>html+=`<div class="cal-head">${w}</div>`);
+    // 月初前的空格 (Mon=1...Sun=7, but our grid starts Mon)
+    let lead=m.startDay-1;
+    if(lead<0) lead=6;
+    for(let i=0;i<lead;i++) html+='<div class="cal-day empty"></div>';
+    const monthNum=m.label.match(/(\d+)月/)[1].padStart(2,'0');
+    for(let d=1;d<=m.days;d++){
+      const dStr=monthNum+String(d).padStart(2,'0');
+      let cls='cal-day';
+      if(matchDays.has(dStr)){
+        cls+=' has-result';
+      }else if(matchSchedule.has(dStr)){
+        cls+=' upcoming';
+      }
+      html+=`<div class="${cls}" data-d="${dStr}">${d}</div>`;
+    }
+    html+='</div>';
+    monthDiv.innerHTML=html;
+    calEl.appendChild(monthDiv);
+  });
+  document.querySelectorAll('.cal-day.has-result').forEach(c=>{
+    c.onclick=()=>showDate(c.dataset.d,c);
+  });
+  document.querySelectorAll('#lbBtns .btn').forEach(b=>{
+    b.onclick=()=>{
+      document.querySelectorAll('#lbBtns .btn').forEach(x=>x.classList.remove('active'));
+      b.classList.add('active');
+      renderLB(b.dataset.lb);
     };
   });
 }
 
-function renderMatch(match,evts){
-  const events=evts.map(e=>{
-    const m=e.match(/-([A-Z]{2,3})-(\d+(?:\+\d+)?)'([一-龥\w.]+)(?:\[([^\]]+)\])?\((\d+(?:\|[\d.]+)?)?\)(.+?)(?:\((.+?)\))?$/);
-    if(!m) return '';
-    const isGoal=m[6].includes('破门')||m[6].includes('点球');
-    const isCard=m[6].includes('牌');
-    const isOwn=m[6].includes('乌龙');
-    let cls='';
-    if(isGoal) cls='goal';
-    else if(isOwn) cls='own';
-    else if(m[6].includes('红牌')) cls='card-r';
-    else if(isCard) cls='card-y';
-    let icon='';
-    if(isGoal) icon='⚽';
-    else if(isOwn) icon='🥅';
-    else if(m[6].includes('红牌')) icon='🟥';
-    else if(isCard) icon='🟨';
-    return `<div class="event"><span class="time">${m[2]}'</span><span class="detail ${cls}">${icon} ${m[3]}${m[4]?`<span class="club">[${m[4]}]</span>`:''} ${m[6]}${m[7]?` (${m[7]})`:''}</span></div>`;
-  }).filter(Boolean).join('');
-
-  return `<div class="match"><div class="match-header"><div class="teams">${match.group}组 ${match.home}(${match.homeCode}) ${match.score} ${match.away}(${match.awayCode})</div><div class="info">${match.time}</div></div><div class="match-events">${events}</div></div>`;
+function setActive(btn,sel){
+  document.querySelectorAll(sel+' .btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
 }
 
-load();
+function formatEvents(events){
+  return events.map(e=>{
+    const m=e.match(/-([A-Z]{2,3})-(\d+(?:\+\d+)?)'([一-龥\w.·]+?)(?:\[([^\]]+)\])?\((\d+(?:\|[\d.]+)?)?\)(.+?)(?:\((.+?)\))?$/);
+    if(!m){
+      const m2=e.match(/-([A-Z]{2,3})-(\d+(?:\+\d+)?)'(.+)$/);
+      if(m2) return `<span class="time">${m2[2]}'</span> ${m2[3]}`;
+      return '';
+    }
+    let cls='';
+    if(m[6].includes('破门')||m[6].includes('点球')) cls='goal';
+    else if(m[6].includes('乌龙')) cls='own';
+    else if(m[6].includes('红牌')) cls='red';
+    else if(m[6].includes('黄牌')) cls='yellow';
+    const cntDisplay=m[5]?`(${m[5]})`:'';
+    return `<span class="time">${m[2]}'</span> <span class="${cls}">${m[3]}</span>${m[4]?`<span class="club">[${m[4]}]</span>`:''} <span class="${cls}">${m[6]}${cntDisplay}</span>${m[7]?` (${m[7]})`:''}`;
+  }).filter(Boolean).join('\n');
+}
+
+function showGroup(g,btn){
+  setActive(btn,'#grpBtns');
+  document.querySelectorAll('.cal-day').forEach(b=>b.classList.remove('active'));
+  const data=groupData[g];
+  const out=document.getElementById('output');
+  if(!data||data.length===0){
+    out.innerHTML=`<div class="placeholder">${GROUP_NAMES[g]} 暂无比赛数据</div>`;
+    return;
+  }
+  let html='';
+  data.forEach(m=>{
+    html+=`<div class="match-title">${m.line}</div>`;
+    html+=`<div class="events">${formatEvents(m.events)}</div>`;
+  });
+  out.innerHTML=html;
+}
+
+function showDate(d,btn){
+  document.querySelectorAll('.cal-day').forEach(b=>b.classList.remove('active'));
+  document.querySelectorAll('#grpBtns .btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  const out=document.getElementById('output');
+  const data=dateData[d];
+  if(!data){
+    out.innerHTML=`<div class="placeholder">${d.slice(0,2)}月${d.slice(2)}日 暂无比赛</div>`;
+    return;
+  }
+  const lines=data.split('\n');
+  let html='',curMatch='',events=[];
+  lines.forEach(l=>{
+    if(l.match(/[A-L]组.*\[\d{2}:\d{2}\]/)){
+      if(curMatch){
+        html+=`<div class="match-title">${curMatch}</div>`;
+        html+=`<div class="events">${formatEvents(events)}</div>`;
+      }
+      curMatch=l;events=[];
+    }else if(l.startsWith('-')){
+      events.push(l);
+    }
+  });
+  if(curMatch){
+    html+=`<div class="match-title">${curMatch}</div>`;
+    html+=`<div class="events">${formatEvents(events)}</div>`;
+  }
+  out.innerHTML=html;
+}
+
+function renderLB(type){
+  const out=document.getElementById('lbOutput');
+  const data=type==='goals'?lbData.goals:lbData.assists;
+  if(!data||data.length===0){out.innerHTML='<div class="placeholder">暂无数据</div>';return;}
+  let html='';
+  data.forEach(c=>{
+    html+=`<div class="lb-row"><span class="lb-rank">${c.rank}.</span><span class="lb-name">${c.name}</span><span class="lb-count">${c.count}</span></div>`;
+    if(c.players) html+=`<div class="lb-players">${c.players}</div>`;
+  });
+  out.innerHTML=html;
+}
+
+init();
 </script>
 </body>
 </html>
