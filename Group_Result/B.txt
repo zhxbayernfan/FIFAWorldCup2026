@@ -1,11 +1,11 @@
 B组
 0613 B组 加拿大(CAN)1-1波黑(BIH)  [03:00]
 -CAN-11'A.约翰斯顿[Celtic]黄牌(1)
--BIH-21'J.卢基奇[Cluj](1)破门 S.科拉希纳茨[Atalanta](1)助攻
+-BIH-21'J.卢基奇[Cluj](1)进球 S.科拉希纳茨[Atalanta](1)助攻
 -BIH-45'E.德米罗维奇[Stuttgart]黄牌(1)
 -BIH-45+2'J.卢基奇[Cluj]黄牌(1)
 -CAN-53'L.德富热罗勒[Dender]黄牌(1)
--CAN-78'C.拉林[Southampton](1)破门 P.戴维[USG](1)助攻
+-CAN-78'C.拉林[Southampton](1)进球 P.戴维[USG](1)助攻
 -BIH-90+3'N.卡蒂奇[Schalke]黄牌(1)
 
 0614 B组 卡塔尔(QAT)1-1瑞士(SUI)  [03:00]
@@ -19,9 +19,9 @@ B组
 -BIH-59'A.德迪奇[Benfica]黄牌(1)
 -BIH-61'E.哲科[Schalke]黄牌(1)
 -SUI-66'N.埃尔韦迪[Gladbach]黄牌(1)
--SUI-75'J.曼赞比[Freiburg](1)破门
+-SUI-75'J.曼赞比[Freiburg](1)进球
 -BIH-80'T.穆哈雷莫维奇[Astana]红牌(1)
--SUI-84'R.巴尔加斯[Sevilla](1)破门 D.恩多耶[NottinghamF](1)助攻
--SUI-90'J.曼赞比[Freiburg](2)破门 R.巴尔加斯[Sevilla](1)助攻
--BIH-90+3'E.马赫米奇[Dusseldorf](1)破门
+-SUI-84'R.巴尔加斯[Sevilla](1)进球 D.恩多耶[NottinghamF](1)助攻
+-SUI-90'J.曼赞比[Freiburg](2)进球 R.巴尔加斯[Sevilla](1)助攻
+-BIH-90+3'E.马赫米奇[Dusseldorf](1)进球
 -SUI-90+7'G.扎卡[Sunderland](1)点球
