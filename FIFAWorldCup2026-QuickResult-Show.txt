@@ -8,6 +8,7 @@
 3.巴黎圣日耳曼3(B.巴尔科拉, I.姆巴耶, J.内维斯)
 3.阿森纳3(K.哈弗茨x2, V.哲凯赖什)
 3.迈阿密国际3(L.梅西x3)
+3.尤文图斯3(J.戴维x3)
 7.多特蒙德2(F.恩梅查, N.施洛特贝克)
 7.弗赖堡2(J.曼赞比x2)
 7.曼城2(E.哈兰德x2)
@@ -24,6 +25,7 @@
 13.曼联1(A.迪亚洛)
 13.西汉姆1(C.萨默维尔)
 13.桑德兰1(G.扎卡)
+13.安德莱赫特1(N.萨利巴)
 
 助攻:
 1.利物浦6(A.伊萨克x2, R.格拉芬贝赫x2, F.维尔茨, M.萨拉赫)
@@ -46,10 +48,28 @@
 7.切尔西1(P.内托)
 7.AC米兰1(C.普利西奇)
 7.迈阿密国际1(R.德保罗)
+7.安德莱赫特1(N.萨利巴)
 --------------------
 
 ----------
 0619
+A组 墨西哥(MEX)1-0韩国(KOR)  [09:00]
+-KOR-04'李刚仁[PSG]黄牌(1)
+-MEX-50'L.罗莫[Chivas](1)进球
+-KOR-58'白昇浩[Birmingham]黄牌(1)
+
+B组 加拿大(CAN)6-0卡塔尔(QAT)  [06:00]
+-CAN-09'D.科尼利厄斯[Marseille]黄牌(1)
+-CAN-16'C.拉林[Southampton](2)进球
+-CAN-29'J.戴维[Juventus](1)进球
+-QAT-33'H.艾哈迈德[CulturalLeonesa]红牌(1)
+-CAN-45+3'J.戴维[Juventus](2)进球
+-CAN-53'A.马迪博[AlWakra]红牌(1)
+-CAN-64'N.萨利巴[Anderlecht](1)进球
+-QAT-64'A.法特希[AlArabi]黄牌(1)
+-CAN-75'M.马纳伊[Shamal]乌龙(OG)
+-CAN-90+2'J.戴维[Juventus](3)进球 N.萨利巴[Anderlecht](1)助攻
+
 B组 瑞士(SUI)4-1波黑(BIH)  [03:00]
 -BIH-59'A.德迪奇[Benfica]黄牌(1)
 -BIH-61'E.哲科[Schalke]黄牌(1)
@@ -59,7 +79,7 @@ B组 瑞士(SUI)4-1波黑(BIH)  [03:00]
 -SUI-84'R.巴尔加斯[Sevilla](1)进球 D.恩多耶[NottinghamF](1)助攻
 -SUI-90'J.曼赞比[Freiburg](2)进球 R.巴尔加斯[Sevilla](1)助攻
 -BIH-90+3'E.马赫米奇[Dusseldorf](1)进球
--SUI-90+7'G.扎卡[Sunderland](1)点球进球
+-SUI-90+7'G.扎卡[Sunderland](1)点球
 
 A组 捷克(CZE)1-1南非(RSA)  [00:00]
 -CZE-06'M.萨迪莱克[SlaviaPrague](1)进球 A.索伊卡[ViktoriaPlzen](1)助攻
