@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang=zh>
+<head>
+    <meta charset=utf-8>
+    <meta http-equiv=X-UA-Compatible content="IE=edge">
+    <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+    <meta name=referrer content=origin-when-cross-origin>
+    <meta name=format-detection content="telephone=no">
+    <meta name=x5-orientation content=portrait>
+    <meta http-equiv=x-dns-prefetch-control content=on>
+    <title>百度体育直播 捷克 vs 南非 今天 00:00_百度体育</title>
+    <meta name=description content="百度体育聚合全网体育赛事信息，覆盖最新的赛事资讯、数据、直播等内容，主要包括NBA、CBA、中超、五大联赛、欧冠、LPL等赛事…">
+    <link rel="shortcut icon" href=https://www.baidu.com/favicon.ico type=image/x-icon>
+    <link rel=dns-prefetch href=https://tiyu.baidu.com>
+    <link rel=dns-prefetch href=https://psstatic.cdn.bcebos.com>
+    <link rel=dns-prefetch href=https://code.bdstatic.com>
+    <script>
+        var logId = "";
+    </script>
+    <script src=https://code.bdstatic.com/npm/spy-client@2.1.12/dist/spy-client.min.js crossorigin=anonymous></script>
+    <script src=https://code.bdstatic.com/npm/spy-client@2.1.12/dist/spy-head.min.js crossorigin=anonymous></script>
+    <script>
+        var pid = '4_7';
+        var spy = new SpyClient({
+            pid,
+            lid: logId,
+            sample: 0.1
+        });
+
+         // 指定san框架用于区分spy打点
+        window.__FRAMEWORK__ = 'san';
+
+        // 禁止浏览器刷新后自动滚动到上次浏览的位置
+        if ('scrollRestoration' in history) {
+            history.scrollRestoration = 'manual';
+        }
+    </script>
+<link href=https://ms.bdstatic.com/se/tiyu-wise/static/san/css/vendors.792bd713.css rel=stylesheet><link href=https://ms.bdstatic.com/se/tiyu-wise/static/san/css/livedetail.5911087a.css rel=stylesheet><script>"use strict";
+(() => {
+  // ../src/views/inlineGlobalScript/globalUtil.ts
+  var ONLINE_HOSTS = [
+    "tiyu.baidu.com",
+    "tiyu-fenji.baidu-int.com"
+  ];
+  function isOnlineHost(hostname) {
+    try {
+      const host = hostname || window.location.hostname;
+      return ONLINE_HOSTS.indexOf(host) !== -1;
+    } catch (e) {
+      return false;
+    }
+  }
+  var _extends = Object.assign ? Object.assign : function(target, ...sources) {
+    for (let i = 0; i < sources.length; i++) {
+      const source = sources[i];
+      for (const key in source) {
+        if (Object.prototype.hasOwnProperty.call(source, key)) {
+          target[key] = source[key];
+        }
+      }
+    }
+    return target;
+  };
+  function getViewportSize() {
+    if (typeof window === "undefined") {
+      return {
+        width: 0,
+        height: 0
+      };
+    }
+    const doc = document && document.documentElement;
+    return {
+      width: window.innerWidth || doc && doc.clientWidth || 0,
+      height: window.innerHeight || doc && doc.clientHeight || 0
+    };
+  }
+  function getUserAgentInfo() {
+    var uaLower = navigator.userAgent.toLowerCase();
+    var isIOS = uaLower.includes("iphone") || uaLower.includes("ipod") || uaLower.includes("ipad");
+    var isAndroid = uaLower.includes("android");
+    var isBaiduBox = uaLower.includes("baiduboxapp");
+    var isBaiduBoxLite = /(lite|info) baiduboxapp/.test(uaLower);
+    var isDarkMode = uaLower.includes("theme/dark");
+    var platform = /Mobi|Android|iPhone/i.test(uaLower || "") ? "wise" : "pc";
+    return {
+      isIOS,
+      isAndroid,
+      isBaiduBox,
+      isBaiduBoxLite,
+      isDarkMode,
+      platform
+    };
+  }
+  function spyMsgHasVal(message, str) {
+    if (typeof message !== "string" || typeof str !== "string")
+      return 0;
+    return message.toLowerCase().includes(str.toLowerCase()) ? 1 : 0;
+  }
+  function getQueryParams(urlStr) {
+    const paramsObj = {};
+    if (!urlStr)
+      return paramsObj;
+    try {
+      const url = new URL(urlStr, window.location.origin);
+      url.searchParams.forEach((value, key) => {
+        paramsObj[key] = value;
+      });
+    } catch (e) {
+    }
+    return paramsObj;
+  }
+  function getSpyGroupName(group, isMajor2) {
+    if (!isOnlineHost()) {
+      return "test";
+    }
+    if (isMajor2) {
+      return `${group}_major`;
+    }
+    return group;
+  }
+
+  // ../src/views/inlineGlobalScript/global.ts
+  var GLOBAL_KEY = "__GLOBAL__";
+  var g = window;
+  var spy = g.spy;
+  var __spyHead = g.__spyHead;
+  if (!g.requestIdleCallback) {
+    g.requestIdleCallback = function(cb) {
+      const start = Date.now();
+      return setTimeout(() => {
+        cb({
+          didTimeout: false,
+          timeRemaining() {
+            return Math.max(0, 50 - (Date.now() - start));
+          }
+        });
+      }, 1);
+    };
+  }
+  var uaInfo = getUserAgentInfo();
+  var queryParams = getQueryParams(window.location.href);
+  var pathname = window.location.pathname;
+  var isMajor = /major\//.test(pathname);
+  var timingSample = isMajor ? 1 : 0.5;
+  var framework = g.__FRAMEWORK__ || "atom";
+  var logId = g.logId || "";
+  var pid = g.pid || "";
+  if (__spyHead) {
+    __spyHead.__common_dim = {
+      tab: queryParams.tab,
+      from: queryParams.from,
+      pathname,
+      isMajor,
+      os: uaInfo.isAndroid ? "android" : uaInfo.isIOS ? "ios" : "unknown",
+      appname: uaInfo.isBaiduBox ? uaInfo.isBaiduBoxLite ? "baiduboxlite" : "baiduboxapp" : "unknown",
+      logId,
+      framework,
+      width: getViewportSize().width,
+      height: getViewportSize().height
+    };
+    __spyHead.__common_info = {
+      errorHref: window.location.href,
+      referrer: document.referrer,
+      logId,
+      sessionId: Date.now()
+    };
+  }
+  var RESOURCE_ERROR_TYPE = {
+    DEFAULT: 1,
+    BIG_IMG: 2,
+    HTTP: 3
+  };
+  var mergeCommonData = (data = {}) => {
+    const dim = _extends(
+      {},
+      data.dim || {},
+      (__spyHead == null ? void 0 : __spyHead.__common_dim) || {}
+    );
+    const info = _extends(
+      {},
+      data.info || {},
+      (__spyHead == null ? void 0 : __spyHead.__common_info) || {}
+    );
+    return { dim, info };
+  };
+  var shouldIgnore = (msg, list) => {
+    return typeof msg === "string" && list.some((item) => msg.includes(item));
+  };
+  var initSpy = () => {
+    if (!spy) {
+      return;
+    }
+    const wrapResourceError = (type, extraDim = {}) => (info) => {
+      const base = { dim: _extends({ resourceError: type }, extraDim), info };
+      const { dim, info: finalInfo } = mergeCommonData(base);
+      spy.sendExcept({
+        group: getSpyGroupName("ssr-resource", isMajor),
+        info: _extends({}, dim, finalInfo),
+        dim
+      });
+    };
+    spy.listenHttpResource(
+      wrapResourceError(
+        RESOURCE_ERROR_TYPE.HTTP,
+        { httpResource: 1 }
+      )
+    );
+    spy.listenBigImg(
+      wrapResourceError(
+        RESOURCE_ERROR_TYPE.BIG_IMG,
+        { bigImg: 1, maxSize: 153600 }
+      )
+    );
+    const perfMetrics = [
+      {
+        method: "listenTiming",
+        group: "common",
+        sample: timingSample
+      },
+      {
+        method: "listenLCP",
+        group: "lcp"
+      },
+      {
+        method: "listenFID",
+        group: "fid"
+      },
+      {
+        method: "listenTTI",
+        group: "tti"
+      }
+    ];
+    perfMetrics.forEach((item) => {
+      const {
+        method,
+        group,
+        sample
+      } = item;
+      if (typeof spy[method] === "function") {
+        spy[method]((metric) => {
+          spy.sendPerf({
+            dim: __spyHead.__common_dim,
+            info: metric,
+            group: getSpyGroupName(group, isMajor),
+            sample: sample != null ? sample : timingSample
+          });
+        });
+      }
+    });
+  };
+  var initSpyHead = () => {
+    if (!__spyHead) {
+      return;
+    }
+    const IGNORE_JS_ERRORS = [
+      "Empty msg",
+      "Script error",
+      "Load failed",
+      "Failed to fetch"
+    ];
+    const IGNORE_RESOURCE_URLS = [
+      "https://hm.baidu.com/hm.js"
+    ];
+    __spyHead.init({
+      pid,
+      lid: logId,
+      resourceError: {
+        group: getSpyGroupName("ssr-resource", isMajor),
+        sample: 0.2,
+        handler: function(data) {
+          var _a;
+          if (shouldIgnore(((_a = data == null ? void 0 : data.info) == null ? void 0 : _a.msg) || "", IGNORE_RESOURCE_URLS)) {
+            return false;
+          }
+          const {
+            dim,
+            info
+          } = mergeCommonData(data);
+          data.dim = _extends({ resourceError: 1 }, dim);
+          data.info = _extends({ resourceError: 1 }, info);
+          return !(document && document.hidden === true);
+        }
+      },
+      jsError: {
+        group: getSpyGroupName("ssr-js", isMajor),
+        sample: 0.1,
+        handler: function(data) {
+          var _a;
+          const msg = ((_a = data == null ? void 0 : data.info) == null ? void 0 : _a.msg) || "";
+          if (shouldIgnore(msg, IGNORE_JS_ERRORS)) {
+            return false;
+          }
+          const {
+            dim,
+            info
+          } = mergeCommonData(data);
+          data.dim = _extends(
+            {
+              jsError: 1,
+              timeout: spyMsgHasVal(msg, "timed out"),
+              failed: spyMsgHasVal(msg, "failed")
+            },
+            dim
+          );
+          data.info = _extends({ jsError: 1 }, info);
+          return !(document && document.hidden === true);
+        }
+      },
+      whiteScreenError: {
+        sample: 1,
+        group: "whiteScreen",
+        selector: "body",
+        subSelector: "#sfr-app",
+        timeout: 6e3,
+        handler: function(data) {
+          if (data == null ? void 0 : data.info) {
+            data.info.errorHref = window.location.href;
+            data.info.referrer = document.referrer;
+          }
+        }
+      }
+    });
+  };
+  initSpy();
+  initSpyHead();
+  var globalExport = {
+    ONLINE_HOSTS,
+    isOnlineHost,
+    _extends,
+    getViewportSize,
+    getUserAgentInfo,
+    spyMsgHasVal,
+    getQueryParams,
+    getSpyGroupName,
+    uaInfo,
+    queryParams,
+    pathname,
+    isMajor,
+    timingSample
+  };
+  try {
+    Object.defineProperty(g, GLOBAL_KEY, {
+      value: globalExport,
+      writable: false,
+      configurable: false
+    });
+  } catch (e) {
+    g[GLOBAL_KEY] = globalExport;
+  }
+})();
+</script></head>
+<body class="cos-pc  cos-h5  ">
+<script>
+    // 百度统计
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?683d24730e43da058ee3a288d5f07d07";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+<div id=sfr-app>
+    <div class="wa-tiyu-page-container c-response-container" style=-webkit-text-size-adjust:none>
+        <div class=wa-tiyu-home-container>
+            
+            <div id=app><main><!--s-data:{"ua":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36","title":"百度体育直播 捷克 vs 南非 今天 00:00_百度体育","description":"百度体育聚合全网体育赛事信息，覆盖最新的赛事资讯、数据、直播等内容，主要包括NBA、CBA、中超、五大联赛、欧冠、LPL等赛事…","isBigText":false,"isDarkMode":false,"isBdLite":false,"isWonderApp":false,"clientUA":"mozilla/5.0 (macintosh; intel mac os x 10_15_7) applewebkit/537.36 (khtml, like gecko) chrome/149.0.0.0 safari/537.36","isRealBaiDuBoxApp":null,"isBaiDuBoxApp":null,"isArkWeb":false,"isBaiduBoxOnArk":false,"isArkBrowser":false,"isHonorBrowserApp":null,"isBaiDuLite":false,"version":"","isSwan":false,"isIos":false,"isIPhone":false,"isIPod":false,"isIPad":false,"isAndroid":false,"isJumpNaOne":false,"isJumpNaTwo":false,"isTalosSafeVersion":false,"naCondition":false,"clientEnv":"pc","data":{"current":4,"header":{"bgColor":"#1678F2","bgimg":"https://gips0.baidu.com/it/u=3616645891,2930665822&fm=3028&app=3028&f=PNG&fmt=auto&q=94&size=f2670_927","category":"football","dataSourceText":"已结束","date":"今天","dateFormat":"今天 00:00","endColor":"#1678F2","extInfo":{"chatNoMsg":{"img":"","text":["欢迎进入聊天室！","成为这个聊天室第一个发言的人吧"]},"chatTopBgimg":"https://gips3.baidu.com/it/u=1171802240,261847399&fm=3028&app=3028&f=PNG&fmt=auto&q=75&size=f345_177","chatTopBgimgBlack":"https://gips3.baidu.com/it/u=1171802240,261847399&fm=3028&app=3028&f=PNG&fmt=auto&q=75&size=f345_177","chatTopFoldIcon":"https://gips0.baidu.com/it/u=2014363711,1622719265&fm=3028&app=3028&f=PNG&fmt=auto&q=100&size=f177_177","chatTopFoldIconBlack":"https://gips1.baidu.com/it/u=2827437416,1183873569&fm=3028&app=3028&f=PNG&fmt=auto&q=100&size=f177_177","graphicChatBgimg":"https://gips3.baidu.com/it/u=324247832,3557076619&fm=3028&app=3028&f=PNG&fmt=auto&q=75&size=f1158_294","graphicTopBgimg":"https://gips2.baidu.com/it/u=3254747625,3568831763&fm=3028&app=3028&f=PNG&fmt=auto&q=100&size=f345_150","graphicTopBgimgBlack":"https://gips2.baidu.com/it/u=3254747625,3568831763&fm=3028&app=3028&f=PNG&fmt=auto&q=100&size=f345_150"},"game":"世界杯","hasFlash":false,"hasFreeLive":false,"hasGraphic":false,"hasJijin":false,"hasLive":false,"hasLiveOrFlash":true,"hasPreviewLive":false,"hasVipLive":false,"highlightsInfo":null,"hot":"21","iconUrl":"https://search-operate.cdn.bcebos.com/63ed462184321dbb822bfc14a2b355b6.png","key":"5LiW55WM5p2vIzIwMjYtMDYtMTkj5Li56bqmL%2BaNt%2BWFiyspritniLHlsJTlhbAv5YyX6ams5YW26aGspritdnPljZfpnZ4%3D","leftGoal":"1","leftLogo":{"baiduBoxUri":"baiduboxapp://browser/invokeSportTeamDetail?params=%7B%22teamId%22%3A%22bd0c6be1d4f081864fd88755b05c4f49%22%7D","baiduBoxUri2":"","isFlagStrange1":false,"isFlagStrange2":false,"link":"/al/team?id=bd0c6be1d4f081864fd88755b05c4f49","link2":"","logo":"https://gips3.baidu.com/it/u=2347456389,963830118&fm=3028&app=3028&f=PNG&fmt=auto&q=100&size=f250_167","logo2":"","logoIsRound":false,"name":"捷克","name2":"","nationalFlag1":"","nationalFlag2":"","ori_name":"捷克","rankInfo1":{"baiduBoxUri":"","link":"","text":"世界排名40"},"score":"","stroke":0},"liveStage":"","liveStageText":"","liveStageTime":"","matchDesc":"世界杯小组赛A组第2轮","matchDescription":"","matchLink":"/al/match?match=%E4%B8%96%E7%95%8C%E6%9D%AF","matchName":"世界杯","matchStage":"小组赛A组第2轮","matchStatus":"2","matchStatusText":"已结束","pcBgimg":"https://gips0.baidu.com/it/u=3616645891,2930665822&fm=3028&app=3028&f=PNG&fmt=auto&q=94&size=f2670_927","pcDataSourceText":"已结束","pcHasFlash":false,"pcHasFreeLive":false,"pcHasLive":true,"pcHasLiveOrFlash":true,"pcHasPreviewLive":false,"pcHasVipLive":false,"pcText":"已结束","plaintext_key":"世界杯#2026-06-19#丹麦/捷克/爱尔兰/北马其顿vs南非","rawKey":"世界杯#2026-06-19#丹麦/捷克/爱尔兰/北马其顿vs南非","refreshInterval":"5000","rightGoal":"1","rightLogo":{"baiduBoxUri":"baiduboxapp://browser/invokeSportTeamDetail?params=%7B%22teamId%22%3A%22dc7f9fdc795728d06adc20867070e73b%22%7D","baiduBoxUri2":"","isFlagStrange1":false,"isFlagStrange2":false,"link":"/al/team?id=dc7f9fdc795728d06adc20867070e73b","link2":"","logo":"https://gips2.baidu.com/it/u=1871870758,2630787962&fm=3028&app=3028&f=PNG&fmt=auto&q=100&size=f960_641","logo2":"","logoIsRound":false,"name":"南非","name2":"","nationalFlag1":"","nationalFlag2":"","ori_name":"南非","rankInfo1":{"baiduBoxUri":"","link":"","text":"世界排名60"},"score":"","stroke":0},"scoreInfo":{"leftBigScore":"","leftPenaltyScore":"","leftRegularScore":"1","leftTwoRoundScore":"","penaltyScoreText":"","rightBigScore":"","rightPenaltyScore":"","rightRegularScore":"1","rightTwoRoundScore":"","twoRoundScoreText":""},"single":false,"sports":"football","startColor":"#1678F2","status":"2","subscribeText":"点击订阅，获取最新比赛动态","time":"00:00","timestamp":1781798400,"timestamp_diff":-63382,"vs":"1-1","weekday":"周五","winner":"","wiseDataSourceText":"已结束","wiseHasFlash":false,"wiseHasFreeLive":false,"wiseHasLive":true,"wiseHasLiveOrFlash":true,"wiseHasPreviewLive":false,"wiseHasVipLive":false,"wiseText":"已结束","word":"世界杯 捷克 南非","year":""},"pcLiveList":[{"category":"动画直播","commentator":"","feijingMatchId":"4460939","free":true,"has":true,"headIfarmeLive":"1","icon":"","immerse":"1","index":30,"link":"https://tiyu.baidu.com/al/live/detail?matchId=5LiW55WM5p2vIzIwMjYtMDYtMTkj5Li56bqmL%2BaNt%2BWFiyspritniLHlsJTlhbAv5YyX6ams5YW26aGspritdnPljZfpnZ4%3D&tab=聊天&immerse=1","liveId":"feijing_4460939","logo":"https://gimg3.baidu.com/lego/src=http%3A%2F%2Fstatic.open.baidu.com%2Fmedia%2Fch16%2Fpng%2Fbaidulogo.png&refer=http%3A%2F%2Fwww.baidu.com&app=2009&size=w931&n=0&g=0n&er=404&q=75&fmt=auto&maxorilen2heic=2000000?sec=1781974800&t=00a1357f01b658537cec0c1156b143e3","miniProgramUrl":"","name":"百度体育（动画）","recommend":false,"sourceId":"","to":"in","type":3,"vipLive":false,"xcxUrl":""}],"tabs":["分析","阵容","聊天","球员评分","赛况","统计","指数","视频"],"tabsList":[{"title":"分析"},{"gamingType":"","sports":"football","title":"阵容"},{"chatGraphic":"0","chatRoomId":10900631139,"hot":0,"isNewChat":1,"liveGraphicList":null,"open":true,"show":null,"title":"聊天"},{"gamingType":"","sports":"football","title":"球员评分"},{"data":{"events":{"title":"","list":null},"graphic_incidents":{"title":"赛事事件","graphic":[{"word":"本场比赛结束，最终比分为1-1，感谢大家关注，下次再会！","time":"","teamName":"","icon_type":"结束","position":"0"},{"word":"90' - 随着裁判一声哨响，下半场结束，目前比分1-1","time":"90'","teamName":"","icon_type":"结束","position":"0"},{"word":"90+7' - 第24个射偏 - (南非)","time":"90+7'","teamName":"南非","icon_type":"射偏","position":"2"},{"word":"90+7' - 第23个射偏 - (南非)","time":"90+7'","teamName":"南非","icon_type":"射偏","position":"2"},{"word":"90+7' - 第10个角球，本场比赛的第十个角球已经产生！","time":"90+7'","teamName":"南非","icon_type":"角球","position":"2"},{"word":"90+6' - 第7个射正 - (南非)","time":"90+6'","teamName":"南非","icon_type":"射正","position":"2"},{"word":"90+4' - 第22个射偏 - (捷克)","time":"90+4'","teamName":"捷克","icon_type":"射偏","position":"1"},{"word":"90+1' - 第21个射偏 - (捷克)","time":"90+1'","teamName":"捷克","icon_type":"射偏","position":"1"},{"word":"90+1' - 第5个越位 - (捷克)","time":"90+1'","teamName":"捷克","icon_type":"越位","position":"1"},{"word":"90+1' - 第9个角球 - (捷克)","time":"90+1'","teamName":"捷克","icon_type":"角球","position":"1"},{"word":"90' - 第20个射偏 - (捷克)","time":"90'","teamName":"捷克","icon_type":"射偏","position":"1"},{"word":"88' - 第6个射正 - (南非)","time":"88'","teamName":"南非","icon_type":"射正","position":"2"},{"word":"86' - 第19个射偏 - (南非)","time":"86'","teamName":"南非","icon_type":"射偏","position":"2"},{"word":"85' - 南非换人，塞贝莱贝莱↑ 马塞科↓","time":"85'","teamName":"南非","icon_type":"换人","position":"2"},{"word":"83' - 第5个射正 - (南非)","time":"83'","teamName":"南非","icon_type":"射正","position":"2"},{"word":"83' - 第2个进球 - 莫科纳(南非) - 点球","time":"83'","teamName":"南非","icon_type":"进球","position":"2"},{"word":"81' - 第18个射偏 - (南非)","time":"81'","teamName":"南非","icon_type":"射偏","position":"2"},{"word":"78' - 捷克换人，齐马↑ 切尔夫↓","time":"78'","teamName":"捷克","icon_type":"换人","position":"1"},{"word":"76' - 第17个射偏 - (南非)","time":"76'","teamName":"南非","icon_type":"射偏","position":"2"},{"word":"76' - 第3张黄牌 - 克雷伊奇(捷克)","time":"76'","teamName":"捷克","icon_type":"黄牌","position":"1"},{"word":"74' - 第4个射正 - (南非)","time":"74'","teamName":"南非","icon_type":"射正","position":"2"},{"word":"68' - 第16个射偏 - (捷克)","time":"68'","teamName":"捷克","icon_type":"射偏","position":"1"},{"word":"68' - 捷克换人，普罗沃德↑ 赫洛热克↓","time":"68'","teamName":"捷克","icon_type":"换人","position":"1"},{"word":"68' - 捷克换人，绍切克↑ 萨迪莱克↓","time":"68'","teamName":"捷克","icon_type":"换人","position":"1"},{"word":"67' - 南非换人，马戈帕↑ 雷纳斯↓","time":"67'","teamName":"南非","icon_type":"换人","position":"2"},{"word":"62' - 第4个越位 - (南非)","time":"62'","teamName":"南非","icon_type":"越位","position":"2"},{"word":"60' - 第15个射偏 - (南非)","time":"60'","teamName":"南非","icon_type":"射偏","position":"2"},{"word":"59' - 第14个射偏 - (捷克)","time":"59'","teamName":"捷克","icon_type":"射偏","position":"1"},{"word":"55' - 捷克换人，舒尔茨↑ 达里达↓","time":"55'","teamName":"捷克","icon_type":"换人","position":"1"},{"word":"55' - 捷克换人，泽勒尼↑ 索伊卡↓","time":"55'","teamName":"捷克","icon_type":"换人","position":"1"},{"word":"54' - 第13个射偏 - (南非)","time":"54'","teamName":"南非","icon_type":"射偏","position":"2"},{"word":"53' - 第12个射偏 - (捷克)","time":"53'","teamName":"捷克","icon_type":"射偏","position":"1"},{"word":"53' - 第8个角球 - (捷克)","time":"53'","teamName":"捷克","icon_type":"角球","position":"1"},{"word":"50' - 第11个射偏 - (南非)","time":"50'","teamName":"南非","icon_type":"射偏","position":"2"},{"word":"49' - 第7个角球 - (南非)","time":"49'","teamName":"南非","icon_type":"角球","position":"2"},{"word":"48' - 第3个射正 - (捷克)","time":"48'","teamName":"捷克","icon_type":"射正","position":"1"},{"word":"48' - 第6个角球 - (捷克)","time":"48'","teamName":"捷克","icon_type":"角球","position":"1"},{"word":"47' - 第10个射偏 - (捷克)","time":"47'","teamName":"捷克","icon_type":"射偏","position":"1"},{"word":"47' - 第2个射正 - (捷克)","time":"47'","teamName":"捷克","icon_type":"射正","position":"1"},{"word":"46' - 南非换人，莫福肯↑ 亚当斯↓","time":"46'","teamName":"南非","icon_type":"换人","position":"2"},{"word":"45' - 随着裁判一声哨响，上半场结束，目前比分1-0","time":"45'","teamName":"","icon_type":"中场","position":"0"},{"word":"45+4' - 第9个射偏 - (南非)","time":"45+4'","teamName":"南非","icon_type":"射偏","position":"2"},{"word":"45' - 第8个射偏 - (南非)","time":"45'","teamName":"南非","icon_type":"射偏","position":"2"},{"word":"44' - 第5个角球 - (南非)","time":"44'","teamName":"南非","icon_type":"角球","position":"2"},{"word":"42' - 第3个越位 - (南非)","time":"42'","teamName":"南非","icon_type":"越位","position":"2"},{"word":"41' - 第7个射偏 - (捷克)","time":"41'","teamName":"捷克","icon_type":"射偏","position":"1"},{"word":"41' - 第2张黄牌 - 姆巴塔(南非)","time":"41'","teamName":"南非","icon_type":"黄牌","position":"2"},{"word":"37' - 第4个角球 - (南非)","time":"37'","teamName":"南非","icon_type":"角球","position":"2"},{"word":"36' - 第2个越位 - (南非)","time":"36'","teamName":"南非","icon_type":"越位","position":"2"},{"word":"33' - 第1张黄牌，裁判出示了本场比赛的第一张黄牌，给了南非","time":"33'","teamName":"南非","icon_type":"黄牌","position":"2"},{"word":"22' - 第6个射偏 - (南非)","time":"22'","teamName":"南非","icon_type":"射偏","position":"2"},{"word":"13' - 第5个射偏 - (南非)","time":"13'","teamName":"南非","icon_type":"射偏","position":"2"},{"word":"13' - 第3个角球 - (南非)","time":"13'","teamName":"南非","icon_type":"角球","position":"2"},{"word":"12' - 第4个射偏 - (南非)","time":"12'","teamName":"南非","icon_type":"射偏","position":"2"},{"word":"9' - 第1个越位 - (捷克)","time":"9'","teamName":"捷克","icon_type":"越位","position":"1"},{"word":"6' - 第1个射正 - (捷克)","time":"6'","teamName":"捷克","icon_type":"射正","position":"1"},{"word":"6' - 第1个进球！球进啦！萨迪莱克(捷克 射门 (助攻: 索伊卡))取得本场比赛领先！","time":"6'","teamName":"捷克","icon_type":"进球","position":"1"},{"word":"5' - 第3个射偏 - (捷克)","time":"5'","teamName":"捷克","icon_type":"射偏","position":"1"},{"word":"5' - 第2个射偏 - (捷克)","time":"5'","teamName":"捷克","icon_type":"射偏","position":"1"},{"word":"5' - 第2个角球 - (捷克)","time":"5'","teamName":"捷克","icon_type":"角球","position":"1"},{"word":"3' - 3分钟，捷克获得本场第1个角球","time":"3'","teamName":"捷克","icon_type":"角球","position":"1"},{"word":"1' - 第1个射偏 - (捷克)","time":"1'","teamName":"捷克","icon_type":"射偏","position":"1"},{"word":"本场比赛主裁判：彭索","time":"0'","teamName":"","icon_type":"未知","position":"0"},{"word":"本场比赛边裁：梅奥、内斯比特；第四官员：卡瓦纳‑沃；VAR裁判：古斯曼；VAR助理裁判：迪克森、哈迪姆","time":"0'","teamName":"","icon_type":"未知","position":"0"},{"word":"随着主裁判一声哨响，上半场比赛开始","time":"","teamName":"","icon_type":"比赛开始","position":"0"},{"word":"本场比赛天气情况：阴","time":"","teamName":"","icon_type":"未知","position":"0"},{"word":"本场比赛场地情况：一般","time":"","teamName":"","icon_type":"未知","position":"0"},{"word":"大家好，欢迎收看本场比赛直播，球员们正在热身，比赛即将开始","time":"","teamName":"","icon_type":"未知","position":"0"}],"incidents":[{"type":"end"},{"type":"结束","text":"结束 1-1","goaltype":"结束","passedTime":"90'","sortTime":5400,"right":{"direction":"right","teamName":"南非"}},{"type":"伤停补时","goaltype":"伤停补时","passedTime":"90'","sortTime":5400,"right":{"direction":"right","teamName":"南非"}},{"goaltype":"换人","passedTime":"84'","sortTime":5040,"right":{"direction":"right","teamName":"南非","change":[{"down":"塔佩洛·马塞科","down_out_url":"https://tiyu.baidu.com/al/player?id=b5aa6a2f90e6b8f80c1e8f61be058a1f&tab=%E8%B5%84%E6%96%99","down_in_url":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%22b5aa6a2f90e6b8f80c1e8f61be058a1f%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Db5aa6a2f90e6b8f80c1e8f61be058a1f%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Db5aa6a2f90e6b8f80c1e8f61be058a1f%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Db5aa6a2f90e6b8f80c1e8f61be058a1f%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D","up":"卡莫赫洛·塞贝莱贝莱","up_out_url":"https://tiyu.baidu.com/al/player?id=e481483771d3f49f0e618df81508dc15&tab=%E8%B5%84%E6%96%99","up_in_url":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%22e481483771d3f49f0e618df81508dc15%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3De481483771d3f49f0e618df81508dc15%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3De481483771d3f49f0e618df81508dc15%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3De481483771d3f49f0e618df81508dc15%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D"}]}},{"goaltype":"点球","passedTime":"83'","sortTime":4980,"right":{"direction":"right","teamName":"南非","goal":[{"playerName":"泰博霍·莫科纳","outPlayerNameUrl":"https://tiyu.baidu.com/al/player?id=af7b62695a7920592d847146dd0f6feb&tab=%E8%B5%84%E6%96%99","inPlayerNameUrl":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%22af7b62695a7920592d847146dd0f6feb%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Daf7b62695a7920592d847146dd0f6feb%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Daf7b62695a7920592d847146dd0f6feb%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Daf7b62695a7920592d847146dd0f6feb%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D","vs":"1-1","outAssistPlayerNameUrl":"","inAssistPlayerNameUrl":"","goal":true}]}},{"goaltype":"换人","passedTime":"78'","sortTime":4680,"left":{"direction":"left","teamName":"捷克","change":[{"down":"卢卡什·切尔夫","down_out_url":"https://tiyu.baidu.com/al/player?id=488fc14c66c3d4db3edfbe87f9d6a86b&tab=%E8%B5%84%E6%96%99","down_in_url":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%22488fc14c66c3d4db3edfbe87f9d6a86b%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D488fc14c66c3d4db3edfbe87f9d6a86b%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D488fc14c66c3d4db3edfbe87f9d6a86b%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D488fc14c66c3d4db3edfbe87f9d6a86b%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D","up":"达维德·齐马","up_out_url":"https://tiyu.baidu.com/al/player?id=d4bd331b1aa34c41c9bb2953e565ad30&tab=%E8%B5%84%E6%96%99","up_in_url":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%22d4bd331b1aa34c41c9bb2953e565ad30%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Dd4bd331b1aa34c41c9bb2953e565ad30%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Dd4bd331b1aa34c41c9bb2953e565ad30%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Dd4bd331b1aa34c41c9bb2953e565ad30%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D"}]}},{"goaltype":"黄牌","passedTime":"75'","sortTime":4500,"left":{"direction":"left","teamName":"捷克","playerName":["拉吉斯拉夫·克雷伊奇"],"outPlayerNameUrl":["https://tiyu.baidu.com/al/player?id=a7548a08f77029053833f7230fa7211a&tab=%E8%B5%84%E6%96%99"],"inPlayerNameUrl":["baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%22a7548a08f77029053833f7230fa7211a%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Da7548a08f77029053833f7230fa7211a%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Da7548a08f77029053833f7230fa7211a%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Da7548a08f77029053833f7230fa7211a%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D"]}},{"goaltype":"换人","passedTime":"67'","sortTime":4020,"left":{"direction":"left","teamName":"捷克","change":[{"down":"米哈尔·萨迪莱克","down_out_url":"https://tiyu.baidu.com/al/player?id=dde17648cc5577b02d800c1e5a1c2682&tab=%E8%B5%84%E6%96%99","down_in_url":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%22dde17648cc5577b02d800c1e5a1c2682%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Ddde17648cc5577b02d800c1e5a1c2682%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Ddde17648cc5577b02d800c1e5a1c2682%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Ddde17648cc5577b02d800c1e5a1c2682%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D","up":"托马什·绍切克","up_out_url":"https://tiyu.baidu.com/al/player?id=ebe01358e6a7001783d5b45e7dea4dd5&tab=%E8%B5%84%E6%96%99","up_in_url":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%22ebe01358e6a7001783d5b45e7dea4dd5%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Debe01358e6a7001783d5b45e7dea4dd5%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Debe01358e6a7001783d5b45e7dea4dd5%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Debe01358e6a7001783d5b45e7dea4dd5%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D"}]}},{"goaltype":"换人","passedTime":"67'","sortTime":4020,"left":{"direction":"left","teamName":"捷克","change":[{"down":"亚当·赫洛热克","down_out_url":"https://tiyu.baidu.com/al/player?id=ba3e596fe8efd53b304c4108f80cfc3e&tab=%E8%B5%84%E6%96%99","down_in_url":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%22ba3e596fe8efd53b304c4108f80cfc3e%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Dba3e596fe8efd53b304c4108f80cfc3e%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Dba3e596fe8efd53b304c4108f80cfc3e%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Dba3e596fe8efd53b304c4108f80cfc3e%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D","up":"卢卡什·普罗沃德","up_out_url":"https://tiyu.baidu.com/al/player?id=67760dc74314ad10a8d1e8857dc92aa0&tab=%E8%B5%84%E6%96%99","up_in_url":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%2267760dc74314ad10a8d1e8857dc92aa0%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D67760dc74314ad10a8d1e8857dc92aa0%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D67760dc74314ad10a8d1e8857dc92aa0%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D67760dc74314ad10a8d1e8857dc92aa0%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D"}]}},{"goaltype":"换人","passedTime":"66'","sortTime":3960,"right":{"direction":"right","teamName":"南非","change":[{"down":"伊克拉姆·雷纳斯","down_out_url":"https://tiyu.baidu.com/al/player?id=9f268b1e3052529b6e4c69d2477ac279&tab=%E8%B5%84%E6%96%99","down_in_url":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%229f268b1e3052529b6e4c69d2477ac279%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D9f268b1e3052529b6e4c69d2477ac279%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D9f268b1e3052529b6e4c69d2477ac279%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D9f268b1e3052529b6e4c69d2477ac279%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D","up":"埃维登斯·马戈帕","up_out_url":"https://tiyu.baidu.com/al/player?id=ddab361b9d6059753f5c83ff62807b16&tab=%E8%B5%84%E6%96%99","up_in_url":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%22ddab361b9d6059753f5c83ff62807b16%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Dddab361b9d6059753f5c83ff62807b16%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Dddab361b9d6059753f5c83ff62807b16%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Dddab361b9d6059753f5c83ff62807b16%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D"}]}},{"goaltype":"换人","passedTime":"55'","sortTime":3300,"left":{"direction":"left","teamName":"捷克","change":[{"down":"亚历山大·索伊卡","down_out_url":"https://tiyu.baidu.com/al/player?id=77380ada6a20f0ce9d08e9cc0c754717&tab=%E8%B5%84%E6%96%99","down_in_url":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%2277380ada6a20f0ce9d08e9cc0c754717%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D77380ada6a20f0ce9d08e9cc0c754717%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D77380ada6a20f0ce9d08e9cc0c754717%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D77380ada6a20f0ce9d08e9cc0c754717%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D","up":"亚罗斯拉夫·泽勒尼","up_out_url":"https://tiyu.baidu.com/al/player?id=08bf53f68adbc8f06b4031420a742451&tab=%E8%B5%84%E6%96%99","up_in_url":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%2208bf53f68adbc8f06b4031420a742451%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D08bf53f68adbc8f06b4031420a742451%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D08bf53f68adbc8f06b4031420a742451%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D08bf53f68adbc8f06b4031420a742451%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D"}]}},{"goaltype":"换人","passedTime":"55'","sortTime":3300,"left":{"direction":"left","teamName":"捷克","change":[{"down":"弗拉迪米尔·达里达","down_out_url":"https://tiyu.baidu.com/al/player?id=b9d78891e936ea918f6c48f8414c8a8f&tab=%E8%B5%84%E6%96%99","down_in_url":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%22b9d78891e936ea918f6c48f8414c8a8f%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Db9d78891e936ea918f6c48f8414c8a8f%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Db9d78891e936ea918f6c48f8414c8a8f%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Db9d78891e936ea918f6c48f8414c8a8f%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D","up":"帕维尔·舒尔茨","up_out_url":"https://tiyu.baidu.com/al/player?id=acce372ebcebf108a1852ff8642f5729&tab=%E8%B5%84%E6%96%99","up_in_url":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%22acce372ebcebf108a1852ff8642f5729%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Dacce372ebcebf108a1852ff8642f5729%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Dacce372ebcebf108a1852ff8642f5729%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Dacce372ebcebf108a1852ff8642f5729%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D"}]}},{"goaltype":"换人","passedTime":"46'","sortTime":2760,"right":{"direction":"right","teamName":"南非","change":[{"down":"杰登·亚当斯","down_out_url":"https://tiyu.baidu.com/al/player?id=3216f2559bef66b645d01be5eda75711&tab=%E8%B5%84%E6%96%99","down_in_url":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%223216f2559bef66b645d01be5eda75711%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D3216f2559bef66b645d01be5eda75711%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D3216f2559bef66b645d01be5eda75711%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3D3216f2559bef66b645d01be5eda75711%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D","up":"雷莱博海尔·莫福肯","up_out_url":"https://tiyu.baidu.com/al/player?id=c6460834d099ecdb0b3048c7415cfc6c&tab=%E8%B5%84%E6%96%99","up_in_url":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%22c6460834d099ecdb0b3048c7415cfc6c%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Dc6460834d099ecdb0b3048c7415cfc6c%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Dc6460834d099ecdb0b3048c7415cfc6c%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Dc6460834d099ecdb0b3048c7415cfc6c%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D"}]}},{"type":"伤停补时","goaltype":"伤停补时","passedTime":"45'","sortTime":2700,"right":{"direction":"right","teamName":"南非"}},{"goaltype":"黄牌","passedTime":"40'","sortTime":2400,"right":{"direction":"right","teamName":"南非","playerName":["塔伦特·姆巴塔"],"outPlayerNameUrl":["https://tiyu.baidu.com/al/player?id=e3dce75ffbbbe557ffd8a5fa1a8e09f6&tab=%E8%B5%84%E6%96%99"],"inPlayerNameUrl":["baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%22e3dce75ffbbbe557ffd8a5fa1a8e09f6%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3De3dce75ffbbbe557ffd8a5fa1a8e09f6%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3De3dce75ffbbbe557ffd8a5fa1a8e09f6%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3De3dce75ffbbbe557ffd8a5fa1a8e09f6%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D"]}},{"goaltype":"黄牌","passedTime":"33'","sortTime":1980,"right":{"direction":"right","teamName":"南非","playerName":["泰博霍·莫科纳"],"outPlayerNameUrl":["https://tiyu.baidu.com/al/player?id=af7b62695a7920592d847146dd0f6feb&tab=%E8%B5%84%E6%96%99"],"inPlayerNameUrl":["baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%22af7b62695a7920592d847146dd0f6feb%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Daf7b62695a7920592d847146dd0f6feb%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Daf7b62695a7920592d847146dd0f6feb%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Daf7b62695a7920592d847146dd0f6feb%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D"]}},{"goaltype":"进球","passedTime":"6'","sortTime":360,"left":{"direction":"left","teamName":"捷克","goal":[{"playerName":"米哈尔·萨迪莱克","outPlayerNameUrl":"https://tiyu.baidu.com/al/player?id=dde17648cc5577b02d800c1e5a1c2682&tab=%E8%B5%84%E6%96%99","inPlayerNameUrl":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%22dde17648cc5577b02d800c1e5a1c2682%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Ddde17648cc5577b02d800c1e5a1c2682%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Ddde17648cc5577b02d800c1e5a1c2682%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Ddde17648cc5577b02d800c1e5a1c2682%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D","vs":"1-0","outAssistPlayerNameUrl":"https://tiyu.baidu.com/al/player?id=77380ada6a20f0ce9d08e9cc0c754717&tab=%E8%B5%84%E6%96%99","inAssistPlayerNameUrl":"baiduboxapp://browser/invokeSportPlayerDetail?params=%7B%22playerId%22%3A%2277380ada6a20f0ce9d08e9cc0c754717%22%2C%22tabInfo%22%3A%7B%22loadUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Ddde17648cc5577b02d800c1e5a1c2682%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%5Cu0026from%3Dbaidu_shoubai_na%22%2C%22shareUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Ddde17648cc5577b02d800c1e5a1c2682%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%2C%22tabId%22%3A40%2C%22title%22%3A%22%E8%B5%84%E6%96%99%22%7D%7D&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Ftiyu.baidu.com%2Fal%2Fplayer%3Fid%3Ddde17648cc5577b02d800c1e5a1c2682%5Cu0026tab%3D%25E8%25B5%2584%25E6%2596%2599%22%7D","assistPlayerName":"亚历山大·索伊卡"}]}},{"type":"start"}],"venue":{"name":"亚特兰大体育场","city":"亚特兰大","capacity":"75000"},"events":[{"icon":"https://gips3.baidu.com/it/u=1623257296,3229670616&fm=3028&app=3028&f=PNG&fmt=auto&q=96&size=f42_42","txt":"进球"},{"icon":"https://gips2.baidu.com/it/u=186546118,2444023513&fm=3028&app=3028&f=PNG&fmt=auto&q=96&size=f42_42","txt":"射正"},{"icon":"https://gips0.baidu.com/it/u=2089679684,2161631010&fm=3028&app=3028&f=PNG&fmt=auto&q=96&size=f42_42","txt":"射偏"},{"icon":"https://gips2.baidu.com/it/u=378552814,3180367097&fm=3028&app=3028&f=PNG&fmt=auto&q=96&size=f42_42","txt":"点球"},{"icon":"https://gips0.baidu.com/it/u=2209962759,659710803&fm=3028&app=3028&f=PNG&fmt=auto&q=96&size=f42_42","txt":"点球未进"},{"icon":"https://gips3.baidu.com/it/u=4201483922,1533155453&fm=3028&app=3028&f=PNG&fmt=auto&q=96&size=f42_42","txt":"点球大战"},{"icon":"https://gips0.baidu.com/it/u=176755534,3825787326&fm=3028&app=3028&f=PNG&fmt=auto&q=96&size=f42_42","txt":"乌龙球"},{"icon":"https://gips2.baidu.com/it/u=1032959883,1409644826&fm=3028&app=3028&f=PNG&fmt=auto&q=96&size=f42_42","txt":"助攻"},{"icon":"https://gips2.baidu.com/it/u=1181162153,2900628859&fm=3028&app=3028&f=PNG&fmt=auto&q=96&size=f42_42","txt":"角球"},{"icon":"https://gips3.baidu.com/it/u=3015608131,3478480768&fm=3028&app=3028&f=PNG&fmt=auto&q=96&size=f42_42","txt":"黄牌"},{"icon":"https://gips3.baidu.com/it/u=2891018693,3576086173&fm=3028&app=3028&f=PNG&fmt=auto&q=96&size=f42_42","txt":"红牌"},{"icon":"https://gips3.baidu.com/it/u=1202393231,3033611241&fm=3028&app=3028&f=PNG&fmt=auto&q=96&size=f42_42","txt":"受伤换人"},{"icon":"https://gips2.baidu.com/it/u=3883211729,580851780&fm=3028&app=3028&f=PNG&fmt=auto&q=96&size=f42_42","txt":"换人"},{"icon":"https://gips0.baidu.com/it/u=2591770614,4144270395&fm=3028&app=3028&f=PNG&fmt=auto&q=96&size=f42_42","txt":"两黄变红"},{"icon":"https://gips0.baidu.com/it/u=1032339115,3426062636&fm=3028&app=3028&f=PNG&fmt=auto&q=96&size=f42_42","txt":"VAR"}],"asyn_url":{"url":"/al/api/liveDetail/liveTextBroadcastAndIncident?matchKey=5LiW55WM5p2vIzIwMjYtMDYtMTkj5Li56bqmL%2BaNt%2BWFiyspritniLHlsJTlhbAv5YyX6ams5YW26aGspritdnPljZfpnZ4%3D","time":"0"},"pageAnchoring":true}},"gamingType":"","hasTabData":true,"sports":"football","title":"赛况"},{"gamingType":"","sports":"football","title":"统计"},{"sports":"football","title":"指数"},{"title":"视频"}],"wiseLiveList":[{"category":"动画直播","commentator":"","feijingMatchId":"4460939","free":true,"has":true,"headIfarmeLive":"1","icon":"","immerse":"1","index":30,"link":"https://tiyu.baidu.com/al/live/detail?matchId=5LiW55WM5p2vIzIwMjYtMDYtMTkj5Li56bqmL%2BaNt%2BWFiyspritniLHlsJTlhbAv5YyX6ams5YW26aGspritdnPljZfpnZ4%3D&tab=聊天&immerse=1","liveId":"feijing_4460939","logo":"https://gimg3.baidu.com/lego/src=http%3A%2F%2Fstatic.open.baidu.com%2Fmedia%2Fch16%2Fpng%2Fbaidulogo.png&refer=http%3A%2F%2Fwww.baidu.com&app=2009&size=w931&n=0&g=0n&er=404&q=75&fmt=auto&maxorilen2heic=2000000?sec=1781974800&t=00a1357f01b658537cec0c1156b143e3","miniProgramUrl":"","name":"百度体育（动画）","recommend":false,"sourceId":"","to":"in","type":3,"vipLive":false,"xcxUrl":""}],"version":""},"page":"detail","name":"livedetail","from":"baidu_tiyu","layout":"fixed","userInfo":{"info":null,"isLogin":false},"pageInfo":{"uri":"","url":"http://tiyu.baidu.com/al/live/detail?matchId=5LiW55WM5p2vIzIwMjYtMDYtMTkj5Li56bqmL%2BaNt%2BWFiyspritniLHlsJTlhbAv5YyX6ams5YW26aGspritdnPljZfpnZ4%3D&tab=%E8%B5%9B%E5%86%B5","env":"pc"},"pageUrl":"http://tiyu.baidu.com/al/live/detail?matchId=5LiW55WM5p2vIzIwMjYtMDYtMTkj5Li56bqmL%2BaNt%2BWFiyspritniLHlsJTlhbAv5YyX6ams5YW26aGspritdnPljZfpnZ4%3D&tab=%E8%B5%9B%E5%86%B5","isJumpNa":false,"expertText":"","liveTabText":"图文","isChatOn":false,"userInput":""}--> <section class="tiyu-page-bd_1WRjn">  <div class="c-result"> <div class="wa-live-detail-content_xRiLQ" data-click="{&quot;page&quot;:&quot;detail&quot;}"> <div class="wa-live-detail-body_g5qmt   "> <div top="0"> <div style="z-index: 120; top: 0px"> <div scope="props"> <div style="background: url(https://gips0.baidu.com/it/u=3616645891,2930665822&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=94&amp;size=f2670_927) top / 100% auto no-repeat; padding-bottom: 82px;" data-click="{&quot;mod&quot;:&quot;container&quot;}" id="live-detail-header-container" class="live-detail-header-container_3lD8p  live-detail-header-container-pc_1AHXR "> <!--s-frag--> <div class="info-time_mthz_">  <span>世界杯小组赛A组第2轮</span><span class="info-time-vertical-bar_3pFAg"></span><span>今天 00:00</span>  </div> <div class="live-detail-header_2UHNC"> <div class="header-team_rVzYo  header-height_2_2EY"> <div class="c-blocka" href="https://tiyu.baidu.com/al/team?id=bd0c6be1d4f081864fd88755b05c4f49" data-sf-href="/al/team?id=bd0c6be1d4f081864fd88755b05c4f49" data-logoIsRound="false" data-click="{&quot;act&quot;: &quot;a_leftteam&quot;}"> <div class="header-logo-wrap_uNgYG"> <div class="header-team-logo-wrap_1MIx5 "> <a href="https://tiyu.baidu.com/al/team?id=bd0c6be1d4f081864fd88755b05c4f49" data-click="{&quot;act&quot;:&quot;a_live_detail_logo&quot;,&quot;url&quot;:&quot;/al/team?id=bd0c6be1d4f081864fd88755b05c4f49&quot;}" class="header-team-logo_1Y7y6  pc-hover_1nKug" style="z-index: 1; background-image:url(https://gips3.baidu.com/it/u=2347456389,963830118&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=100&amp;size=f250_167); border-color: #1678F2" data-sf-href="/al/team?id=bd0c6be1d4f081864fd88755b05c4f49">  </a>  </div> </div> <div class="header-team-name__hNoj"> <div class="team-name_VCvtd team-name1_2k21A c-line-clamp1 only-team-name1_3cmzX">捷克</div>    </div> <div class="header-team-rank_2CKg4"> <div class="team-rank_26oJC team-rank1_3gqZd only-team-rank1_2gK8T "> <div class="rank-info-text_2fV_O">世界排名40</div> </div>   </div> </div> </div> <div class="header-info_XpTnt"> <div style="margin-top: .57rem" class="info-vs_aLqVt"> <div class="vs-score_193MQ after-race_1Hni9"> <span class=" cos-flex cos-items-center cos-justify-center">  <div id="box" style=";display:none;"> <div id="staticData"> 0 </div> </div><div id="box" style=";display:none;"> <div id="staticData"> 0 </div> </div><div id="box"> <div id="staticData"> 1 </div> </div> </span> <span class="minus-icon_jJV5q">-</span> <span class=" cos-flex cos-items-center cos-justify-center"> <div id="box"> <div id="staticData"> 1 </div> </div><div id="box" style=";display:none;"> <div id="staticData"> 0 </div> </div><div id="box" style=";display:none;"> <div id="staticData"> 0 </div> </div>  </span> </div> </div> <div style="margin-top: .21rem" class="info-status_2bvCF">  <span class="status-text_3Ztsn status-text-finish_1Z5Tf">已结束</span>  </div> </div> <div class="header-team_rVzYo  header-height_2_2EY"> <div class="c-blocka" href="https://tiyu.baidu.com/al/team?id=dc7f9fdc795728d06adc20867070e73b" data-sf-href="/al/team?id=dc7f9fdc795728d06adc20867070e73b" data-logoIsRound="false" data-click="{&quot;act&quot;: &quot;a_rightteam&quot;}"> <div class="header-logo-wrap_uNgYG"> <div class="header-team-logo-wrap_1MIx5 "> <a href="https://tiyu.baidu.com/al/team?id=dc7f9fdc795728d06adc20867070e73b" data-click="{&quot;act&quot;:&quot;a_live_detail_logo&quot;,&quot;url&quot;:&quot;/al/team?id=dc7f9fdc795728d06adc20867070e73b&quot;}" class="header-team-logo_1Y7y6  pc-hover_1nKug" style="z-index: 1; background-image:url(https://gips2.baidu.com/it/u=1871870758,2630787962&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=100&amp;size=f960_641); border-color: #1678F2" data-sf-href="/al/team?id=dc7f9fdc795728d06adc20867070e73b">  </a>  </div> </div> <div class="header-team-name__hNoj"> <div class="team-name_VCvtd team-name1_2k21A c-line-clamp1 only-team-name1_3cmzX">南非</div>    </div> <div class="header-team-rank_2CKg4"> <div class="team-rank_26oJC team-rank1_3gqZd only-team-rank1_2gK8T "> <div class="rank-info-text_2fV_O">世界排名60</div> </div>   </div> </div> </div> </div> <!--/s-frag--> </div>    <div class="c-navs-wrap c-navs-container m-c-bg-color-white     navs_zZbDI" style="background-color: rgba(0, 0, 0, 0.1)" data-module="c-n">  <div class="c-navs-scroll-container" style="font-size: 16px; min-height: 0.44rem; --nav-height: 0.44rem;"> <ul class="c-navs-common-content " voice-action="switch" role="tablist">  <li class="cos-color-text-minor   WA_LOG_TAB  " data-nolog="false" data-module="" aria-selected="false" role="tab"> <div class="c-navs-common-full-height"> <span class="flex-center cos-color-text-minor" style="color:#ffffff;opacity:1;font-size:undefined"> <span class="text-position" style="top: 0rem"> 分析   </span> </span> </div> </li>  <li class="cos-color-text-minor   WA_LOG_TAB  " data-nolog="false" data-module="" aria-selected="false" role="tab"> <div class="c-navs-common-full-height"> <span class="flex-center cos-color-text-minor" style="color:#ffffff;opacity:1;font-size:undefined"> <span class="text-position" style="top: 0rem"> 阵容   </span> </span> </div> </li>  <li class="cos-color-text-minor   WA_LOG_TAB  " data-nolog="false" data-module="" aria-selected="false" role="tab"> <div class="c-navs-common-full-height"> <span class="flex-center cos-color-text-minor" style="color:#ffffff;opacity:1;font-size:undefined"> <span class="text-position" style="top: 0rem"> 聊天   </span> </span> </div> </li>  <li class="cos-color-text-minor   WA_LOG_TAB  " data-nolog="false" data-module="" aria-selected="false" role="tab"> <div class="c-navs-common-full-height"> <span class="flex-center cos-color-text-minor" style="color:#ffffff;opacity:1;font-size:undefined"> <span class="text-position" style="top: 0rem"> 球员评分   </span> </span> </div> </li>  <li class="cos-color-text-minor c-navs-common-selected c-navs-scroll-select-bottom WA_LOG_TAB  " data-nolog="false" data-module="" aria-selected="true" role="tab"> <div class="c-navs-common-full-height"> <span class="flex-center c-color" style="color:#ffffff;border-bottom-color:#ffffff;font-size:undefined"> <span class="text-position" style="top: 0rem"> 赛况   </span> </span> </div> </li>  <li class="cos-color-text-minor   WA_LOG_TAB  " data-nolog="false" data-module="" aria-selected="false" role="tab"> <div class="c-navs-common-full-height"> <span class="flex-center cos-color-text-minor" style="color:#ffffff;opacity:1;font-size:undefined"> <span class="text-position" style="top: 0rem"> 统计   </span> </span> </div> </li>  <li class="cos-color-text-minor   WA_LOG_TAB  " data-nolog="false" data-module="" aria-selected="false" role="tab"> <div class="c-navs-common-full-height"> <span class="flex-center cos-color-text-minor" style="color:#ffffff;opacity:1;font-size:undefined"> <span class="text-position" style="top: 0rem"> 指数   </span> </span> </div> </li>  <li class="cos-color-text-minor   WA_LOG_TAB  " data-nolog="false" data-module="" aria-selected="false" role="tab"> <div class="c-navs-common-full-height"> <span class="flex-center cos-color-text-minor" style="color:#ffffff;opacity:1;font-size:undefined"> <span class="text-position" style="top: 0rem"> 视频   </span> </span> </div> </li>  <div class="c-navs-common-bottom"></div> </ul>  <div class="c-navs-mask mask-left" style="background-image: linear-gradient(270deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.01) 100%);display:none;"></div> <div class="c-navs-mask mask-right" style="background-image: linear-gradient(270deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.01) 100%);display:none;"></div> </div> </div>  </div> </div>  <div> <div scope="props"> <div class="wa-live-detail-content-container_V9W45  " style="height: auto;
+                                margin-top: ;
+                                --chat-room-bg: url();">          <div class="c-tabs-content " style="display: block">          <div class="wa-live-detail-match-data-container_2773U"> <div>         <div class="wa-tiyu-match-events_1io-l"> <div class="match-events-header_3fJPS"> <span class="ty-module-title c-color-link">赛事事件</span> </div> <div id="important_event_container"> <div class="cos-tabs cos-tabs-bar custom-content-tabs">
+            <div class="cos-tabs-header-container">
+                <div class="cos-tabs-header">
+                    
+                    <div class="cos-tab">
+            <!--s-slot-->文字直播<!--/s-slot-->
+        </div><div class="cos-tab cos-tab-active">
+            <!--s-slot-->重要事件<!--/s-slot-->
+        </div>
+                    
+                    
+                </div>
+            </div>
+            <div class="cos-tabs-content">
+                  
+            </div>
+        </div>  <div> <div class="important-event-container_1zPZI important-event-pc_ThhyJ">  <div class="important-checkbox-wraper_3ocGI"> <span class="c-gap-right-small">只看进球</span> <div class="switch-wrap_xUufy"> <div class="cos-switcher cos-sm"><div class="cos-switcher-slider"></div></div> </div> </div> <div class=" important-timeline_6lK14">   <div class="match-important-events-item_FyuIh"> <div class="important-events-item-endline_cAJ11"> <p class="important-events-item-whistle_3UXvA"></p> </div> </div>    <div class="match-important-events-item_FyuIh"> <p class="important-events-item-text_1ij9B">  <span>结束 1-1</span> </p> </div>    <div class="match-important-events-item_FyuIh"> <p class="important-events-item-text_1ij9B">  <span>伤停补时</span> </p> </div>   <div class="match-important-events-item_FyuIh c-row"> <div class="important-events-item-left_3RxZp c-span5 empty-side_1ecKI">  </div> <div class="important-events-mid_1bHJm"> <p class="important-events-mid-node_sgM03"> <span>84&#39;</span> </p> </div> <div class="important-events-item-right_2wbyB c-span5 ">     <div class="event-item-content_2orjF event-change-item_1F5Ix"> <p class="event-text-icon_1rMZv"> <i class="event-icon_3YNZb event-item-change-up-icon_x6LdF"></i>  <a href="https://tiyu.baidu.com/al/player?id=e481483771d3f49f0e618df81508dc15&amp;tab=%E8%B5%84%E6%96%99">卡莫赫洛·塞贝莱贝莱</a>  </p> <p class="event-text-icon_1rMZv"> <i class="event-icon_3YNZb event-item-change-down-icon_3IWWh"></i>  <a href="https://tiyu.baidu.com/al/player?id=b5aa6a2f90e6b8f80c1e8f61be058a1f&amp;tab=%E8%B5%84%E6%96%99"> 塔佩洛·马塞科 </a>  </p> </div>     </div> </div>  <div class="match-important-events-item_FyuIh c-row"> <div class="important-events-item-left_3RxZp c-span5 empty-side_1ecKI">  </div> <div class="important-events-mid_1bHJm"> <p class="important-events-mid-node_sgM03"> <span>83&#39;</span> </p> </div> <div class="important-events-item-right_2wbyB c-span5 ">    <div class="event-item-content_2orjF event-common-entry_2Whah">  <p class="event-text-icon_1rMZv"> <i class="event-icon_3YNZb" style="background-image:url(https://gips2.baidu.com/it/u=378552814,3180367097&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42)"></i>  <a href="https://tiyu.baidu.com/al/player?id=af7b62695a7920592d847146dd0f6feb&amp;tab=%E8%B5%84%E6%96%99"> 泰博霍·莫科纳 </a>  </p>  <p class="event-number_20vS9 ">  <span>1-1</span> </p>  </div>      </div> </div>  <div class="match-important-events-item_FyuIh c-row"> <div class="important-events-item-left_3RxZp c-span5 ">     <div class="event-item-content_2orjF event-change-item_1F5Ix"> <p class="event-text-icon_1rMZv">  <a href="https://tiyu.baidu.com/al/player?id=d4bd331b1aa34c41c9bb2953e565ad30&amp;tab=%E8%B5%84%E6%96%99">达维德·齐马</a>  <i class="event-icon_3YNZb event-item-change-up-icon_x6LdF"></i> </p> <p class="event-text-icon_1rMZv">  <a href="https://tiyu.baidu.com/al/player?id=488fc14c66c3d4db3edfbe87f9d6a86b&amp;tab=%E8%B5%84%E6%96%99">卢卡什·切尔夫</a>  <i class="event-icon_3YNZb event-item-change-down-icon_3IWWh"></i> </p> </div>     </div> <div class="important-events-mid_1bHJm"> <p class="important-events-mid-node_sgM03"> <span>78&#39;</span> </p> </div> <div class="important-events-item-right_2wbyB c-span5 empty-side_1ecKI">  </div> </div>  <div class="match-important-events-item_FyuIh c-row"> <div class="important-events-item-left_3RxZp c-span5 ">      <div class="event-item-content_2orjF event-text-icon_1rMZv">  <a href="https://tiyu.baidu.com/al/player?id=a7548a08f77029053833f7230fa7211a&amp;tab=%E8%B5%84%E6%96%99"> 拉吉斯拉夫·克雷伊奇 </a>  <i style="background-image:url(https://gips3.baidu.com/it/u=3015608131,3478480768&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42)" class="event-icon_3YNZb"></i> </div>    </div> <div class="important-events-mid_1bHJm"> <p class="important-events-mid-node_sgM03"> <span>75&#39;</span> </p> </div> <div class="important-events-item-right_2wbyB c-span5 empty-side_1ecKI">  </div> </div>  <div class="match-important-events-item_FyuIh c-row"> <div class="important-events-item-left_3RxZp c-span5 ">     <div class="event-item-content_2orjF event-change-item_1F5Ix"> <p class="event-text-icon_1rMZv">  <a href="https://tiyu.baidu.com/al/player?id=ebe01358e6a7001783d5b45e7dea4dd5&amp;tab=%E8%B5%84%E6%96%99">托马什·绍切克</a>  <i class="event-icon_3YNZb event-item-change-up-icon_x6LdF"></i> </p> <p class="event-text-icon_1rMZv">  <a href="https://tiyu.baidu.com/al/player?id=dde17648cc5577b02d800c1e5a1c2682&amp;tab=%E8%B5%84%E6%96%99">米哈尔·萨迪莱克</a>  <i class="event-icon_3YNZb event-item-change-down-icon_3IWWh"></i> </p> </div>        <div class="event-item-content_2orjF event-change-item_1F5Ix"> <p class="event-text-icon_1rMZv">  <a href="https://tiyu.baidu.com/al/player?id=67760dc74314ad10a8d1e8857dc92aa0&amp;tab=%E8%B5%84%E6%96%99">卢卡什·普罗沃德</a>  <i class="event-icon_3YNZb event-item-change-up-icon_x6LdF"></i> </p> <p class="event-text-icon_1rMZv">  <a href="https://tiyu.baidu.com/al/player?id=ba3e596fe8efd53b304c4108f80cfc3e&amp;tab=%E8%B5%84%E6%96%99">亚当·赫洛热克</a>  <i class="event-icon_3YNZb event-item-change-down-icon_3IWWh"></i> </p> </div>     </div> <div class="important-events-mid_1bHJm"> <p class="important-events-mid-node_sgM03"> <span>67&#39;</span> </p> </div> <div class="important-events-item-right_2wbyB c-span5 empty-side_1ecKI">  </div> </div>  <div class="match-important-events-item_FyuIh c-row"> <div class="important-events-item-left_3RxZp c-span5 empty-side_1ecKI">  </div> <div class="important-events-mid_1bHJm"> <p class="important-events-mid-node_sgM03"> <span>66&#39;</span> </p> </div> <div class="important-events-item-right_2wbyB c-span5 ">     <div class="event-item-content_2orjF event-change-item_1F5Ix"> <p class="event-text-icon_1rMZv"> <i class="event-icon_3YNZb event-item-change-up-icon_x6LdF"></i>  <a href="https://tiyu.baidu.com/al/player?id=ddab361b9d6059753f5c83ff62807b16&amp;tab=%E8%B5%84%E6%96%99">埃维登斯·马戈帕</a>  </p> <p class="event-text-icon_1rMZv"> <i class="event-icon_3YNZb event-item-change-down-icon_3IWWh"></i>  <a href="https://tiyu.baidu.com/al/player?id=9f268b1e3052529b6e4c69d2477ac279&amp;tab=%E8%B5%84%E6%96%99"> 伊克拉姆·雷纳斯 </a>  </p> </div>     </div> </div>  <div class="match-important-events-item_FyuIh c-row"> <div class="important-events-item-left_3RxZp c-span5 ">     <div class="event-item-content_2orjF event-change-item_1F5Ix"> <p class="event-text-icon_1rMZv">  <a href="https://tiyu.baidu.com/al/player?id=08bf53f68adbc8f06b4031420a742451&amp;tab=%E8%B5%84%E6%96%99">亚罗斯拉夫·泽勒尼</a>  <i class="event-icon_3YNZb event-item-change-up-icon_x6LdF"></i> </p> <p class="event-text-icon_1rMZv">  <a href="https://tiyu.baidu.com/al/player?id=77380ada6a20f0ce9d08e9cc0c754717&amp;tab=%E8%B5%84%E6%96%99">亚历山大·索伊卡</a>  <i class="event-icon_3YNZb event-item-change-down-icon_3IWWh"></i> </p> </div>        <div class="event-item-content_2orjF event-change-item_1F5Ix"> <p class="event-text-icon_1rMZv">  <a href="https://tiyu.baidu.com/al/player?id=acce372ebcebf108a1852ff8642f5729&amp;tab=%E8%B5%84%E6%96%99">帕维尔·舒尔茨</a>  <i class="event-icon_3YNZb event-item-change-up-icon_x6LdF"></i> </p> <p class="event-text-icon_1rMZv">  <a href="https://tiyu.baidu.com/al/player?id=b9d78891e936ea918f6c48f8414c8a8f&amp;tab=%E8%B5%84%E6%96%99">弗拉迪米尔·达里达</a>  <i class="event-icon_3YNZb event-item-change-down-icon_3IWWh"></i> </p> </div>     </div> <div class="important-events-mid_1bHJm"> <p class="important-events-mid-node_sgM03"> <span>55&#39;</span> </p> </div> <div class="important-events-item-right_2wbyB c-span5 empty-side_1ecKI">  </div> </div>  <div class="match-important-events-item_FyuIh c-row"> <div class="important-events-item-left_3RxZp c-span5 empty-side_1ecKI">  </div> <div class="important-events-mid_1bHJm"> <p class="important-events-mid-node_sgM03"> <span>46&#39;</span> </p> </div> <div class="important-events-item-right_2wbyB c-span5 ">     <div class="event-item-content_2orjF event-change-item_1F5Ix"> <p class="event-text-icon_1rMZv"> <i class="event-icon_3YNZb event-item-change-up-icon_x6LdF"></i>  <a href="https://tiyu.baidu.com/al/player?id=c6460834d099ecdb0b3048c7415cfc6c&amp;tab=%E8%B5%84%E6%96%99">雷莱博海尔·莫福肯</a>  </p> <p class="event-text-icon_1rMZv"> <i class="event-icon_3YNZb event-item-change-down-icon_3IWWh"></i>  <a href="https://tiyu.baidu.com/al/player?id=3216f2559bef66b645d01be5eda75711&amp;tab=%E8%B5%84%E6%96%99"> 杰登·亚当斯 </a>  </p> </div>     </div> </div>   <div class="match-important-events-item_FyuIh"> <p class="important-events-item-text_1ij9B">  <span>伤停补时</span> </p> </div>   <div class="match-important-events-item_FyuIh c-row"> <div class="important-events-item-left_3RxZp c-span5 empty-side_1ecKI">  </div> <div class="important-events-mid_1bHJm"> <p class="important-events-mid-node_sgM03"> <span>40&#39;</span> </p> </div> <div class="important-events-item-right_2wbyB c-span5 ">      <div class="event-item-content_2orjF event-text-icon_1rMZv"> <i style="background-image:url(https://gips3.baidu.com/it/u=3015608131,3478480768&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42)" class="event-icon_3YNZb"></i>  <a href="https://tiyu.baidu.com/al/player?id=e3dce75ffbbbe557ffd8a5fa1a8e09f6&amp;tab=%E8%B5%84%E6%96%99"> 塔伦特·姆巴塔 </a>  </div>    </div> </div>  <div class="match-important-events-item_FyuIh c-row"> <div class="important-events-item-left_3RxZp c-span5 empty-side_1ecKI">  </div> <div class="important-events-mid_1bHJm"> <p class="important-events-mid-node_sgM03"> <span>33&#39;</span> </p> </div> <div class="important-events-item-right_2wbyB c-span5 ">      <div class="event-item-content_2orjF event-text-icon_1rMZv"> <i style="background-image:url(https://gips3.baidu.com/it/u=3015608131,3478480768&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42)" class="event-icon_3YNZb"></i>  <a href="https://tiyu.baidu.com/al/player?id=af7b62695a7920592d847146dd0f6feb&amp;tab=%E8%B5%84%E6%96%99"> 泰博霍·莫科纳 </a>  </div>    </div> </div>  <div class="match-important-events-item_FyuIh c-row"> <div class="important-events-item-left_3RxZp c-span5 ">    <div class="event-item-content_2orjF event-common-entry_2Whah"> <p class="event-number_20vS9 "> <span>1-0</span>  </p> <p class="event-text-icon_1rMZv">  <a href="https://tiyu.baidu.com/al/player?id=dde17648cc5577b02d800c1e5a1c2682&amp;tab=%E8%B5%84%E6%96%99"> 米哈尔·萨迪莱克 </a>  <i class="event-icon_3YNZb" style="background-image:url(https://gips3.baidu.com/it/u=1623257296,3229670616&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42)"></i> </p> <p class="event-text-icon_1rMZv">  <a href="https://tiyu.baidu.com/al/player?id=77380ada6a20f0ce9d08e9cc0c754717&amp;tab=%E8%B5%84%E6%96%99"> 亚历山大·索伊卡 </a>  <i class="event-icon_3YNZb" style="background-image:url(https://gips2.baidu.com/it/u=1032959883,1409644826&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42)"></i> </p> </div>      </div> <div class="important-events-mid_1bHJm"> <p class="important-events-mid-node_sgM03"> <span>6&#39;</span> </p> </div> <div class="important-events-item-right_2wbyB c-span5 empty-side_1ecKI">  </div> </div>   <div class="match-important-events-item_FyuIh"> <div class="important-events-item-startline_10zfi"> <p class="important-events-item-whistle_3UXvA"></p> </div> </div>   </div>  </div> </div> <div class="match-events-footer-new_8HrYJ "> <div class="event-icon-item_3Teu8"> <i class="icon-img_17tnM" style="background-image: url(https://gips3.baidu.com/it/u=1623257296,3229670616&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42);"></i> <span class="icon-text_1q6ul">进球</span> </div><div class="event-icon-item_3Teu8"> <i class="icon-img_17tnM" style="background-image: url(https://gips2.baidu.com/it/u=186546118,2444023513&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42);"></i> <span class="icon-text_1q6ul">射正</span> </div><div class="event-icon-item_3Teu8"> <i class="icon-img_17tnM" style="background-image: url(https://gips0.baidu.com/it/u=2089679684,2161631010&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42);"></i> <span class="icon-text_1q6ul">射偏</span> </div><div class="event-icon-item_3Teu8"> <i class="icon-img_17tnM" style="background-image: url(https://gips2.baidu.com/it/u=378552814,3180367097&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42);"></i> <span class="icon-text_1q6ul">点球</span> </div><div class="event-icon-item_3Teu8"> <i class="icon-img_17tnM" style="background-image: url(https://gips0.baidu.com/it/u=2209962759,659710803&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42);"></i> <span class="icon-text_1q6ul">点球未进</span> </div><div class="event-icon-item_3Teu8"> <i class="icon-img_17tnM" style="background-image: url(https://gips3.baidu.com/it/u=4201483922,1533155453&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42);"></i> <span class="icon-text_1q6ul">点球大战</span> </div><div class="event-icon-item_3Teu8"> <i class="icon-img_17tnM" style="background-image: url(https://gips0.baidu.com/it/u=176755534,3825787326&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42);"></i> <span class="icon-text_1q6ul">乌龙球</span> </div><div class="event-icon-item_3Teu8"> <i class="icon-img_17tnM" style="background-image: url(https://gips2.baidu.com/it/u=1032959883,1409644826&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42);"></i> <span class="icon-text_1q6ul">助攻</span> </div><div class="event-icon-item_3Teu8"> <i class="icon-img_17tnM" style="background-image: url(https://gips2.baidu.com/it/u=1181162153,2900628859&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42);"></i> <span class="icon-text_1q6ul">角球</span> </div><div class="event-icon-item_3Teu8"> <i class="icon-img_17tnM" style="background-image: url(https://gips3.baidu.com/it/u=3015608131,3478480768&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42);"></i> <span class="icon-text_1q6ul">黄牌</span> </div><div class="event-icon-item_3Teu8"> <i class="icon-img_17tnM" style="background-image: url(https://gips3.baidu.com/it/u=2891018693,3576086173&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42);"></i> <span class="icon-text_1q6ul">红牌</span> </div><div class="event-icon-item_3Teu8"> <i class="icon-img_17tnM" style="background-image: url(https://gips3.baidu.com/it/u=1202393231,3033611241&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42);"></i> <span class="icon-text_1q6ul">受伤换人</span> </div><div class="event-icon-item_3Teu8"> <i class="icon-img_17tnM" style="background-image: url(https://gips2.baidu.com/it/u=3883211729,580851780&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42);"></i> <span class="icon-text_1q6ul">换人</span> </div><div class="event-icon-item_3Teu8"> <i class="icon-img_17tnM" style="background-image: url(https://gips0.baidu.com/it/u=2591770614,4144270395&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42);"></i> <span class="icon-text_1q6ul">两黄变红</span> </div><div class="event-icon-item_3Teu8"> <i class="icon-img_17tnM" style="background-image: url(https://gips0.baidu.com/it/u=1032339115,3426062636&amp;fm=3028&amp;app=3028&amp;f=PNG&amp;fmt=auto&amp;q=96&amp;size=f42_42);"></i> <span class="icon-text_1q6ul">VAR</span> </div> </div> <section class="match-events-place_sjK7M"> <div> <i class="place-address_2lmHH"></i> <span>亚特兰大体育场</span> </div> <div> <i class="place-people_3JuVY"></i> <span>75000人</span> </div> </section> </div>  </div> <div class="match-events-gap-line_2s61L"> <p class="c-gap-line" style="height: .04rem; background-color: var(--cos-color-bg-page)"></p> </div>               </div> </div>        </div>        </div> </div> </div> </div> </div> </div> <div style=";display:none;"> <div class="b-popup-wrapper_2bI6l live-list_1FyVV"> <div class="b-popup-modal b-popup-modal_3tEYw" style="opacity: 0; bottom: 0; width: 100%; transform: translate3d(0px, 100%, 0px); transition: transform 0.4s ease 0s"> <div class="b-popup-head_138jJ"> <div class="b-popup-title_3RZkM"> <div class="live-list-title_1Xuv7"> 直播列表 <div class="live-list-close_1JHyf"> <i class="cos-icon cos-icon-close"></i> </div> </div> </div> </div> <div class="b-popup-content_Xs0rV"> <div> <div class="live-list-list_N6uE5"> <a data-click="{&quot;act&quot;:&quot;deliver&quot;,&quot;cat&quot;:&quot;live&quot;,&quot;mod&quot;:&quot;百度体育（动画）&quot;,&quot;fr&quot;:&quot;in&quot;,&quot;url&quot;:&quot;&quot;}" href="https://tiyu.baidu.com/al/live/detail?matchId=5LiW55WM5p2vIzIwMjYtMDYtMTkj5Li56bqmL%2BaNt%2BWFiyspritniLHlsJTlhbAv5YyX6ams5YW26aGspritdnPljZfpnZ4%3D&amp;tab=聊天&amp;immerse=1" class="live-list-item_1ffLQ "> <div class="list-item-img_32rqw" style="background: url(https://gimg3.baidu.com/lego/src=http%3A%2F%2Fstatic.open.baidu.com%2Fmedia%2Fch16%2Fpng%2Fbaidulogo.png&amp;refer=http%3A%2F%2Fwww.baidu.com&amp;app=2009&amp;size=w931&amp;n=0&amp;g=0n&amp;er=404&amp;q=75&amp;fmt=auto&amp;maxorilen2heic=2000000?sec=1781974800&amp;t=00a1357f01b658537cec0c1156b143e3) center / cover no-repeat"></div> <div class="list-item-name_1Vpfq">百度体育（动画）</div> <div style="flex: 1;"></div> <div class="list-item-category_3g7x1"> <span class="category-btn_1moe8">动画直播</span> </div> </a> </div> </div> </div> </div> <div class="b-popup-mask b-popup-mask_1okIU" style="display: none; opacity: 0; transition: opacity 0.4s ease 0s"></div> </div> </div> </div>   <div class="aside_38opu animated_3P7DB " style="left: 100%; height: 0px;;display:none;"> <div class="wa-tiyu-profile-container_jZScV"> <div class="c-row wa-tiyu-profile-head_a9Vmu"> <div class="avatar_3gDsc" style="background: url(http://boscdn.bpc.baidu.com/mms-res/tiyu/wise/img/default_avatar.png) center / cover no-repeat; background-size: cover;"></div> <div class=" c-title c-color-link">未登录</div> </div> <div class="wa-tiyu-profile-content_1oRC2"> <a class="c-row wa-tiyu-profile-content-row_DSpOy c-blocka c-color-link"> <span class="icon_DgNNj home-icon_1BgSR"></span> <span>直播首页</span> </a> <a class="c-row wa-tiyu-profile-content-row_DSpOy c-blocka c-color-link OP_LOG_BTN" data-click="{&quot;act&quot;:&quot;pv&quot;}" href="https://tiyu.baidu.com/tvlist" data-sf-href="/tvlist"> <span class="icon_DgNNj tv-icon_1yjJe"></span> <span>电视频道</span> </a>  </div> </div> </div> <div class="page-shade_2DNhT animated_3P7DB fadeIn_1P3H_" style="z-index: 0; height: 0px;;display:none;"> <div class="nav-pointer_3_yj6"> <span class="bg-pointer_2Iviw"></span> <p class="c-line-clamp1"> 轻触这里关闭 </p> </div> </div> </section> </main></div>
+            <script>
+                // dp平台统计代码：在首屏大概位置插入以下代码，用来统计首屏时间
+                if (window.alog) {
+                    void function(e,t){for(var n=t.getElementsByTagName("img"),a=+new Date,i=[],o=function(){this.removeEventListener&&this.removeEventListener("load",o,!1),i.push({img:this,time:+new Date})},s=0;s< n.length;s++)!function(){var e=n[s];e.addEventListener?!e.complete&&e.addEventListener("load",o,!1):e.attachEvent&&e.attachEvent("onreadystatechange",function(){"complete"==e.readyState&&o.call(e,o)})}();alog("speed.set",{fsItems:i,fs:a})}(window,document);
+                }
+            </script>
+        </div>
+    </div>
+</div>
+
+<script src=https://code.bdstatic.com/npm/zepto@1.1.7/dist/zepto.min.js type=text/javascript></script>
+
+
+
+<script>
+    if (window.alog) {
+        void function(a,b,c,d,e,f){function g(b){a.attachEvent?a.attachEvent("onload",b,!1):a.addEventListener&&a.addEventListener("load",b)}function h(a,c,d){d=d||15;var e=new Date;e.setTime((new Date).getTime()+1e3*d),b.cookie=a+"="+escape(c)+";path=/;expires="+e.toGMTString()}function i(a){var c=b.cookie.match(new RegExp("(^| )"+a+"=([^;]*)(;|$)"));return null!=c?unescape(c[2]):null}function j(){var a=i("PMS_JT");if(a){h("PMS_JT","",-1);try{a=a.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),a=a&&a[1]&&a[2]?{s:parseInt(a[1]),r:a[2]}:{}}catch(c){a={}}a.r&&b.referrer.replace(/#.*/,"")!=a.r||alog("speed.set","wt",a.s)}}if(a.alogObjectConfig){var k=a.alogObjectConfig.sample,l=a.alogObjectConfig.rand;d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d,k&&l&&l>k||(g(function(){alog("speed.set","lt",+new Date),e=b.createElement(c),e.async=!0,e.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),f=b.getElementsByTagName(c)[0],f.parentNode.insertBefore(e,f)}),j())}}(window,document,"script","/hunter/alog/dp.mobile.min.js");
+    }
+</script>
+<script type=text/javascript src=https://ms.bdstatic.com/se/tiyu-wise/static/san/js/san.b1c968fb.js></script><script type=text/javascript src=https://ms.bdstatic.com/se/tiyu-wise/static/san/js/vendors.3367504c.js></script><script type=text/javascript src=https://ms.bdstatic.com/se/tiyu-wise/static/san/js/livedetail.00e6a0fe.js></script></body>
+</html>
