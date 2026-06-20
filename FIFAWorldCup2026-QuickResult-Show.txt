@@ -34,7 +34,7 @@
 1.利物浦8(F.维尔茨,R.格拉芬贝赫x2,A.伊萨克x3,M.萨拉赫,C.加克波)
 2.拜仁慕尼黑5(N.布朗,J.基米希x2,M.奥利塞,L.迪亚斯)
 3.阿森纳4(V.哲凯赖什,M.厄德高,D.赖斯,B.萨卡)
-4.皇家马德里3(B.迪亚斯x2,V.维尼修斯)
+4.皇家马德里3(B.迪亚斯x2,维尼修斯)
 4.国际米兰3(P.苏契奇,D.邓弗里斯x2)
 6.斯图加特2(D.昂达夫x2)
 6.斯特拉斯堡2(J.恩西索x2)
@@ -80,8 +80,8 @@ D组 第2轮 土耳其(TUR)0-1巴拉圭(PAR)  [11:00]
 C组 第2轮 巴西(BRA)3-0海地(HAI)  [08:30]
 -HAI-4'卡伦斯[Angers]黄牌(1)
 -BRA-23'M.库尼亚[ManUtd](1)进球
--BRA-36'M.库尼亚[ManUtd](2)进球 V.维尼修斯[RealMadrid](1)助攻
--BRA-45+3'V.维尼修斯[RealMadrid](2)进球 L.帕奎塔[Flamengo](1)助攻
+-BRA-36'M.库尼亚[ManUtd](2)进球 维尼修斯[RealMadrid](1)助攻
+-BRA-45+3'维尼修斯[RealMadrid](2)进球 L.帕奎塔[Flamengo](1)助攻
 -HAI-45+4'F.皮埃罗[RizeSpor]黄牌(1)
 -BRA-65'D.桑托斯[Zenit]黄牌(1)
 -HAI-72'D.J.雅克[Philadelphia]黄牌(1)
@@ -271,7 +271,7 @@ C组 第1轮 苏格兰(SCO)1-0海地(HAI)  [09:00]
 
 C组 第1轮 巴西(BRA)1-1摩洛哥(MAR)  [06:00]
 -MAR-21'I.赛巴里[Bayern](1)进球 B.迪亚斯[RealMadrid](1)助攻
--BRA-32'V.维尼修斯[RealMadrid](1)进球吉马良斯[AstonVilla](1)助攻
+-BRA-32'维尼修斯[RealMadrid](1)进球吉马良斯[AstonVilla](1)助攻
 -BRA-37'C.卡塞米罗[ManUtd]黄牌(1)
 -BRA-43'R.伊巴涅斯[AlAhly]黄牌(1)
 
