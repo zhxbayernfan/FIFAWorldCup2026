@@ -27,3 +27,9 @@ E组 第2轮 厄瓜多尔(ECU)0-0库拉索(CUW)  [08:00]
 -CUW-56'L.科梅内西亚[Zurich]黄牌(1)
 -CUW-75'J.加里[AlHazem]黄牌(1)
 -CUW-90+1'G.卡斯塔内尔[Terengganu]黄牌(1)
+
+F组 第2轮 突尼斯(TUN)0-4日本(JPN)  [12:00]
+-JPN-4'镰田大地[CrystalPalace](2)进球 中村敬斗[Reims](1)助攻
+-JPN-31'上田绮世[Feyenoord](1)进球 板仓滉[Ajax](1)助攻
+-JPN-69'伊东纯也[Genk](1)进球 上田绮世[Feyenoord](1)助攻
+-JPN-84'上田绮世[Feyenoord](2)进球 佐野海舟[Mainz](1)助攻

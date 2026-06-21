@@ -27,3 +27,9 @@ F组
 -SWE-75'Y.阿亚里[Brighton]黄牌(1)
 -SWE-80'L.贝里瓦尔[Tottenham]黄牌(1)
 -NED-89'C.萨默维尔[WestHam](2)进球 M.德佩[Corinthians](1)助攻
+
+0621 F组第2轮 突尼斯(TUN)0-4日本(JPN)  [12:00]
+-JPN-4'镰田大地[CrystalPalace](2)进球 中村敬斗[Reims](1)助攻
+-JPN-31'上田绮世[Feyenoord](1)进球 板仓滉[Ajax](1)助攻
+-JPN-69'伊东纯也[Genk](1)进球 上田绮世[Feyenoord](1)助攻
+-JPN-84'上田绮世[Feyenoord](2)进球 佐野海舟[Mainz](1)助攻
