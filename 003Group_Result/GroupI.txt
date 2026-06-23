@@ -18,3 +18,10 @@ I组
 -FRA-15'K.姆巴佩[RealMadrid](3|15)进球 M.奥利塞[Bayern](2)助攻
 -FRA-55'K.姆巴佩[RealMadrid](4|16)进球 O.登贝莱[PSG](1)助攻
 -FRA-66'O.登贝莱[PSG](1)进球 M.奥利塞[Bayern](3)助攻
+
+0623 I组第2轮 挪威(NOR)3-2塞内加尔(SEN)  [08:00]
+-NOR-43'M.彼得森[Torino](1)进球
+-NOR-48'E.哈兰德[ManCity](3)进球 M.厄德高[Arsenal](2)助攻
+-SEN-53'I.萨尔[CrystalPalace](1)进球 S.马内[AlNassr](1)助攻
+-NOR-58'E.哈兰德[ManCity](4)进球 P.贝格[BodoGlimt](1)助攻
+-SEN-90+3'I.萨尔[CrystalPalace](2)进球 N.雅克松[Chelsea](1)助攻
