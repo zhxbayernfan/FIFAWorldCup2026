@@ -1,7 +1,7 @@
 C组
 0614 C组第1轮 巴西(BRA)1-1摩洛哥(MAR)  [06:00]
 -MAR-21'I.赛巴里[Bayern](1)进球 B.迪亚斯[RealMadrid](1)助攻
--BRA-32'V.维尼修斯[RealMadrid](1)进球 B.吉马良斯[NewcastleU](1)助攻
+-BRA-32'维尼修斯[RealMadrid](1)进球 B.吉马良斯[NewcastleU](1)助攻
 -BRA-37'C.卡塞米罗[ManUtd]黄牌(1)
 -BRA-43'R.伊巴涅斯[AlAhly]黄牌(1)
 
@@ -20,8 +20,8 @@ C组
 0620 C组第2轮 巴西(BRA)3-0海地(HAI)  [08:30]
 -HAI-4'卡伦斯[Angers]黄牌(1)
 -BRA-23'M.库尼亚[ManUtd](1)进球
--BRA-36'M.库尼亚[ManUtd](2)进球 V.维尼修斯[RealMadrid](1)助攻
--BRA-45+3'V.维尼修斯[RealMadrid](2)进球 L.帕奎塔[Flamengo](1)助攻
+-BRA-36'M.库尼亚[ManUtd](2)进球 维尼修斯[RealMadrid](1)助攻
+-BRA-45+3'维尼修斯[RealMadrid](2)进球 L.帕奎塔[Flamengo](1)助攻
 -HAI-45+4'F.皮埃罗[RizeSpor]黄牌(1)
 -BRA-65'D.桑托斯[Zenit]黄牌(1)
 -HAI-72'D.J.雅克[Philadelphia]黄牌(1)

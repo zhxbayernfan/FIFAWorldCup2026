@@ -1,10 +1,10 @@
 0622 GroupsRound2 Day4
 H组 第2轮 西班牙(ESP)4-0沙特阿拉伯(KSA)  [00:00]
--ESP-11'拉明·亚马尔[Barcelona](1)进球 M.奥亚萨瓦尔[RealSociedad](1)助攻
--ESP-21'M.奥亚萨瓦尔[RealSociedad](1)进球 拉波尔特[AthleticBilbao](1)助攻
+-ESP-11'L.亚马尔[Barcelona](1)进球 M.奥亚萨瓦尔[RealSociedad](1)助攻
+-ESP-21'M.奥亚萨瓦尔[RealSociedad](1)进球 A.拉波尔特[AthleticBilbao](1)助攻
 -ESP-24'M.奥亚萨瓦尔[RealSociedad](2)进球 D.奥尔莫[Barcelona](1)助攻
--ESP-49'H.坦巴蒂[AlHilal]乌龙(OG)
 -KSA-30'S.多萨里[AlHilal]黄牌(1)
+-ESP-49'H.坦巴蒂[AlHilal]乌龙(OG)
 -KSA-60'M.卡努[AlHilal]黄牌(1)
 
 G组 第2轮 比利时(BEL)0-0伊朗(IRN)  [03:00]
@@ -29,4 +29,4 @@ G组 第2轮 新西兰(NZL)1-3埃及(EGY)  [09:00]
 -NZL-35'C.麦考瓦特[Silkeborg]黄牌(1)
 -EGY-59'M.济科[Pyramids](1)头球进球 M.哈尼[CairoNat](1)助攻
 -EGY-68'M.萨拉赫[Liverpool](1)进球 M.济科[Pyramids](1)助攻
--EGY-82'M.特雷泽盖[CairoNat](1)头球进球 M.萨拉赫[Liverpool](1)助攻
+-EGY-82'M.特雷泽盖[CairoNat](1)头球进球 M.萨拉赫[Liverpool](2)助攻
