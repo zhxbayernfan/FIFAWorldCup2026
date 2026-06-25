@@ -33,3 +33,13 @@ C组
 -BRA-63'D.达尼洛[Flamengo]黄牌(1)
 -BRA-82'F.法比尼奥[AlIttihad]黄牌(1)
 -SCO-89'R.克里斯蒂[Bournemouth]黄牌(1)
+
+0625 C组第3轮 摩洛哥(MAR)4-2海地(HAI)  [06:00]
+-HAI-10'Y.布努[AlHilal]乌龙(OG)
+-MAR-39'A.哈基米[PSG](1)进球
+-HAI-43'W.伊西多尔[Sunderland](1)进球 J.迪韦纳[Nantes](1)助攻
+-MAR-45+1'I.赛巴里[Bayern](3)进球 A.哈基米[PSG](1)助攻
+-MAR-78'S.拉希米[AlAhliJeddah](1)进球 S.里亚德[CrystalPalace](1)助攻
+-HAI-79'J.普拉西德[Bastia]黄牌(1)
+-MAR-89'Y.福蒂纳[Vizela](1)进球 S.拉希米[AlAhliJeddah](1)助攻
+-HAI-90+4'J.卡西米尔[Auxerre]黄牌(1)
