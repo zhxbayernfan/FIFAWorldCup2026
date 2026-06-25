@@ -4,7 +4,7 @@ G组
 -BEL-14'T.卡斯塔涅[Fulham]黄牌(1)
 -EGY-19'I.阿舒尔[CairoNat](1)进球 M.萨拉赫[Liverpool](1)助攻
 -EGY-33'A.法图赫[Gokarli]黄牌(1)
--EGY-66'M.哈尼[CairoNat]乌龙(OG)
+-BEL-66'M.哈尼[CairoNat]乌龙(OG)
 
 0616 G组第1轮 伊朗(IRN)2-2新西兰(NZL)  [09:00]
 -NZL-07'E.贾斯特[Motherwell](1)进球 C.伍德[NottinghamF](1)助攻

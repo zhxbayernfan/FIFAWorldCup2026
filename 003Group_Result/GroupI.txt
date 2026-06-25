@@ -11,7 +11,7 @@ I组
 -NOR-43'E.哈兰德[ManCity](2)进球(门将失误)
 -NOR-76'L.厄斯蒂高[Genoa](1)头球进球 M.厄德高[Arsenal](1)助攻
 -IRQ-86'Z.塔赫辛[BaghdadStudent]黄牌(1)
--IRQ-90+6'A.侯赛因[AlWakra]乌龙(OG)
+-NOR-90+6'A.侯赛因[AlWakra]乌龙(OG)
 
 0623 I组第2轮 法国(FRA)3-0伊拉克(IRQ)  [05:00]
 -IRQ-7'M.阿马里[Cracovia]黄牌(1)

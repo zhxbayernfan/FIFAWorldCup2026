@@ -11,7 +11,7 @@ I组 第1轮 挪威(NOR)4-1伊拉克(IRQ)  [06:00]
 -NOR-43'E.哈兰德[ManCity](2)进球(门将失误)
 -NOR-76'L.厄斯蒂高[Genoa](1)头球进球 M.厄德高[Arsenal](1)助攻
 -IRQ-86'Z.塔赫辛[BaghdadStudent]黄牌(1)
--IRQ-90+6'A.侯赛因[AlWakra]乌龙(OG)
+-NOR-90+6'A.侯赛因[AlWakra]乌龙(OG)
 
 J组 第1轮 阿根廷(ARG)3-0阿尔及利亚(ALG) [09:00]
 -ARG-17'L.梅西[InterMiami](1|14)进球 R.德保罗[InterMiami](1)助攻
