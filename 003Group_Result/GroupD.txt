@@ -32,3 +32,15 @@ D组
 -TUR-45+3'M.阿尔米隆[Atlanta]红牌(1)
 -TUR-71'E.埃尔马勒[Galatasaray]黄牌(1)
 -PAR-2'M.加拉尔萨[Atlanta](1)进球 J.恩西索[Strasbourg](2)助攻
+
+0626 D组第3轮 土耳其(TUR)3-2美国(USA)  [10:00]
+-USA-03'A.特拉斯蒂[SheffieldU](1)进球 S.贝尔哈特[Vancouver](1)助攻
+-TUR-11'A.居莱尔[RealMadrid](1)进球 B.伊尔马兹[Galatasaray](1)助攻
+-USA-19'S.贝尔哈特[Vancouver]黄牌(1)
+-TUR-31'B.伊尔马兹[Galatasaray](1)进球 O.柯克曲[Besiktas](1)助攻
+-USA-49'S.贝尔哈特[Vancouver](1)进球
+-TUR-90+9'K.艾汉[Galatasaray](1)进球
+
+0626 D组第3轮 巴拉圭(PAR)0-0澳大利亚(AUS)  [10:00]
+-AUS-47'J.欧文[StPauli]黄牌(1)
+-PAR-77'D.戈麦斯[Brighton]黄牌(1)
