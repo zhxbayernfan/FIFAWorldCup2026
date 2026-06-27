@@ -19,3 +19,11 @@ I组 第3轮 塞内加尔(SEN)5-0伊拉克(IRQ)  [03:00]
 -SEN-81'P.盖伊[Villarreal]黄牌(1)
 -SEN-82'I.恩迪亚耶[Everton](1)进球 P.盖伊[Villarreal](1)助攻
 -IRQ-90'M.多斯基[ViktoriaPlzen]黄牌(1)
+
+H组 第3轮 乌拉圭(URU)0-1西班牙(ESP)  [08:00]
+-ESP-42'A.巴埃纳[Atletico](1)进球 M.略伦特[Atletico](1)助攻
+-ESP-47'A.巴埃纳[Atletico]黄牌(1)
+-URU-54'J.萨纳夫里亚[RealSaltLake]黄牌(1)
+-URU-58'G.巴雷拉[Flamengo]黄牌(1)
+-URU-90+3'N.德拉克鲁斯[Flamengo]黄牌(1)
+-URU-90+5'A.卡诺比奥[Fluminense]红牌(1)
