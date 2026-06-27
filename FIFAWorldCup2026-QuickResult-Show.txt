@@ -181,7 +181,7 @@ C组 第3轮 摩洛哥(MAR)4-2海地(HAI)  [06:00]
 -HAI-90+4'J.卡西米尔[Auxerre]黄牌(1)
 
 C组 第3轮 苏格兰(SCO)0-3巴西(BRA)  [06:00]
--BRA-7'维尼修斯[RealMadrid](3)进球 V.拉扬[Bournemouth](1)助攻
+-BRA-07'维尼修斯[RealMadrid](3)进球 V.拉扬[Bournemouth](1)助攻
 -BRA-45+3'维尼修斯[RealMadrid](4)进球 B.吉马良斯[NewcastleU](2)助攻
 -BRA-60'M.库尼亚[ManUtd](3)进球 B.吉马良斯[NewcastleU](3)助攻
 -BRA-63'D.达尼洛[Flamengo]黄牌(1)
@@ -222,7 +222,7 @@ L组 第2轮 英格兰(ENG)0-0加纳(GHA)  [04:00]
 -GHA-60'I.威廉斯[AthleticBilbao]黄牌(1)
 
 K组 第2轮 葡萄牙(POR)5-0乌兹别克斯坦(UZB)  [01:00]
--POR-6'C.罗纳尔多[AlNassr](1|9)进球 J.坎塞洛[Barcelona](1)助攻
+-POR-06'C.罗纳尔多[AlNassr](1|9)进球 J.坎塞洛[Barcelona](1)助攻
 -UZB-14'O.汉罗别科夫[TabrizTractor]黄牌(1)
 -POR-17'N.门德斯[PSG](1)任意球进球
 -POR-39'C.罗纳尔多[AlNassr](2|10)进球 B.费尔南德斯[ManUtd](1)助攻
@@ -246,7 +246,7 @@ I组 第2轮 挪威(NOR)3-2塞内加尔(SEN)  [08:00]
 -SEN-90+3'I.萨尔[CrystalPalace](2)进球 N.雅克松[Chelsea](1)助攻
 
 I组 第2轮 法国(FRA)3-0伊拉克(IRQ)  [05:00]
--IRQ-7'M.阿马里[Cracovia]黄牌(1)
+-IRQ-07'M.阿马里[Cracovia]黄牌(1)
 -FRA-15'K.姆巴佩[RealMadrid](3|15)进球 M.奥利塞[Bayern](2)助攻
 -FRA-55'K.姆巴佩[RealMadrid](4|16)进球 O.登贝莱[PSG](1)助攻
 -FRA-66'O.登贝莱[PSG](1)进球 M.奥利塞[Bayern](3)助攻
@@ -270,7 +270,7 @@ G组 第2轮 新西兰(NZL)1-3埃及(EGY)  [09:00]
 -EGY-82'M.特雷泽盖[CairoNat](1)头球进球 M.萨拉赫[Liverpool](2)助攻
 
 H组 第2轮 乌拉圭(URU)2-2佛得角(CPV)  [06:00]
--CPV-5'S.卡布拉尔[Benfica]黄牌(2)
+-CPV-05'S.卡布拉尔[Benfica]黄牌(2)
 -URU-20'R.本坦库尔[Tottenham]黄牌(1)
 -CPV-21'K.皮纳[Krasnodar](1)任意球进球
 -URU-44'M.阿劳霍[Sporting](2)头球进球
@@ -280,7 +280,7 @@ H组 第2轮 乌拉圭(URU)2-2佛得角(CPV)  [06:00]
 -CPV-90+4'D.博尔赫斯[Bata]黄牌(1)
 
 G组 第2轮 比利时(BEL)0-0伊朗(IRN)  [03:00]
--BEL-4'R.卢卡库[Napoli]黄牌(1)
+-BEL-04'R.卢卡库[Napoli]黄牌(1)
 -IRN-33'S.埃扎托拉希[AlNasrDubai]黄牌(1)
 -BEL-67'N.恩戈伊[Lille]红牌(1)
 
@@ -294,7 +294,7 @@ H组 第2轮 西班牙(ESP)4-0沙特阿拉伯(KSA)  [00:00]
 ----------
 0621
 F组 第2轮 突尼斯(TUN)0-4日本(JPN)  [12:00]
--JPN-4'镰田大地[CrystalPalace](2)进球 中村敬斗[Reims](1)助攻
+-JPN-04'镰田大地[CrystalPalace](2)进球 中村敬斗[Reims](1)助攻
 -JPN-31'上田绮世[Feyenoord](1)进球 板仓滉[Ajax](1)助攻
 -JPN-69'伊东纯也[Genk](1)进球 上田绮世[Feyenoord](1)助攻
 -JPN-84'上田绮世[Feyenoord](2)进球 佐野海舟[Mainz](1)助攻
@@ -318,7 +318,7 @@ E组 第2轮 德国(GER)2-1科特迪瓦(CIV)  [04:00]
 -GER-90+4'D.昂达夫[Stuttgart](3)进球 F.恩梅查[Dortmund](1)助攻
 
 F组 第2轮 荷兰(NED)5-1瑞典(SWE)  [01:00]
--NED-5'B.布罗比[Sunderland](1)进球 C.加克波[Liverpool](1)助攻
+-NED-05'B.布罗比[Sunderland](1)进球 C.加克波[Liverpool](1)助攻
 -NED-17'B.布罗比[Sunderland](2)进球 D.邓弗里斯[Inter](1)助攻
 -NED-47'C.加克波[Liverpool](1)进球 D.邓弗里斯[Inter](2)助攻
 -SWE-53'古德蒙松[Leeds]黄牌(1)
@@ -330,13 +330,13 @@ F组 第2轮 荷兰(NED)5-1瑞典(SWE)  [01:00]
 ----------
 0620
 D组 第2轮 土耳其(TUR)0-1巴拉圭(PAR)  [11:00]
--PAR-4'M.加拉尔萨[Atlanta]黄牌(1)
+-PAR-04'M.加拉尔萨[Atlanta]黄牌(1)
 -TUR-45+3'M.阿尔米隆[Atlanta]红牌(1)
 -TUR-71'E.埃尔马勒[Galatasaray]黄牌(1)
--PAR-2'M.加拉尔萨[Atlanta](1)进球 J.恩西索[Strasbourg](2)助攻
+-PAR-02'M.加拉尔萨[Atlanta](1)进球 J.恩西索[Strasbourg](2)助攻
 
 C组 第2轮 巴西(BRA)3-0海地(HAI)  [08:30]
--HAI-4'卡伦斯[Angers]黄牌(1)
+-HAI-04'卡伦斯[Angers]黄牌(1)
 -BRA-23'M.库尼亚[ManUtd](1)进球
 -BRA-36'M.库尼亚[ManUtd](2)进球 维尼修斯[RealMadrid](1)助攻
 -BRA-45+3'维尼修斯[RealMadrid](2)进球 L.帕奎塔[Flamengo](1)助攻
