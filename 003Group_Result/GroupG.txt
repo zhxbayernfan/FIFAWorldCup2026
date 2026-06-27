@@ -27,16 +27,6 @@ G组
 -EGY-68'M.萨拉赫[Liverpool](1)进球 M.济科[Pyramids](1)助攻
 -EGY-82'M.特雷泽盖[CairoNat](1)头球进球 M.萨拉赫[Liverpool](2)助攻
 
-0627 G组第3轮 新西兰(NZL)1-5比利时(BEL)  [11:00]
--BEL-28'L.特罗萨德[Arsenal](1)进球
--NZL-47'M.斯塔梅尼奇[Swansea]黄牌(1)
--BEL-50'L.特罗萨德[Arsenal](2)进球 H.范纳肯[Brugge](1)助攻
--NZL-56'E.贾斯特[Motherwell]黄牌(1)
--BEL-67'K.德布劳内[Napoli](1)进球
--NZL-84'E.贾斯特[Motherwell](3)进球
--BEL-86'R.卢卡库[Napoli](1)头球进球 N.拉斯坎[Rangers](1)助攻
--BEL-90+5'A.萨勒马科尔斯[Milan](1)进球 R.卢卡库[Napoli](1)助攻
-
 0627 G组第3轮 埃及(EGY)1-1伊朗(IRN)  [11:00]
 -EGY-05'M.萨比尔[?](1)进球 M.特雷泽盖[CairoNat](1)助攻
 -IRN-14'R.雷扎伊安[Esteghlal](2)进球
@@ -47,3 +37,13 @@ G组
 -IRN-80'S.埃扎托拉希[ShababAlAhli]黄牌(2)
 -EGY-90+2'M.拉欣[Pyramids]黄牌(2)
 -IRN-90+5'S.哈利勒扎德[TabrizTractor]黄牌(1)
+
+0627 G组第3轮 新西兰(NZL)1-5比利时(BEL)  [11:00]
+-BEL-28'L.特罗萨德[Arsenal](1)进球
+-NZL-47'M.斯塔梅尼奇[Swansea]黄牌(1)
+-BEL-50'L.特罗萨德[Arsenal](2)进球 H.范纳肯[Brugge](1)助攻
+-NZL-56'E.贾斯特[Motherwell]黄牌(1)
+-BEL-67'K.德布劳内[Napoli](1)进球
+-NZL-84'E.贾斯特[Motherwell](3)进球
+-BEL-86'R.卢卡库[Napoli](1)头球进球 N.拉斯坎[Rangers](1)助攻
+-BEL-90+5'A.萨勒马科尔斯[Milan](1)进球 R.卢卡库[Napoli](1)助攻
