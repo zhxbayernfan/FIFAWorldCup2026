@@ -1,12 +1,12 @@
 0627 GroupsRound3 Day3
 I组 第3轮 挪威(NOR)1-4法国(FRA)  [03:00]
--FRA-07'O.登贝莱[PSG](2)进球 K.姆巴佩[RealMadrid](1)助攻
+-FRA-07'O.登贝莱[ParisSaintGermain](2)进球 K.姆巴佩[RealMadrid](1)助攻
 -NOR-10'P.贝格[BodoGlimt]黄牌(1)
--FRA-20'O.登贝莱[PSG](3)进球
+-FRA-20'O.登贝莱[ParisSaintGermain](3)进球
 -NOR-21'T.奥斯高[Rangers](1)进球 A.谢尔德鲁普[Benfica](1)助攻
--FRA-32'O.登贝莱[PSG](4)进球 A.楚阿梅尼[RealMadrid](1)助攻
+-FRA-32'O.登贝莱[ParisSaintGermain](4)进球 A.楚阿梅尼[RealMadrid](1)助攻
 -FRA-74'A.楚阿梅尼[RealMadrid]黄牌(1)
--FRA-90+4'D.杜埃[PSG](1)进球 B.巴尔科拉[PSG](1)助攻
+-FRA-90+4'D.杜埃[ParisSaintGermain](1)进球 B.巴尔科拉[ParisSaintGermain](1)助攻
 
 I组 第3轮 塞内加尔(SEN)5-0伊拉克(IRQ)  [03:00]
 -SEN-04'H.迪亚拉[Sunderland](1)进球 A.塞克[HaifaMaccabi](1)助攻
@@ -21,8 +21,8 @@ I组 第3轮 塞内加尔(SEN)5-0伊拉克(IRQ)  [03:00]
 -IRQ-90'M.多斯基[ViktoriaPlzen]黄牌(1)
 
 H组 第3轮 乌拉圭(URU)0-1西班牙(ESP)  [08:00]
--ESP-42'A.巴埃纳[Atletico](1)进球 M.略伦特[Atletico](1)助攻
--ESP-47'A.巴埃纳[Atletico]黄牌(1)
+-ESP-42'A.巴埃纳[AtleticoMadrid](1)进球 M.略伦特[AtleticoMadrid](1)助攻
+-ESP-47'A.巴埃纳[AtleticoMadrid]黄牌(1)
 -URU-54'J.萨纳夫里亚[RealSaltLake]黄牌(1)
 -URU-58'G.巴雷拉[Flamengo]黄牌(1)
 -URU-90+3'N.德拉克鲁斯[Flamengo]黄牌(1)
@@ -53,4 +53,4 @@ G组 第3轮 新西兰(NZL)1-5比利时(BEL)  [11:00]
 -BEL-67'K.德布劳内[Napoli](1)进球
 -NZL-84'E.贾斯特[Motherwell](3)进球
 -BEL-86'R.卢卡库[Napoli](1)头球进球 N.拉斯坎[Rangers](1)助攻
--BEL-90+5'A.萨勒马科尔斯[Milan](1)进球 R.卢卡库[Napoli](1)助攻
+-BEL-90+5'A.萨勒马科尔斯[ACMilan](1)进球 R.卢卡库[Napoli](1)助攻

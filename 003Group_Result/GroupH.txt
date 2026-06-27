@@ -18,7 +18,7 @@ H组
 
 0622 H组第2轮 乌拉圭(URU)2-2佛得角(CPV)  [06:00]
 -CPV-05'S.卡布拉尔[Benfica]黄牌(2)
--URU-20'R.本坦库尔[Tottenham]黄牌(1)
+-URU-20'R.本坦库尔[TottenhamHotSpurs]黄牌(1)
 -CPV-21'K.皮纳[Krasnodar](1)任意球进球
 -URU-44'M.阿劳霍[Sporting](2)头球进球
 -URU-45+6'A.卡诺比奥[Fluminense](1)进球 M.阿劳霍[Sporting](1)助攻
@@ -27,8 +27,8 @@ H组
 -CPV-90+4'D.博尔赫斯[Bata]黄牌(1)
 
 0627 H组第3轮 乌拉圭(URU)0-1西班牙(ESP)  [08:00]
--ESP-42'A.巴埃纳[Atletico](1)进球 M.略伦特[Atletico](1)助攻
--ESP-47'A.巴埃纳[Atletico]黄牌(1)
+-ESP-42'A.巴埃纳[AtleticoMadrid](1)进球 M.略伦特[AtleticoMadrid](1)助攻
+-ESP-47'A.巴埃纳[AtleticoMadrid]黄牌(1)
 -URU-54'J.萨纳夫里亚[RealSaltLake]黄牌(1)
 -URU-58'G.巴雷拉[Flamengo]黄牌(1)
 -URU-90+3'N.德拉克鲁斯[Flamengo]黄牌(1)

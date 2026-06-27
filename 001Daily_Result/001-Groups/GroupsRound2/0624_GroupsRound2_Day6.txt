@@ -2,11 +2,11 @@
 K组 第2轮 葡萄牙(POR)5-0乌兹别克斯坦(UZB)  [01:00]
 -POR-06'C.罗纳尔多[AlNassr](1|9)进球 J.坎塞洛[Barcelona](1)助攻
 -UZB-14'O.汉罗别科夫[TabrizTractor]黄牌(1)
--POR-17'N.门德斯[PSG](1)任意球进球
--POR-39'C.罗纳尔多[AlNassr](2|10)进球 B.费尔南德斯[ManUtd](1)助攻
+-POR-17'N.门德斯[ParisSaintGermain](1)任意球进球
+-POR-39'C.罗纳尔多[AlNassr](2|10)进球 B.费尔南德斯[ManchesterUnited](1)助攻
 -POR-60'A.内马托夫[Nasaf]乌龙(OG)
 -POR-68'R.韦加[Villarreal]黄牌(1)
--POR-87'R.莱奥[Milan](1)进球
+-POR-87'R.莱奥[ACMilan](1)进球
 
 L组 第2轮 英格兰(ENG)0-0加纳(GHA)  [04:00]
 -=-4O: 马宁(CHN)
@@ -16,7 +16,7 @@ L组 第2轮 英格兰(ENG)0-0加纳(GHA)  [04:00]
 L组 第2轮 巴拿马(PAN)0-1克罗地亚(CRO)  [07:00]
 -CRO-54'A.布迪米尔[Osasuna](1)进球 J.斯塔尼希奇[Bayern](1)助攻
 -PAN-61'Y.巴尔塞尼亚斯[Mazatlan]黄牌(1)
--CRO-90+2'P.苏契奇[Inter]黄牌(1)
+-CRO-90+2'P.苏契奇[InterMilano]黄牌(1)
 
 K组 第2轮 哥伦比亚(COL)1-0刚果(COD)  [10:00]
 -COL-57'J.卢库米[Bologna]黄牌(1)

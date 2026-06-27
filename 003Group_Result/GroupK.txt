@@ -1,15 +1,15 @@
 K组
 0618 K组第1轮 葡萄牙(POR)1-1民主刚果(COD)  [01:00]
--POR-06'J.内维斯[PSG](1)头球进球 P.内托[Chelsea](1)助攻
+-POR-06'J.内维斯[ParisSaintGermain](1)头球进球 P.内托[Chelsea](1)助攻
 -POR-13'B.席尔瓦[RealMadrid]黄牌(1)
 -COD-32'C.姆本巴[Lille]黄牌(1)
--COD-45+5'J.维萨[NewcastleU](1)头球进球 A.马苏亚库[Lens](1)助攻
+-COD-45+5'J.维萨[Newcastle](1)头球进球 A.马苏亚库[Lens](1)助攻
 -POR-88'N.塞梅多[Fenerbahce]黄牌(1)
 -POR-90+2'T.阿劳若[Benfica]黄牌(1)
 
 0618 K组第1轮 乌兹别克斯坦(UZB)1-3哥伦比亚(COL)  [10:00]
 -COL-08'J.莫希卡[Mallorca]黄牌(1)
--UZB-34'A.胡桑诺夫[ManCity]黄牌(1)
+-UZB-34'A.胡桑诺夫[ManchesterCity]黄牌(1)
 -COL-41'D.穆尼奥斯[CrystalPalace](1)进球 L.迪亚斯[Bayern](1)助攻
 -UZB-61'A.法伊祖拉耶夫[Basaksehir](1)头球进球
 -COL-66'L.迪亚斯[Bayern](1)进球 G.普埃尔塔[Santander](1)助攻
@@ -18,11 +18,11 @@ K组
 0624 K组第2轮 葡萄牙(POR)5-0乌兹别克斯坦(UZB)  [01:00]
 -POR-06'C.罗纳尔多[AlNassr](1|9)进球 J.坎塞洛[Barcelona](1)助攻
 -UZB-14'O.汉罗别科夫[TabrizTractor]黄牌(1)
--POR-17'N.门德斯[PSG](1)任意球进球
--POR-39'C.罗纳尔多[AlNassr](2|10)进球 B.费尔南德斯[ManUtd](1)助攻
+-POR-17'N.门德斯[ParisSaintGermain](1)任意球进球
+-POR-39'C.罗纳尔多[AlNassr](2|10)进球 B.费尔南德斯[ManchesterUnited](1)助攻
 -POR-60'A.内马托夫[Nasaf]乌龙(OG)
 -POR-68'R.韦加[Villarreal]黄牌(1)
--POR-87'R.莱奥[Milan](1)进球
+-POR-87'R.莱奥[ACMilan](1)进球
 
 0624 K组第2轮 哥伦比亚(COL)1-0刚果(COD)  [10:00]
 -COL-57'J.卢库米[Bologna]黄牌(1)

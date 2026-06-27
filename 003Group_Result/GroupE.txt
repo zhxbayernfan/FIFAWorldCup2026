@@ -14,7 +14,7 @@ E组
 -CIV-38'F.凯西[AlAhli]黄牌(1)
 -CIV-40'G.杜埃[Strasbourg]黄牌(1)
 -ECU-73'P.波罗索[Troyes]黄牌(1)
--CIV-90'A.迪亚洛[ManUtd](1)进球 W.辛戈[Galatasaray](1)助攻
+-CIV-90'A.迪亚洛[ManchesterUnited](1)进球 W.辛戈[Galatasaray](1)助攻
 
 0621 E组第2轮 德国(GER)2-1科特迪瓦(CIV)  [04:00]
 -CIV-30'F.凯西[AlAhli](1)进球
@@ -46,6 +46,6 @@ E组
 0626 E组第3轮 库拉索(CUW)0-2科特迪瓦(CIV)  [04:00]
 -CIV-07'N.佩佩[Villarreal](1)进球 Y.迪奥曼德[Leipzig](1)助攻
 -CIV-36'N.佩佩[Villarreal]黄牌(1)
--CIV-64'N.佩佩[Villarreal](2)进球 I.桑加雷[NottinghamF](1)助攻
+-CIV-64'N.佩佩[Villarreal](2)进球 I.桑加雷[NottinghamForest](1)助攻
 -CUW-75'J.巴库纳[Volendam]黄牌(2)
 -CUW-86'G.卡斯塔内尔[Bandung]黄牌(2)

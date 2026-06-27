@@ -12,7 +12,7 @@ B组 第2轮 瑞士(SUI)4-1波黑(BIH)  [03:00]
 -SUI-66'N.埃尔韦迪[M'Gladbach]黄牌(1)
 -SUI-75'J.曼赞比[Freiburg](1)进球
 -BIH-80'T.穆哈雷莫维奇[Astana]红牌(1)
--SUI-84'R.巴尔加斯[Sevilla](1)进球 D.恩多耶[NottinghamF](1)助攻
+-SUI-84'R.巴尔加斯[Sevilla](1)进球 D.恩多耶[NottinghamForest](1)助攻
 -SUI-90'J.曼赞比[Freiburg](2)进球 R.巴尔加斯[Sevilla](1)助攻
 -BIH-90+3'E.马赫米奇[Liberec](1)进球
 -SUI-90+7'G.扎卡[Sunderland](1)点球进球
@@ -30,6 +30,6 @@ B组 第2轮 加拿大(CAN)6-0卡塔尔(QAT)  [06:00]
 -CAN-90+2'J.戴维[Juventus](3)进球 N.萨利巴[Anderlecht](1)助攻
 
 A组 第2轮 墨西哥(MEX)1-0韩国(KOR)  [09:00]
--KOR-04'李刚仁[PSG]黄牌(1)
+-KOR-04'李刚仁[ParisSaintGermain]黄牌(1)
 -MEX-50'L.罗莫[Chivas](1)进球
 -KOR-58'白昇浩[Birmingham]黄牌(1)
