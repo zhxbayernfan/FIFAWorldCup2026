@@ -33,3 +33,24 @@ H组 第3轮 佛得角(CPV)0-0沙特阿拉伯(KSA)  [08:00]
 -CPV-09'W.皮纳[Trabzonspor]黄牌(1)
 -KSA-67'N.多萨里[AlHilal]黄牌(1)
 -KSA-90+4'F.布赖坎[AlAhliJeddah]黄牌(1)
+
+G组 第3轮 新西兰(NZL)1-5比利时(BEL)  [11:00]
+-BEL-28'L.特罗萨德[Arsenal](1)进球
+-NZL-47'M.斯塔梅尼奇[Swansea]黄牌(1)
+-BEL-50'L.特罗萨德[Arsenal](2)进球 H.范纳肯[Brugge](1)助攻
+-NZL-56'E.贾斯特[Motherwell]黄牌(1)
+-BEL-67'K.德布劳内[Napoli](1)进球
+-NZL-84'E.贾斯特[Motherwell](3)进球
+-BEL-86'R.卢卡库[Napoli](1)头球进球 N.拉斯坎[Rangers](1)助攻
+-BEL-90+5'A.萨勒马科尔斯[Milan](1)进球 R.卢卡库[Napoli](1)助攻
+
+G组 第3轮 埃及(EGY)1-1伊朗(IRN)  [11:00]
+-EGY-05'M.萨比尔[?](1)进球 M.特雷泽盖[CairoNat](1)助攻
+-IRN-14'R.雷扎伊安[Esteghlal](2)进球
+-IRN-19'H.卡纳尼[Persepolis]黄牌(1)
+-EGY-20'M.萨比尔[?]黄牌(1)
+-EGY-42'亚西尔[CairoNat]黄牌(1)
+-IRN-43'A.内马蒂[Persepolis]黄牌(1)
+-IRN-80'S.埃扎托拉希[ShababAlAhli]黄牌(2)
+-EGY-90+2'M.拉欣[Pyramids]黄牌(2)
+-IRN-90+5'S.哈利勒扎德[TabrizTractor]黄牌(1)
