@@ -25,3 +25,21 @@ J组
 -JOR-64'H.阿布达哈卜[Faisaly](1)黄牌
 -ALG-69'N.本布阿利[Gyori](1)头球进球 R.马赫雷斯[AlAhliJeddah](1)助攻
 -ALG-82'A.古伊里[Marseille](1)进球
+
+0628 J组第3轮 约旦(JOR)1-3阿根廷(ARG)  [10:00]
+-JOR-17'M.阿布塔哈[Wehdat]黄牌(1)
+-ARG-19'G.洛塞尔索[RealBetis](1)任意球进球
+-ARG-31'L.马丁内斯[InterMilano](1)点球
+-JOR-55'M.塔迈里[Rennes](1)进球
+-JOR-64'亚赞[FCSeoul]黄牌(1)
+-ARG-80'L.梅西[InterMiami](6|19)任意球进球
+-JOR-90+5'H.阿布扎赖基[PoliceBaghdad]黄牌(1)
+
+0628 J组第3轮 阿尔及利亚(ALG)3-3奥地利(AUT)  [10:00]
+-AUT-11'M.阿瑙托维奇[RedStar]黄牌(1)
+-AUT-28'M.阿瑙托维奇[RedStar](2)进球 D.阿拉巴[RealMadrid](1)助攻
+-ALG-45'贝尔加利[Verona](1)进球
+-AUT-55'M.萨比策[Dortmund](1)进球 K.莱默尔[Bayern](1)助攻
+-ALG-60'R.马赫雷斯[AlAhliJeddah](1)进球 H.阿瓦尔[AlIttihad](1)助攻
+-ALG-90+3'R.马赫雷斯[AlAhliJeddah](2)进球 H.阿瓦尔[AlIttihad](2)助攻
+-AUT-90+6'S.卡莱季奇[LASK](1)头球进球 M.格雷戈里奇[Augsburg](1)助攻
