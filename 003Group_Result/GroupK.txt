@@ -30,10 +30,7 @@ K组
 -COL-90+4'J.莱尔马[CrystalPalace]黄牌(1)
 -COD-90+7'C.皮克尔[Espanyol]黄牌(1)
 
-0628 K组第3轮 哥伦比亚(COL)0-0葡萄牙(POR)  [07:30]
--COL-86'G.普埃尔塔[RacingSantander]黄牌(1)
-
-0628 K组第3轮 刚果民主共和国(COD)3-1乌兹别克斯坦(UZB)  [07:30]
+0629 K组第3轮 刚果民主共和国(COD)3-1乌兹别克斯坦(UZB)  [07:30]
 -UZB-10'E.肖穆罗多夫[Basaksehir](1)进球 A.莫兹戈沃伊[Pakhtakor](1)助攻
 -COD-21'N.萨迪基[Sunderland]黄牌(1)
 -UZB-43'A.胡桑诺夫[ManchesterCity]黄牌(2)
@@ -43,3 +40,6 @@ K组
 -COD-68'J.维萨[Newcastle](2)点球
 -COD-78'F.马耶莱[Pyramids](1)进球
 -COD-90+1'J.维萨[Newcastle](3)进球 M.埃利亚[Alanyaspor](1)助攻
+
+0629 K组第3轮 哥伦比亚(COL)0-0葡萄牙(POR)  [07:30]
+-COL-86'G.普埃尔塔[RacingSantander]黄牌(1)
