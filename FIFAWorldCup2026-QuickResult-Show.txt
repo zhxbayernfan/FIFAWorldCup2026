@@ -120,13 +120,10 @@
 这是分割线
 --------------------
 0629
-
 32强 第1场 南非(RSA)0-1加拿大(CAN)  [03:00]
 -CAN-55'N.萨利巴[Anderlecht]黄牌(1)
 -CAN-68'N.西古尔[HajdukSplit]黄牌(1)
--CAN-90+2'欧斯塔基奥[LAFC](1)进球
-
-
+-CAN-90+2'欧斯塔基奥[LosAngelesFC](1)进球
 --------------------
 小组赛结束,淘汰赛开始.
 --------------------
@@ -176,7 +173,6 @@ L组 第3轮 巴拿马(PAN)0-2英格兰(ENG)  [05:00]
 -ENG-62'J.贝林厄姆[RealMadrid](2)进球 B.萨卡[Arsenal](2)助攻
 -ENG-67'H.凯恩[Bayern](3|11)头球进球 J.贝林厄姆[RealMadrid](1)助攻
 -PAN-84'A.安德拉德[LASK]黄牌(1)
-
 ----------
 0627
 G组 第3轮 埃及(EGY)1-1伊朗(IRN)  [11:00]
@@ -227,6 +223,7 @@ I组 第3轮 塞内加尔(SEN)5-0伊拉克(IRQ)  [03:00]
 -IRQ-90'M.多斯基[ViktoriaPlzen]黄牌(1)
 
 I组 第3轮 挪威(NOR)1-4法国(FRA)  [03:00]
+-=-4O: 马宁(CHN)
 -FRA-07'O.登贝莱[ParisSaintGermain](2)进球 K.姆巴佩[RealMadrid](1)助攻
 -NOR-10'P.贝格[BodoGlimt]黄牌(1)
 -FRA-20'O.登贝莱[ParisSaintGermain](3)进球
@@ -234,7 +231,6 @@ I组 第3轮 挪威(NOR)1-4法国(FRA)  [03:00]
 -FRA-32'O.登贝莱[ParisSaintGermain](4)进球 A.楚阿梅尼[RealMadrid](1)助攻
 -FRA-74'A.楚阿梅尼[RealMadrid]黄牌(1)
 -FRA-90+4'D.杜埃[ParisSaintGermain](1)进球 B.巴尔科拉[ParisSaintGermain](1)助攻
-
 ----------
 0626
 D组 第3轮 巴拉圭(PAR)0-0澳大利亚(AUS)  [10:00]
