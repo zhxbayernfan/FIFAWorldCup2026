@@ -32,3 +32,19 @@
 -GER5-N.阿米里[Mainz]点球命中✅[3]-[3]
 -PAR6-J.卡纳莱[Lanus]点球命中✅[4]-[3]
 -GER6-J.塔[Bayern]点球未进❌[3]-[4]
+
+32强 第4场 荷兰(NED)1-1摩洛哥(MAR)  [09:00]
+-MAR-47'I.迪奥普[Fulham]黄牌(1/1)
+-NED-72'C.加克波[Liverpool](1)进球 C.萨默维尔[WestHam](1)助攻
+-MAR-90+1'I.迪奥普[Fulham](1)进球 C.塔勒比[Sunderland](1)助攻
+---点球大战---
+-NED1-T.库普梅纳斯[Juventus]点球命中✅[0]-[0]
+-MAR1-N.艾纳维[Roma]点球未进❌[0]-[1]
+-NED2-J.克鲁伊维特[Bournemouth]点球未进❌[0]-[1]
+-MAR2-S.拉希米[AlAin]点球命中✅[1]-[1]
+-NED3-W.韦霍斯特[Twente]点球命中✅[1]-[1]
+-MAR3-C.塔勒比[Sunderland]点球命中✅[2]-[2]
+-NED4-Q.廷贝尔[Marseille]点球未进❌[2]-[1]
+-MAR4-A.阿什拉夫[ParisSaintGermain]点球未进❌[2]-[2]
+-NED5-C.萨默维尔[WestHam]点球未进❌[2]-[2]
+-MAR5-I.赛巴里[Bayern]点球命中✅[3]-[2]
