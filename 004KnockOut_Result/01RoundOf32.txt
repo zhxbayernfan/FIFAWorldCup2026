@@ -79,3 +79,12 @@
 -COD-28'N.萨迪基[Sunderland]黄牌(2/0)
 -ENG-75'H.凯恩[Bayern](4|12)进球 A.戈登[Barcelona](1)助攻
 -ENG-86'H.凯恩[Bayern](5|13)进球 A.戈登[Barcelona](2)助攻
+
+0702 32强第9场 比利时(BEL)3-2塞内加尔(SEN)  [04:00]
+-SEN-25'H.迪亚拉[Sunderland](2)进球
+-SEN-51'I.萨尔[CrystalPalace](4)进球 M.尼亚卡特[Lyon](1)助攻
+-BEL-64'B.梅切勒[Brugge]黄牌(1/0)
+-SEN-68'L.卡马拉[Monaco]黄牌(1/0)
+-BEL-86'R.卢卡库[Napoli](2)进球 T.穆尼耶[Lille](1)助攻
+-BEL-89'Y.蒂勒曼斯[AstonVilla](1)进球 L.特罗萨德[Arsenal](4)助攻
+-BEL-120+5'Y.蒂勒曼斯[AstonVilla](2)进球
