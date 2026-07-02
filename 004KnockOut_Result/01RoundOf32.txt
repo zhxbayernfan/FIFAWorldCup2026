@@ -72,3 +72,10 @@
 -ECU-90+3'K.派斯[RiverPlate]黄牌(1/0)
 -ECU-90+5'P.因卡皮耶[Arsenal]红牌(1/0)
 -ECU-90+9'M.凯塞多[Chelsea]黄牌(1/0)
+
+0702 32强第8场 英格兰(ENG)2-1刚果民主共和国(COD)  [00:00]
+-COD-07'B.西庞加[Almeria](1)进球 S.姆本巴[Lille](1)助攻
+-ENG-19'J.贝林厄姆[RealMadrid]黄牌(1/0)
+-COD-28'N.萨迪基[Sunderland]黄牌(2/0)
+-ENG-75'H.凯恩[Bayern](4|12)进球 A.戈登[Barcelona](1)助攻
+-ENG-86'H.凯恩[Bayern](5|13)进球 A.戈登[Barcelona](2)助攻
