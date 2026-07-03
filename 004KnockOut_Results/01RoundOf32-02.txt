@@ -20,83 +20,16 @@
 -AUT-83'S.波施[Mainz]黄牌(1/1)
 -ESP-89'M.奥亚萨瓦尔[RealSociedad](4)进球 M.库库雷利亚[RealMadrid](2)助攻
 
-0629 32强第1场 南非(RSA)0-1加拿大(CAN)  [03:00]
--CAN-55'N.萨利巴[Anderlecht]黄牌(1)
--CAN-68'N.西古尔[HajdukSplit]黄牌(1)
--CAN-90+2'欧斯塔基奥[LosAngelesFC](1)进球
+0703 32强第12场 葡萄牙(POR)2-1克罗地亚(CRO)  [07:00]
+-POR-17'R.迪亚斯[ManchesterCity]黄牌(1/0)
+-CRO-53'I.佩里西奇[PSV](2)进球
+-CRO-60'L.莫德里奇[ACMilan]黄牌(1/0)
+-POR-68'C.罗纳尔多[AlNassr](3|11)进球
+-POR-90+4'G.拉莫斯[ACMilan](1)进球 R.莱奥[ACMilan](1)助攻
+-CRO-90+8'I.佩里西奇[PSV]黄牌(1/1)
 
-0630 32强第2场 巴西(BRA)2-1日本(JPN)  [01:00]
--JPN-12'佐野海舟[Mainz]黄牌(1)
--BRA-14'C.卡塞米罗[ManchesterUnited]黄牌(1)
--JPN-29'佐野海舟[Mainz](1)进球
--JPN-45'镰田大地[CrystalPalace]黄牌(1)
--BRA-48'D.达尼洛[Flamengo]黄牌(2)
--BRA-56'C.卡塞米罗[ManchesterUnited](1)进球 G.加布里埃尔[Arsenal](1)助攻
--JPN-84'铃木淳之介[Copenhagen]黄牌(1)
--BRA-90+6'G.马丁内利[Arsenal](1)进球 B.吉马良斯[Newcastle](4)助攻
-
-0630 32强第3场 德国(GER)1-1巴拉圭(PAR)  [04:30]
--=-4O: 马宁(CHN)
--PAR-42'J.恩西索[Strasbourg](1)进球 M.加拉尔萨[AtlantaUnited](1)助攻
--GER-54'K.哈弗茨[Arsenal](1)头球进球 F.维尔茨[Liverpool](1)助攻
--PAR-65'A.库瓦斯[VancouverWhiteCaps]黄牌(1/0)
--GER-106'K.哈弗茨[Arsenal]黄牌(1/0)
--GER-114'J.纳格尔斯曼[Germany]黄牌(1/0)
--PAR-114'G.阿尔法罗[Paraguay]黄牌(1/0)
--GER-115'J.穆西亚拉[Bayern]黄牌(1/0)
--PAR-117'M.加拉尔萨[AtlantaUnited]黄牌(1/0)
----点球大战---
--PAR1-M.普拉多[Palmeiras]点球命中✅[1]-[0]
--GER1-K.哈弗茨[Arsenal]点球未进❌[0]-[1]
--PAR2-G.戈麦斯[Palmeiras]点球命中✅[2]-[0]
--GER2-J.基米希[Bayern]点球命中✅[1]-[2]
--PAR3-M.加拉尔萨[AtlantaUnited]点球命中✅[3]-[2]
--GER3-J.穆西亚拉[Bayern]点球命中✅[2]-[3]
--PAR4-A.萨纳布里亚[Cremonese]点球未进❌[3]-[2]
--GER4-N.沃尔特马德[Newcastle]点球未进❌[2]-[3]
--PAR5-F.巴尔武埃纳[Gremio]点球未进❌[3]-[2]
--GER5-N.阿米里[Mainz]点球命中✅[3]-[3]
--PAR6-J.卡纳莱[Lanus]点球命中✅[4]-[3]
--GER6-J.塔[Bayern]点球未进❌[3]-[4]
-
-0630 32强第4场 荷兰(NED)1-1摩洛哥(MAR)  [09:00]
--MAR-47'I.迪奥普[Fulham]黄牌(1/1)
--NED-72'C.加克波[Liverpool](1)进球 C.萨默维尔[WestHam](1)助攻
--MAR-90+1'I.迪奥普[Fulham](1)进球 C.塔勒比[Sunderland](1)助攻
----点球大战---
--NED1-T.库普梅纳斯[Juventus]点球命中✅[0]-[0]
--MAR1-N.艾纳维[Roma]点球未进❌[0]-[1]
--NED2-J.克鲁伊维特[Bournemouth]点球未进❌[0]-[1]
--MAR2-S.拉希米[AlAin]点球命中✅[1]-[1]
--NED3-W.韦霍斯特[Twente]点球命中✅[1]-[1]
--MAR3-C.塔勒比[Sunderland]点球命中✅[2]-[2]
--NED4-Q.廷贝尔[Marseille]点球未进❌[2]-[1]
--MAR4-A.阿什拉夫[ParisSaintGermain]点球未进❌[2]-[2]
--NED5-C.萨默维尔[WestHam]点球未进❌[2]-[2]
--MAR5-I.赛巴里[Bayern]点球命中✅[3]-[2]
-
-0701 32强第5场 科特迪瓦(CIV)1-2挪威(NOR)  [01:00]
--NOR-39'A.努萨[Leipzig](1)进球 M.厄德高[Arsenal](3)助攻
--NOR-45+1'A.努萨[Leipzig]黄牌(1/0)
--CIV-74'A.迪亚洛[ManchesterUnited](2)进球 N.佩佩[Villarreal](1)助攻
--NOR-86'E.哈兰德[ManchesterCity](5)进球 P.贝格[BodoGlimt](2)助攻
-
-0701 32强第6场 法国(FRA)3-0瑞典(SWE)  [05:00]
--FRA-45'K.姆巴佩[RealMadrid](5|17)进球 O.登贝莱[ParisSaintGermain](2)助攻
--FRA-53'B.巴尔科拉[ParisSaintGermain](2)进球 M.奥利塞[Bayern](4)助攻
--FRA-74'K.姆巴佩[RealMadrid](6|18)进球 M.奥利塞[Bayern](5)助攻
-
-0701 32强第7场 墨西哥(MEX)2-0厄瓜多尔(ECU)  [10:00]
--ECU-45+2'A.弗兰科[AtleticoMineiro]黄牌(1/1)
--MEX-22'J.基尼奥内斯[Al-Qadsiah](3)进球 R.阿尔瓦拉多[Chivas](3)助攻
--MEX-31'R.希门尼斯[Wolves](2)进球 J.基尼奥内斯[Al-Qadsiah](1)助攻
--ECU-90+3'K.派斯[RiverPlate]黄牌(1/0)
--ECU-90+5'P.因卡皮耶[Arsenal]红牌(1/0)
--ECU-90+9'M.凯塞多[Chelsea]黄牌(1/0)
-
-0702 32强第8场 英格兰(ENG)2-1刚果民主共和国(COD)  [00:00]
--COD-07'B.西庞加[Almeria](1)进球 S.姆本巴[Lille](1)助攻
--ENG-19'J.贝林厄姆[RealMadrid]黄牌(1/0)
--COD-28'N.萨迪基[Sunderland]黄牌(2/0)
--ENG-75'H.凯恩[Bayern](4|12)进球 A.戈登[Barcelona](1)助攻
--ENG-86'H.凯恩[Bayern](5|13)进球 A.戈登[Barcelona](2)助攻
+0703 32强第13场 瑞士(SUI)2-0阿尔及利亚(ALG)  [11:00]
+-SUI-11'B.恩博洛[Rennes](2)进球 J.曼赞比[Freiburg](3)助攻
+-ALG-36'F.沙伊比[Frankfurt]黄牌(1/0)
+-SUI-46'D.恩多耶[NottinghamForest](2)进球
+-ALG-73'H.布达维[Nice]黄牌(1/0)
