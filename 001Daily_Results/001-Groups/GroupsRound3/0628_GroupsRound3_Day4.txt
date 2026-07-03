@@ -1,11 +1,4 @@
 0628 GroupsRound3 Day4
-L组 第3轮 巴拿马(PAN)0-2英格兰(ENG)  [05:00]
--PAN-54'J.法哈多[CatholicU]黄牌(1)
--ENG-60'J.昆萨[Leverkusen]黄牌(1)
--ENG-62'J.贝林厄姆[RealMadrid](2)进球 B.萨卡[Arsenal](2)助攻
--ENG-67'H.凯恩[Bayern](3|11)头球进球 J.贝林厄姆[RealMadrid](1)助攻
--PAN-84'A.安德拉德[LASK]黄牌(1)
-
 L组 第3轮 克罗地亚(CRO)2-1加纳(GHA)  [05:00]
 -CRO-32'P.苏契奇[InterMilano](1)进球
 -CRO-69'I.佩里西奇[PSV]黄牌(1)
@@ -13,8 +6,12 @@ L组 第3轮 克罗地亚(CRO)2-1加纳(GHA)  [05:00]
 -CRO-83'N.弗拉希奇[Torino](1)头球进球 L.莫德里奇[ACMilan](1)助攻
 -GHA-90+5'K.奥蓬[Nice]黄牌(1)
 
-K组 第3轮 哥伦比亚(COL)0-0葡萄牙(POR)  [07:30]
--COL-86'G.普埃尔塔[RacingSantander]黄牌(1)
+L组 第3轮 巴拿马(PAN)0-2英格兰(ENG)  [05:00]
+-PAN-54'J.法哈多[CatholicU]黄牌(1)
+-ENG-60'J.昆萨[Leverkusen]黄牌(1)
+-ENG-62'J.贝林厄姆[RealMadrid](2)进球 B.萨卡[Arsenal](2)助攻
+-ENG-67'H.凯恩[Bayern](3|11)头球进球 J.贝林厄姆[RealMadrid](1)助攻
+-PAN-84'A.安德拉德[LASK]黄牌(1)
 
 K组 第3轮 刚果民主共和国(COD)3-1乌兹别克斯坦(UZB)  [07:30]
 -UZB-10'E.肖穆罗多夫[Basaksehir](1)进球 A.莫兹戈沃伊[Pakhtakor](1)助攻
@@ -27,14 +24,8 @@ K组 第3轮 刚果民主共和国(COD)3-1乌兹别克斯坦(UZB)  [07:30]
 -COD-78'F.马耶莱[Pyramids](1)进球
 -COD-90+1'J.维萨[Newcastle](3)进球 M.埃利亚[Alanyaspor](1)助攻
 
-J组 第3轮 约旦(JOR)1-3阿根廷(ARG)  [10:00]
--JOR-17'M.阿布塔哈[Wehdat]黄牌(1)
--ARG-19'G.洛塞尔索[RealBetis](1)任意球进球
--ARG-31'L.马丁内斯[InterMilano](1)点球
--JOR-55'M.塔迈里[Rennes](1)进球
--JOR-64'亚赞[FCSeoul]黄牌(1)
--ARG-80'L.梅西[InterMiami](6|19)任意球进球
--JOR-90+5'H.阿布扎赖基[PoliceBaghdad]黄牌(1)
+K组 第3轮 哥伦比亚(COL)0-0葡萄牙(POR)  [07:30]
+-COL-86'G.普埃尔塔[RacingSantander]黄牌(1)
 
 J组 第3轮 阿尔及利亚(ALG)3-3奥地利(AUT)  [10:00]
 -AUT-11'M.阿瑙托维奇[RedStar]黄牌(1)
@@ -44,3 +35,12 @@ J组 第3轮 阿尔及利亚(ALG)3-3奥地利(AUT)  [10:00]
 -ALG-60'R.马赫雷斯[AlAhliJeddah](1)进球 H.阿瓦尔[AlIttihad](1)助攻
 -ALG-90+3'R.马赫雷斯[AlAhliJeddah](2)进球 H.阿瓦尔[AlIttihad](2)助攻
 -AUT-90+6'S.卡莱季奇[LASK](1)头球进球 M.格雷戈里奇[Augsburg](1)助攻
+
+J组 第3轮 约旦(JOR)1-3阿根廷(ARG)  [10:00]
+-JOR-17'M.阿布塔哈[Wehdat]黄牌(1)
+-ARG-19'G.洛塞尔索[RealBetis](1)任意球进球
+-ARG-31'L.马丁内斯[InterMilano](1)点球
+-JOR-55'M.塔迈里[Rennes](1)进球
+-JOR-64'亚赞[FCSeoul]黄牌(1)
+-ARG-80'L.梅西[InterMiami](6|19)任意球进球
+-JOR-90+5'H.阿布扎赖基[PoliceBaghdad]黄牌(1)

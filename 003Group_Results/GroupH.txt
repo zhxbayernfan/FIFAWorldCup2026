@@ -26,6 +26,12 @@ H组
 -CPV-61'E.瓦雷拉[MaccabiTelAviv](1)进球
 -CPV-90+4'D.博尔赫斯[Bata]黄牌(1)
 
+0627 H组第3轮 佛得角(CPV)0-0沙特阿拉伯(KSA)  [08:00]
+-KSA-04'S.阿卜杜勒哈米德[Lens]黄牌(1)
+-CPV-09'W.皮纳[Trabzonspor]黄牌(1)
+-KSA-67'N.多萨里[AlHilal]黄牌(1)
+-KSA-90+4'F.布赖坎[AlAhliJeddah]黄牌(1)
+
 0627 H组第3轮 乌拉圭(URU)0-1西班牙(ESP)  [08:00]
 -ESP-42'A.巴埃纳[AtleticoMadrid](1)进球 M.略伦特[AtleticoMadrid](1)助攻
 -ESP-47'A.巴埃纳[AtleticoMadrid]黄牌(1)
@@ -33,9 +39,3 @@ H组
 -URU-58'G.巴雷拉[Flamengo]黄牌(1)
 -URU-90+3'N.德拉克鲁斯[Flamengo]黄牌(1)
 -URU-90+5'A.卡诺比奥[Fluminense]红牌(1)
-
-0627 H组第3轮 佛得角(CPV)0-0沙特阿拉伯(KSA)  [08:00]
--KSA-04'S.阿卜杜勒哈米德[Lens]黄牌(1)
--CPV-09'W.皮纳[Trabzonspor]黄牌(1)
--KSA-67'N.多萨里[AlHilal]黄牌(1)
--KSA-90+4'F.布赖坎[AlAhliJeddah]黄牌(1)
