@@ -1,5 +1,12 @@
 2026世界杯比赛战报(倒序)
 ========================================
+0703
+32强 第11场 西班牙(ESP)3-0奥地利(AUT)  [03:00]
+-ESP-36'M.奥亚萨瓦尔[RealSociedad](3)进球 M.库库雷利亚[RealMadrid](1)助攻
+-ESP-66'P.波罗[TottenhamHotSpurs](1)进球 A.巴埃纳[AtleticoMadrid](1)助攻
+-AUT-83'S.波施[Mainz]黄牌(1/1)
+-ESP-89'M.奥亚萨瓦尔[RealSociedad](4)进球 M.库库雷利亚[RealMadrid](2)助攻
+----------
 0702
 32强 第10场 美国(USA)2-0波黑(BIH)  [08:00]
 -USA-45'F.巴洛贡[Monaco](3)进球
@@ -421,9 +428,9 @@ F组 第2轮 荷兰(NED)5-1瑞典(SWE)  [01:00]
 ----------
 0620
 D组 第2轮 土耳其(TUR)0-1巴拉圭(PAR)  [11:00]
--PAR-02'M.加拉尔萨[Atlanta](1)进球 J.恩西索[Strasbourg](2)助攻
--PAR-04'M.加拉尔萨[Atlanta]黄牌(1)
--TUR-45+3'M.阿尔米隆[Atlanta]红牌(1)
+-PAR-02'M.加拉尔萨[AtlantaUnited](1)进球 J.恩西索[Strasbourg](2)助攻
+-PAR-04'M.加拉尔萨[AtlantaUnited]黄牌(1)
+-TUR-45+3'M.阿尔米隆[AtlantaUnited]红牌(1)
 -TUR-71'E.埃尔马勒[Galatasaray]黄牌(1)
 
 C组 第2轮 巴西(BRA)3-0海地(HAI)  [08:30]
@@ -637,7 +644,7 @@ D组 第1轮 美国(USA)4-1巴拉圭(PAR)  [09:00]
 -PAR-10'J.卡塞雷斯[DynamoM]黄牌(1)
 -USA-31'F.巴洛贡[Monaco](1)进球 C.普利西奇[ACMilan](1)助攻
 -USA-45'F.巴洛贡[Monaco](2)进球 M.蒂尔曼[Leverkusen](1)助攻
--PAR-53'M.阿尔米隆[Atlanta]黄牌(1)
+-PAR-53'M.阿尔米隆[AtlantaUnited]黄牌(1)
 -USA-60'T.亚当斯[Bournemouth]黄牌(1)
 -PAR-73'M.普拉多[Palmeiras](1)进球 J.恩西索[Strasbourg](1)助攻
 -PAR-79'G.戈麦斯[Brighton]黄牌(1)
