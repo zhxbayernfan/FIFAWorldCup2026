@@ -22,3 +22,11 @@
 -CPV-103'S.卡布拉尔[Trabzonspor](1)进球
 -ARG-111'D.博尔赫斯[Bata]乌龙(OG)
 -ARG-115'G.蒙铁尔[RiverPlate]黄牌(1/0)
+
+32强 第16场 哥伦比亚(COL)1-0加纳(GHA)  [09:30]
+-COL-13'H.阿里亚斯[Palmeiras]黄牌(1/0)
+-COL-14'H.阿里亚斯[Palmeiras](1)进球 L.苏亚雷斯[Sporting](1)助攻
+-GHA-50'C.伊伦基[Nordsjaelland]黄牌(1/1)
+-GHA-66'A.法塔乌[Leicester]黄牌(1/0)
+-GHA-76'A.塞杜[Rennes]黄牌(1/0)
+-COL-78'R.里奥斯[Benfica]黄牌(1/0)
