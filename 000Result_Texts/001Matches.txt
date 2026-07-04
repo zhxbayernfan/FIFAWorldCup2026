@@ -81,7 +81,7 @@
 32强 第7场 墨西哥(MEX)2-0厄瓜多尔(ECU)  [10:00]
 -ECU-45+2'A.弗兰科[AtleticoMineiro]黄牌(1/1)
 -MEX-22'J.基尼奥内斯[Al-Qadsiah](3)进球 R.阿尔瓦拉多[Chivas](3)助攻
--MEX-31'R.希门尼斯[Wolves](2)进球 J.基尼奥内斯[Al-Qadsiah](1)助攻
+-MEX-31'R.希门尼斯[ACMilan](2)进球 J.基尼奥内斯[Al-Qadsiah](1)助攻
 -ECU-90+3'K.派斯[RiverPlate]黄牌(1/0)
 -ECU-90+5'P.因卡皮耶[Arsenal]红牌(1/0)
 -ECU-90+9'M.凯塞多[Chelsea]黄牌(1/0)
@@ -719,7 +719,7 @@ A组 第1轮 墨西哥(MEX)2-0南非(RSA)  [03:00]
 -RSA-17'T.莫克纳[Sundowns]黄牌(1)
 -MEX-23'B.古铁雷斯[Chivas]黄牌(1)
 -RSA-50'Y.西索尔[Tondela]红牌(1)(最后一人拉人)
--MEX-67'R.希门尼斯[Wolves](1)头球进球 R.阿尔瓦拉多[Chivas](1)助攻
+-MEX-67'R.希门尼斯[ACMilan](1)头球进球 R.阿尔瓦拉多[Chivas](1)助攻
 -RSA-74'N.西比斯[OrlandoP]黄牌(1)
 -RSA-84'T.兹瓦内[Sundowns]红牌(1)(暴力击打面部)
 -MEX-90+2'C.蒙特斯[Lokomotiv]红牌(1)(阻止反击)
