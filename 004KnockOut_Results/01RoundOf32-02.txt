@@ -1,5 +1,6 @@
 32强比赛结果
-0702 32强第9场 比利时(BEL)3-2塞内加尔(SEN)  [04:00]
+
+0702 32强 第9场 比利时(BEL)3-2塞内加尔(SEN)  [04:00]
 -SEN-25'H.迪亚拉[Sunderland](2)进球
 -SEN-51'I.萨尔[CrystalPalace](4)进球 M.尼亚卡特[Lyon](1)助攻
 -BEL-64'B.梅切勒[Brugge]黄牌(1/0)
@@ -8,19 +9,19 @@
 -BEL-89'Y.蒂勒曼斯[AstonVilla](1)进球 L.特罗萨德[Arsenal](4)助攻
 -BEL-120+5'Y.蒂勒曼斯[AstonVilla](2)进球
 
-0702 32强第10场 美国(USA)2-0波黑(BIH)  [08:00]
+0702 32强 第10场 美国(USA)2-0波黑(BIH)  [08:00]
 -USA-45'F.巴洛贡[Monaco](3)进球
 -USA-64'F.巴洛贡[Monaco]红牌(1/0)
 -BIH-81'S.巴尔巴雷斯[Bosnia&Herzegovina]黄牌(1/0)
 -USA-82'M.蒂尔曼[Leverkusen](1)进球
 
-0703 32强第11场 西班牙(ESP)3-0奥地利(AUT)  [03:00]
+0703 32强 第11场 西班牙(ESP)3-0奥地利(AUT)  [03:00]
 -ESP-36'M.奥亚萨瓦尔[RealSociedad](3)进球 M.库库雷利亚[RealMadrid](1)助攻
 -ESP-66'P.波罗[TottenhamHotSpurs](1)进球 A.巴埃纳[AtleticoMadrid](1)助攻
 -AUT-83'S.波施[Mainz]黄牌(1/1)
 -ESP-89'M.奥亚萨瓦尔[RealSociedad](4)进球 M.库库雷利亚[RealMadrid](2)助攻
 
-0703 32强第12场 葡萄牙(POR)2-1克罗地亚(CRO)  [07:00]
+0703 32强 第12场 葡萄牙(POR)2-1克罗地亚(CRO)  [07:00]
 -POR-17'R.迪亚斯[ManchesterCity]黄牌(1/0)
 -CRO-53'I.佩里西奇[PSV](2)进球
 -CRO-60'L.莫德里奇[ACMilan]黄牌(1/0)
@@ -28,8 +29,23 @@
 -POR-90+4'G.拉莫斯[ACMilan](1)进球 R.莱奥[ACMilan](1)助攻
 -CRO-90+8'I.佩里西奇[PSV]黄牌(1/1)
 
-0703 32强第13场 瑞士(SUI)2-0阿尔及利亚(ALG)  [11:00]
+0703 32强 第13场 瑞士(SUI)2-0阿尔及利亚(ALG)  [11:00]
 -SUI-11'B.恩博洛[Rennes](2)进球 J.曼赞比[Freiburg](3)助攻
 -ALG-36'F.沙伊比[Frankfurt]黄牌(1/0)
 -SUI-46'D.恩多耶[NottinghamForest](2)进球
 -ALG-73'H.布达维[Nice]黄牌(1/0)
+
+0704 32强 第14场 澳大利亚(AUS)1[2]-1[4]埃及(EGY)  [02:00]
+-EGY-13'I.阿舒尔[CairoNat](2)进球 K.哈菲兹[Pyramids](1)助攻
+-AUS-55'M.哈尼[CairoNat]乌龙(OG)
+-EGY-105'H.哈桑[RealOviedo]黄牌(1/0)
+-EGY-120'Y.易卜拉欣[CairoNat]黄牌(1/1)
+---点球大战---
+-AUS1-H.苏塔[Leicester]点球未进❌[0]-[0]
+-EGY1-M.萨比尔[Pyramids]点球命中✅[1]-[0]
+-AUS2-J.欧文[StPauli]点球命中✅[1]-[1]
+-EGY2-R.拉比亚[CairoNat]点球命中✅[2]-[1]
+-AUS3-A.马比尔[Castellon]点球命中✅[2]-[2]
+-EGY3-M.萨拉赫[Liverpool]点球命中✅[3]-[2]
+-AUS4-L.赫林顿[ColoradoRapids]点球未进❌[3]-[2]
+-EGY4-H.阿卜杜勒马吉德[Zamalek]点球命中✅[4]-[2]

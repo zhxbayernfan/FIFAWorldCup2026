@@ -1,0 +1,15 @@
+0704 RoundOf32 Day6
+32强 第14场 澳大利亚(AUS)1[2]-1[4]埃及(EGY)  [02:00]
+-EGY-13'I.阿舒尔[CairoNat](2)进球 K.哈菲兹[Pyramids](1)助攻
+-AUS-55'M.哈尼[CairoNat]乌龙(OG)
+-EGY-105'H.哈桑[RealOviedo]黄牌(1/0)
+-EGY-120'Y.易卜拉欣[CairoNat]黄牌(1/1)
+---点球大战---
+-AUS1-H.苏塔[Leicester]点球未进❌[0]-[0]
+-EGY1-M.萨比尔[Pyramids]点球命中✅[1]-[0]
+-AUS2-J.欧文[StPauli]点球命中✅[1]-[1]
+-EGY2-R.拉比亚[CairoNat]点球命中✅[2]-[1]
+-AUS3-A.马比尔[Castellon]点球命中✅[2]-[2]
+-EGY3-M.萨拉赫[Liverpool]点球命中✅[3]-[2]
+-AUS4-L.赫林顿[ColoradoRapids]点球未进❌[3]-[2]
+-EGY4-H.阿卜杜勒马吉德[Zamalek]点球命中✅[4]-[2]
