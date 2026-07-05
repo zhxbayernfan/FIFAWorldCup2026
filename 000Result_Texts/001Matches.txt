@@ -1,6 +1,5 @@
 2026世界杯比赛战报(倒序)
 ========================================
-----------
 0705
 16强 第1场 加拿大(CAN)0-3摩洛哥(MAR)  [01:00]
 -MAR-20'R.哈勒哈勒[Mechelen]黄牌(1/0)
@@ -14,6 +13,7 @@
 -MAR-50'A.乌纳希[Girona](1)进球 A.哈基米[ParisSaintGermain](2)助攻
 -MAR-82'A.乌纳希[Girona](2)进球 B.迪亚斯[RealMadrid](3)助攻
 -MAR-90+8'S.拉希米[AlAin](2)进球 B.迪亚斯[RealMadrid](4)助攻
+----------
 0704
 32强 第16场 哥伦比亚(COL)1-0加纳(GHA)  [09:30]
 -COL-13'H.阿里亚斯[Palmeiras]黄牌(1/0)
@@ -348,7 +348,7 @@ C组 第3轮 苏格兰(SCO)0-3巴西(BRA)  [06:00]
 -SCO-89'R.克里斯蒂[Bournemouth]黄牌(1)
 
 B组 第3轮 波黑(BIH)3-1卡塔尔(QAT)  [03:00]
--BIH-29'K.阿拉伊贝戈维奇[Salzburg](1)进球 I.巴希奇[Astana](1)助攻
+-BIH-29'K.阿拉伊贝戈维奇[Leverkusen](1)进球 I.巴希奇[Astana](1)助攻
 -BIH-34'M.阿布纳达[AlRayyan]乌龙(OG)
 -QAT-43'H.海多斯[AlSadd](1)进球 J.埃德米尔松[AlDuhail](1)助攻
 -QAT-78'A.法特希[AlArabi]黄牌(2)
@@ -582,7 +582,7 @@ K组 第1轮 葡萄牙(POR)1-1民主刚果(COD)  [01:00]
 -POR-06'J.内维斯[ParisSaintGermain](1)头球进球 P.内托[Chelsea](1)助攻
 -POR-13'B.席尔瓦[RealMadrid]黄牌(1)
 -COD-32'C.姆本巴[Lille]黄牌(1)
--COD-45+5'J.维萨[Newcastle](1)头球进球 A.马苏亚库[Lens](1)助攻
+-COD-45+5'J.维萨[Newcastle](1)头球进球 A.马苏亚库[Sunderland](1)助攻
 -POR-88'N.塞梅多[Fenerbahce]黄牌(1)
 -POR-90+2'T.阿劳若[Benfica]黄牌(1)
 ----------
