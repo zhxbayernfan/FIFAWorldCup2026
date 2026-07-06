@@ -1,4 +1,3 @@
-0705 16强第1场 加拿大(CAN)0-3摩洛哥(MAR)  [01:00]
 0705 16强 第1场 加拿大(CAN)0-3摩洛哥(MAR)  [01:00]
 -MAR-20'R.哈勒哈勒[Mechelen]黄牌(1/0)
 -MAR-40'A.哈基米[ParisSaintGermain]黄牌(1/0)
@@ -12,14 +11,27 @@
 -MAR-82'A.乌纳希[Girona](2)进球 B.迪亚斯[RealMadrid](3)助攻
 -MAR-90+8'S.拉希米[AlAin](2)进球 B.迪亚斯[RealMadrid](4)助攻
 
+0705 16强 第2场 巴拉圭(PAR)0-1法国(FRA)  [05:00]
+-FRA-19'B.巴尔科拉[ParisSaintGermain]黄牌(1/0)
+-FRA-70'K.姆巴佩[RealMadrid](7|19)点球进球
+-FRA-82'M.科内[Roma]黄牌(1/0)
+-FRA-90+7'M.奥利塞[Bayern]黄牌(1/0)
+
 0706 16强 第3场 巴西(BRA)1-2挪威(NOR)  [04:00]
 -NOR-80'E.哈兰德[ManchesterCity](6)进球 A.谢尔德鲁普[Benfica](2)助攻
 -NOR-90'E.哈兰德[ManchesterCity](7)进球 A.谢尔德鲁普[Benfica](3)助攻
 -BRA-90+6'内马尔[Santos]黄牌(1/0)
 -BRA-90+10'内马尔[Santos](1)点球进球
 
-0705 16强 第2场 巴拉圭(PAR)0-1法国(FRA)  [05:00]
--FRA-19'B.巴尔科拉[ParisSaintGermain]黄牌(1/0)
--FRA-70'K.姆巴佩[RealMadrid](7|19)点球进球
--FRA-82'M.科内[Roma]黄牌(1/0)
--FRA-90+7'M.奥利塞[Bayern]黄牌(1/0)
+0706 16强第4场 墨西哥(MEX)2-3英格兰(ENG)  [09:00]
+-ENG-2'D.赖斯[Arsenal]黄牌(1/1)
+-ENG-37'J.贝林厄姆[RealMadrid](3)进球 B.萨卡[Arsenal](3)助攻
+-ENG-38'J.贝林厄姆[RealMadrid](4)进球 H.凯恩[Bayern](1)助攻
+-MEX-42'J.基尼奥内斯[Al-Qadsiah](4)进球
+-ENG-54'J.昆萨[Leverkusen]红牌(1/0)
+-ENG-60'H.凯恩[Bayern](6|14)进球
+-ENG-69'M.格伊[ManchesterCity]黄牌(1/0)
+-MEX-69'R.希门尼斯[Wolves](3)进球
+-MEX-71'J.桑切斯[PAOK]黄牌(1/0)
+-ENG-72'N.奥赖利[ManchesterCity]黄牌(1/0)
+-MEX-90+8'J.巴斯克斯[Genoa]黄牌(1/0)
