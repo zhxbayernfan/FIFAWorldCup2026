@@ -498,14 +498,14 @@ E组 第2轮 厄瓜多尔(ECU)0-0库拉索(CUW)  [08:00]
 -CUW-90+1'G.卡斯塔内尔[Bandung]黄牌(1)
 
 E组 第2轮 德国(GER)2-1科特迪瓦(CIV)  [04:00]
--CIV-30'F.凯西[AlAhli](1)进球
+-CIV-30'F.凯西[AlAhliJeddah](1)进球
 -GER-68'D.昂达夫[Stuttgart](2)进球 N.阿米里[Mainz](1)助攻
 -GER-90+4'D.昂达夫[Stuttgart](3)进球 F.恩梅查[Dortmund](1)助攻
 
 F组 第2轮 荷兰(NED)5-1瑞典(SWE)  [01:00]
 -NED-05'B.布罗比[Sunderland](1)进球 C.加克波[Liverpool](1)助攻
--NED-17'B.布罗比[Sunderland](2)进球 D.邓弗里斯[InterMilano](1)助攻
--NED-47'C.加克波[Liverpool](1)进球 D.邓弗里斯[InterMilano](2)助攻
+-NED-17'B.布罗比[Sunderland](2)进球 D.邓弗里斯[RealMadrid](1)助攻
+-NED-47'C.加克波[Liverpool](1)进球 D.邓弗里斯[RealMadrid](2)助攻
 -SWE-53'古德蒙松[Leeds]黄牌(1)
 -NED-54'C.加克波[Liverpool](2)进球 C.萨默维尔[WestHam](1)助攻
 -SWE-59'A.埃兰加[Newcastle](1)进球 A.伊萨克[Liverpool](3)助攻
@@ -675,7 +675,7 @@ F组 第1轮 瑞典(SWE)5-1突尼斯(TUN)  [10:00]
 
 E组 第1轮 科特迪瓦(CIV)1-0厄瓜多尔(ECU)  [07:00]
 -CIV-28'S.福法纳[Porto]黄牌(1)
--CIV-38'F.凯西[AlAhli]黄牌(1)
+-CIV-38'F.凯西[AlAhliJeddah]黄牌(1)
 -CIV-40'G.杜埃[Strasbourg]黄牌(1)
 -ECU-73'P.波罗索[Troyes]黄牌(1)
 -CIV-90'A.迪亚洛[ManchesterUnited](1)进球 W.辛戈[Galatasaray](1)助攻
