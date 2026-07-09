@@ -13,7 +13,7 @@ K组
 -COL-41'D.穆尼奥斯[CrystalPalace](1)进球 L.迪亚斯[Bayern](1)助攻
 -UZB-61'A.法伊祖拉耶夫[Basaksehir](1)头球进球
 -COL-66'L.迪亚斯[Bayern](1)进球 G.普埃尔塔[Santander](1)助攻
--COL-90+11'H.坎帕斯[RosarioCentral](1)头球进球 C.埃尔南德斯[Betis](1)助攻
+-COL-90+11'H.坎帕斯[RosarioCentral](1)头球进球 C.埃尔南德斯[RealBetis](1)助攻
 
 0624 K组第2轮 葡萄牙(POR)5-0乌兹别克斯坦(UZB)  [01:00]
 -POR-06'C.罗纳尔多[AlNassr](1|9)进球 J.坎塞洛[Barcelona](1)助攻

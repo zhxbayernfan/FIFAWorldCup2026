@@ -1,5 +1,4 @@
 0708 RoundOf16 Day4
-
 16强 第7场 阿根廷(ARG)3-2埃及(EGY)  [00:00]
 -EGY-15'Y.易卜拉欣[CairoNat](1)进球 M.阿提亚[CairoNat](1)助攻
 -EGY-21'S.埃尔萨吉尔[Egypt]黄牌(1/0)
@@ -11,3 +10,36 @@
 -EGY-90+8'M.阿提亚[CairoNat]黄牌(1/1)
 -EGY-90+9'H.海.哈桑[RealOviedo]黄牌(2/0)
 -EGY-90+13'H.胡.哈桑[Egypt]黄牌(1/0)
+
+16强 第8场 瑞士(SUI)0-0哥伦比亚(COL)  [04:00]
+-SUI-51'G.扎卡[Sunderland]黄牌(1/1)
+-SUI-59'D.扎卡里亚[Monaco]黄牌(1/1)
+-COL-60'L.苏亚雷斯[Sporting]黄牌(1/0)
+-COL-95'D.桑切斯[Galatasaray]黄牌(1/0)
+-SUI-105'M.穆海姆[Hamburg]黄牌(1/0)
+---点球大战---
+-COL1-J.金特罗[RiverPlate]点球命中✅[1]-[0]
+-SUI1-G.扎卡[Sunderland]点球命中✅[1]-[1]
+-COL2-D.桑切斯[Galatasaray]点球未进❌[1]-[1]
+-SUI2-Z.阿姆杜尼[Burnley]点球命中✅[2]-[1]
+-COL3-H.坎帕斯[RosarioCentral]点球命中✅[2]-[2]
+-SUI3-M.阿坎吉[InterMilano]点球未进❌[2]-[2]
+-COL4-C.埃尔南德斯[RealBetis]点球未进❌[2]-[2]
+-SUI4-C.伊滕[Bremen]点球命中✅[3]-[2]
+-COL5-L.迪亚斯[Bayern]点球命中✅[3]-[3]
+-SUI5-R.巴尔加斯[Sevilla]点球命中✅[4]-[3]
+
+16强 第5场 葡萄牙(POR)0-1西班牙(ESP)  [03:00]
+-POR-89'B.席尔瓦[RealMadrid]黄牌(1/1)
+-ESP-90+1'M.梅里诺[Arsenal](1)进球 F.托雷斯[Barcelona](1)助攻
+-POR-90+4'R.韦加[Villarreal]黄牌(1/1)
+-ESP-90+9'F.托雷斯[Barcelona]黄牌(1/0)
+
+16强 第6场 美国(USA)1-4比利时(BEL)  [08:00]
+-BEL-09'C.德凯特拉雷[Atalanta](1)进球 N.拉斯坎[GlasgowRangers](2)助攻
+-USA-31'M.蒂尔曼[Leverkusen](2)进球
+-BEL-33'C.德凯特拉雷[Atalanta](2)进球 L.特罗萨德[Arsenal](5)助攻
+-USA-35'W.麦肯尼[Juventus]黄牌(1/0)
+-BEL-57'H.范纳肯[Brugge](1)进球 C.德凯特拉雷[Atalanta](1)助攻
+-USA-69'M.蒂尔曼[Leverkusen]黄牌(1/0)
+-BEL-90+3'R.卢卡库[Napoli](3)进球 H.范纳肯[Brugge](2)助攻

@@ -1,6 +1,24 @@
 2026世界杯比赛战报(倒序)
 ========================================
 0708
+16强 第8场 瑞士(SUI)0-0哥伦比亚(COL)  [04:00]
+-SUI-51'G.扎卡[Sunderland]黄牌(1/1)
+-SUI-59'D.扎卡里亚[Monaco]黄牌(1/1)
+-COL-60'L.苏亚雷斯[Sporting]黄牌(1/0)
+-COL-95'D.桑切斯[Galatasaray]黄牌(1/0)
+-SUI-105'M.穆海姆[Hamburg]黄牌(1/0)
+---点球大战---
+-COL1-J.金特罗[RiverPlate]点球命中✅[1]-[0]
+-SUI1-G.扎卡[Sunderland]点球命中✅[1]-[1]
+-COL2-D.桑切斯[Galatasaray]点球未进❌[1]-[1]
+-SUI2-Z.阿姆杜尼[Burnley]点球命中✅[2]-[1]
+-COL3-H.坎帕斯[RosarioCentral]点球命中✅[2]-[2]
+-SUI3-M.阿坎吉[InterMilano]点球未进❌[2]-[2]
+-COL4-C.埃尔南德斯[RealBetis]点球未进❌[2]-[2]
+-SUI4-C.伊滕[Bremen]点球命中✅[3]-[2]
+-COL5-L.迪亚斯[Bayern]点球命中✅[3]-[3]
+-SUI5-R.巴尔加斯[Sevilla]点球命中✅[4]-[3]
+
 16强 第7场 阿根廷(ARG)3-2埃及(EGY)  [00:00]
 -EGY-15'Y.易卜拉欣[CairoNat](1)进球 M.阿提亚[CairoNat](1)助攻
 -EGY-21'S.埃尔萨吉尔[Egypt]黄牌(1/0)
@@ -617,7 +635,7 @@ K组 第1轮 乌兹别克斯坦(UZB)1-3哥伦比亚(COL)  [10:00]
 -COL-41'D.穆尼奥斯[CrystalPalace](1)进球 L.迪亚斯[Bayern](1)助攻
 -UZB-61'A.法伊祖拉耶夫[Basaksehir](1)头球进球
 -COL-66'L.迪亚斯[Bayern](1)进球 G.普埃尔塔[Santander](1)助攻
--COL-90+11'H.坎帕斯[RosarioCentral](1)头球进球 C.埃尔南德斯[Betis](1)助攻
+-COL-90+11'H.坎帕斯[RosarioCentral](1)头球进球 C.埃尔南德斯[RealBetis](1)助攻
 
 L组 第1轮 加纳(GHA)1-0巴拿马(PAN)  [07:00]
 -GHA-16'C.伊伦基[Nordsjaelland]黄牌(1)
