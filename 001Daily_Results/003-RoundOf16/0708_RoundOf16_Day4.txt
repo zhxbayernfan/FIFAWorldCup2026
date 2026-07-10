@@ -11,6 +11,12 @@
 -EGY-90+9'H.海.哈桑[RealOviedo]黄牌(2/0)
 -EGY-90+13'H.胡.哈桑[Egypt]黄牌(1/0)
 
+16强 第5场 葡萄牙(POR)0-1西班牙(ESP)  [03:00]
+-POR-89'B.席尔瓦[RealMadrid]黄牌(1/1)
+-ESP-90+1'M.梅里诺[Arsenal](1)进球 F.托雷斯[Barcelona](1)助攻
+-POR-90+4'R.韦加[Villarreal]黄牌(1/1)
+-ESP-90+9'F.托雷斯[Barcelona]黄牌(1/0)
+
 16强 第8场 瑞士(SUI)0-0哥伦比亚(COL)  [04:00]
 -SUI-51'G.扎卡[Sunderland]黄牌(1/1)
 -SUI-59'D.扎卡里亚[Monaco]黄牌(1/1)
@@ -28,12 +34,6 @@
 -SUI4-C.伊滕[Bremen]点球命中✅[3]-[2]
 -COL5-L.迪亚斯[Bayern]点球命中✅[3]-[3]
 -SUI5-R.巴尔加斯[Sevilla]点球命中✅[4]-[3]
-
-16强 第5场 葡萄牙(POR)0-1西班牙(ESP)  [03:00]
--POR-89'B.席尔瓦[RealMadrid]黄牌(1/1)
--ESP-90+1'M.梅里诺[Arsenal](1)进球 F.托雷斯[Barcelona](1)助攻
--POR-90+4'R.韦加[Villarreal]黄牌(1/1)
--ESP-90+9'F.托雷斯[Barcelona]黄牌(1/0)
 
 16强 第6场 美国(USA)1-4比利时(BEL)  [08:00]
 -BEL-09'C.德凯特拉雷[Atalanta](1)进球 N.拉斯坎[GlasgowRangers](2)助攻
