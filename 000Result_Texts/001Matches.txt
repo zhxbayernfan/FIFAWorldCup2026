@@ -1,6 +1,5 @@
 2026世界杯比赛战报(倒序)
 ========================================
-----------
 0714
 今日休战
 ----------
@@ -8,6 +7,18 @@
 今日休战
 ----------
 0712
+8强 第4场 阿根廷(ARG)3-1瑞士(SUI)  [09:00]
+-ARG-10'A.麦卡利斯特[Liverpool](1)头球进球 L.梅西[InterMiami](3|10)助攻
+-SUI-44'B.恩博洛[Rennes]黄牌(1/0)
+-SUI-68'D.恩多耶[NottinghamForest](3)进球 R.罗德里格斯[RealBetis](1)助攻
+-SUI-72'B.恩博洛[Rennes]黄牌(2/0)
+-SUI-72'B.恩博洛[Rennes]红牌(1/0)
+-ARG-97'T.阿尔马达[AtleticoMadrid]黄牌(1/0)
+-ARG-98'L.马丁内斯[InterMilano]黄牌(1/0)
+-ARG-112'J.阿尔瓦雷斯[AtleticoMadrid](1)进球
+-ARG-114'J.洛佩斯[Palmeiras]黄牌(1/0)
+-ARG-120+1'L.马丁内斯[InterMilano](2)进球
+
 8强 第3场 挪威(NOR)1-2英格兰(ENG)  [05:00]
 -NOR-36'A.谢尔德鲁普[Benfica](1)进球 M.厄德高[Arsenal](4)助攻
 -ENG-45+2'J.贝林厄姆[RealMadrid](5)进球 A.戈登[Barcelona](3)助攻
