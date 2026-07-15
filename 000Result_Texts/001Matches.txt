@@ -33,7 +33,7 @@
 -SUI-44'B.恩博洛[Rennes]黄牌(1/0)
 -SUI-68'D.恩多耶[NottinghamForest](3)进球 R.罗德里格斯[RealBetis](1)助攻
 -SUI-72'B.恩博洛[Rennes]黄牌(2/0)
--SUI-72'B.恩博洛[Rennes]红牌(1/0)
+-SUI-72'B.恩博洛[Rennes]红牌(1/0)(2黄变1红)
 -ARG-97'T.阿尔马达[AtleticoMadrid]黄牌(1/0)
 -ARG-98'L.马丁内斯[InterMilano]黄牌(1/0)
 -ARG-112'J.阿尔瓦雷斯[AtleticoMadrid](1)进球
@@ -187,7 +187,7 @@
 ----------
 0703
 32强 第13场 瑞士(SUI)2-0阿尔及利亚(ALG)  [11:00]
--SUI-11'B.恩博洛[Rennes](2)进球 J.曼赞比[Freiburg](3)助攻
+-SUI-11'B.恩博洛[Rennes](2)进球 J.曼赞比[Freiburg](2)助攻
 -ALG-36'F.沙伊比[Frankfurt]黄牌(1/0)
 -SUI-46'D.恩多耶[NottinghamForest](2)进球
 -ALG-73'H.布达维[Nice]黄牌(1/0)
@@ -680,7 +680,7 @@ B组 第2轮 瑞士(SUI)4-1波黑(BIH)  [03:00]
 -BIH-61'E.哲科[Schalke]黄牌(1)
 -SUI-66'N.埃尔韦迪[M'Gladbach]黄牌(1)
 -SUI-75'J.曼赞比[Freiburg](1)进球
--BIH-80'T.穆哈雷莫维奇[Astana]红牌(1)
+-BIH-80'T.穆哈雷莫维奇[Sassolo]红牌(1)
 -SUI-84'R.巴尔加斯[Sevilla](1)进球 D.恩多耶[NottinghamForest](1)助攻
 -SUI-90'J.曼赞比[Freiburg](2)进球 R.巴尔加斯[Sevilla](1)助攻
 -BIH-90+3'E.马赫米奇[Liberec](1)进球
