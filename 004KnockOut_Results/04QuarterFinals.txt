@@ -25,7 +25,7 @@
 -SUI-72'B.恩博洛[Rennes]黄牌(2/0)
 -SUI-72'B.恩博洛[Rennes]红牌(1/0)(2黄变1红)
 -ARG-97'T.阿尔马达[AtleticoMadrid]黄牌(1/0)
--ARG-98'L.马丁内斯[InterMilano]黄牌(1/0)
+-ARG-98'La.马丁内斯[InterMilano]黄牌(1/0)
 -ARG-112'J.阿尔瓦雷斯[AtleticoMadrid](1)进球
 -ARG-114'J.洛佩斯[Palmeiras]黄牌(1/0)
--ARG-120+1'L.马丁内斯[InterMilano](2)进球
+-ARG-120+1'La.马丁内斯[InterMilano](2)进球
