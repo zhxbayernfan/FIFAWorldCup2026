@@ -12,8 +12,8 @@
 -BEL-64'B.梅切勒[Brugge]黄牌(1/0)
 -SEN-68'L.卡马拉[Monaco]黄牌(1/0)
 -BEL-86'R.卢卡库[Napoli](2)进球 T.穆尼耶[Lille](1)助攻
--BEL-89'Y.蒂勒曼斯[AstonVilla](1)进球 L.特罗萨德[Arsenal](4)助攻
--BEL-120+5'Y.蒂勒曼斯[AstonVilla](2)进球
+-BEL-89'Y.蒂勒曼斯[ManchesterUnited](1)进球 L.特罗萨德[Besciktas](4)助攻
+-BEL-120+5'Y.蒂勒曼斯[ManchesterUnited](2)进球
 
 32强 第10场 美国(USA)2-0波黑(BIH)  [08:00]
 -USA-45'F.巴洛贡[Monaco](3)进球

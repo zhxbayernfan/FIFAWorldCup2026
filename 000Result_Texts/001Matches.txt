@@ -100,7 +100,7 @@
 16强 第6场 美国(USA)1-4比利时(BEL)  [08:00]
 -BEL-09'C.德凯特拉雷[Atalanta](1)进球 N.拉斯坎[GlasgowRangers](2)助攻
 -USA-31'M.蒂尔曼[Leverkusen](2)进球
--BEL-33'C.德凯特拉雷[Atalanta](2)进球 L.特罗萨德[Arsenal](5)助攻
+-BEL-33'C.德凯特拉雷[Atalanta](2)进球 L.特罗萨德[Besciktas](5)助攻
 -USA-35'W.麦肯尼[Juventus]黄牌(1/0)
 -BEL-57'H.范纳肯[Brugge](1)进球 C.德凯特拉雷[Atalanta](1)助攻
 -USA-69'M.蒂尔曼[Leverkusen]黄牌(1/0)
@@ -219,8 +219,8 @@
 -BEL-64'B.梅切勒[Brugge]黄牌(1/0)
 -SEN-68'L.卡马拉[Monaco]黄牌(1/0)
 -BEL-86'R.卢卡库[Napoli](2)进球 T.穆尼耶[Lille](1)助攻
--BEL-89'Y.蒂勒曼斯[AstonVilla](1)进球 L.特罗萨德[Arsenal](4)助攻
--BEL-120+5'Y.蒂勒曼斯[AstonVilla](2)进球
+-BEL-89'Y.蒂勒曼斯[ManchesterUnited](1)进球 L.特罗萨德[Besciktas](4)助攻
+-BEL-120+5'Y.蒂勒曼斯[ManchesterUnited](2)进球
 
 32强 第8场 英格兰(ENG)2-1刚果民主共和国(COD)  [00:00]
 -COD-07'B.西庞加[Almeria](1)进球 S.姆本巴[Lille](1)助攻
@@ -368,9 +368,9 @@ G组 第3轮 埃及(EGY)1-1伊朗(IRN)  [11:00]
 -IRN-90+5'S.哈利勒扎德[TabrizTractor]黄牌(1)
 
 G组 第3轮 新西兰(NZL)1-5比利时(BEL)  [11:00]
--BEL-28'L.特罗萨德[Arsenal](1)进球
+-BEL-28'L.特罗萨德[Besciktas](1)进球
 -NZL-47'M.斯塔梅尼奇[Swansea]黄牌(1)
--BEL-50'L.特罗萨德[Arsenal](2)进球 H.范纳肯[Brugge](1)助攻
+-BEL-50'L.特罗萨德[Besciktas](2)进球 H.范纳肯[Brugge](1)助攻
 -NZL-56'E.贾斯特[Motherwell]黄牌(1)
 -BEL-67'K.德布劳内[Napoli](1)进球
 -NZL-84'E.贾斯特[Motherwell](3)进球
