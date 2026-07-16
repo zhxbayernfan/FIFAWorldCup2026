@@ -4,3 +4,12 @@
 -ESP-32'M.库库雷利亚[RealMadrid]黄牌(1/0)
 -ESP-58'P.波罗[TottenhamHotSpurs](2)进球 D.奥尔莫[Barcelona](2)助攻
 -FRA-86'K.姆巴佩[RealMadrid]黄牌(1/0)
+
+0716 半决赛 第2场 英格兰(ENG)1-2阿根廷(ARG)  [03:00]
+-ENG-37'E.安德森[ManchesterCity]黄牌(1/0)
+-ARG-42'Li.马丁内斯[ManchesterUnited]黄牌(1/0)
+-ARG-51'C.罗梅罗[TottenhamHotSpurs]黄牌(1/0)
+-ENG-55'A.戈登[Barcelona](1)进球 摩根.罗杰斯[AstonVilla](1)助攻
+-ARG-85'E.费尔南德斯[Chelsea](2)进球 L.梅西[InterMiami](4|11)助攻
+-ARG-90+2'La.马丁内斯[InterMilano](3)进球 L.梅西[InterMiami](5|12)助攻
+-ARG-90+4'R.德保罗[InterMiami]黄牌(1/0)
