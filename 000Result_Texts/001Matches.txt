@@ -15,7 +15,7 @@
 半决赛 第2场 英格兰(ENG)1-2阿根廷(ARG) [03:00]
 -ENG-37'E.安德森[ManchesterCity]黄牌(1/0)
 -ARG-42'Li.马丁内斯[ManchesterUnited]黄牌(1/0)
--ARG-51'C.罗梅罗[TottenhamHotSpurs]黄牌(1/0)
+-ARG-51'C.罗梅罗[TottenhamHotspur]黄牌(1/0)
 -ENG-55'A.戈登[Barcelona](1)进球 M.罗杰斯[AstonVilla](1)助攻
 -ARG-85'E.费尔南德斯[Chelsea](2)进球 L.梅西[InterMiami](4|11)助攻
 -ARG-90+2'La.马丁内斯[InterMilano](3)进球 L.梅西[InterMiami](5|12)助攻
@@ -26,7 +26,7 @@
 -FRA-9'A.拉比奥[ACMilan]黄牌(1/0)
 -ESP-22'M.奥亚萨瓦尔[RealSociedad](5)进球
 -ESP-32'M.库库雷利亚[RealMadrid]黄牌(1/0)
--ESP-58'P.波罗[TottenhamHotSpurs](2)进球 D.奥尔莫[Barcelona](2)助攻
+-ESP-58'P.波罗[TottenhamHotspur](2)进球 D.奥尔莫[Barcelona](2)助攻
 -FRA-86'K.姆巴佩[RealMadrid]黄牌(1/0)
 ----------
 0714
@@ -96,7 +96,7 @@
 -EGY-15'Y.易卜拉欣[CairoNat](1)进球 M.阿提亚[CairoNat](1)助攻
 -EGY-21'S.埃尔萨吉尔[Egypt]黄牌(1/0)
 -EGY-67'M.济科[Pyramids](2)进球 H.海.哈桑[RealOviedo](1)助攻
--ARG-79'C.罗梅罗[TottenhamHotSpurs](1)头球进球 L.梅西[InterMiami](2|9)助攻
+-ARG-79'C.罗梅罗[TottenhamHotspur](1)头球进球 L.梅西[InterMiami](2|9)助攻
 -ARG-84'L.梅西[InterMiami](8|21)进球 G.蒙铁尔[RiverPlate](1)助攻
 -ARG-90+3'E.费尔南德斯[Chelsea](1)头球进球 La.马丁内斯[InterMilano](1)助攻
 -EGY-90+7'H.法特希[AlWakrah]黄牌(1/2)
@@ -186,7 +186,7 @@
 ---点球大战---
 -AUS1-H.苏塔[Leicester]点球未进❌[0]-[0]
 -EGY1-M.萨比尔[Pyramids]点球命中✅[1]-[0]
--AUS2-J.欧文[StPauli]点球命中✅[1]-[1]
+-AUS2-J.欧文[St.Pauli]点球命中✅[1]-[1]
 -EGY2-R.拉比亚[CairoNat]点球命中✅[2]-[1]
 -AUS3-A.马比尔[Castellon]点球命中✅[2]-[2]
 -EGY3-M.萨拉赫[Liverpool]点球命中✅[3]-[2]
@@ -210,7 +210,7 @@
 
 32强 第11场 西班牙(ESP)3-0奥地利(AUT) [03:00]
 -ESP-36'M.奥亚萨瓦尔[RealSociedad](3)进球 M.库库雷利亚[RealMadrid](1)助攻
--ESP-66'P.波罗[TottenhamHotSpurs](1)进球 A.巴埃纳[AtleticoMadrid](1)助攻
+-ESP-66'P.波罗[TottenhamHotspur](1)进球 A.巴埃纳[AtleticoMadrid](1)助攻
 -AUT-83'S.波施[Mainz]黄牌(1/1)
 -ESP-89'M.奥亚萨瓦尔[RealSociedad](4)进球 M.库库雷利亚[RealMadrid](2)助攻
 ----------
@@ -423,7 +423,7 @@ I组 第3轮 挪威(NOR)1-4法国(FRA) [03:00]
 ----------
 0626
 D组 第3轮 巴拉圭(PAR)0-0澳大利亚(AUS) [10:00]
--AUS-47'J.欧文[StPauli]黄牌(1)
+-AUS-47'J.欧文[St.Pauli]黄牌(1)
 -PAR-77'D.戈麦斯[Brighton]黄牌(1)
 
 D组 第3轮 土耳其(TUR)3-2美国(USA) [10:00]
@@ -445,7 +445,7 @@ F组 第3轮 突尼斯(TUN)1-3荷兰(NED) [07:00]
 -NED-03'E.斯希里[Frankfurt]乌龙(OG)
 -NED-07'B.布罗比[Sunderland](3)进球 V.范戴克[Liverpool](1)助攻
 -TUN-54'H.马斯图里[DynamoMakhachkala](1)头球进球 H.梅布里[Burnley](2)助攻
--NED-62'J.范黑克[TottenhamHotSpurs](1)头球进球 T.赖因德斯[ManchesterCity](1)助攻
+-NED-62'J.范黑克[TottenhamHotspur](1)头球进球 T.赖因德斯[ManchesterCity](1)助攻
 
 E组 第3轮 库拉索(CUW)0-2科特迪瓦(CIV) [04:00]
 -CIV-07'N.佩佩[Villarreal](1)进球 Y.迪奥曼德[Leipzig](1)助攻
@@ -576,7 +576,7 @@ G组 第2轮 新西兰(NZL)1-3埃及(EGY) [09:00]
 
 H组 第2轮 乌拉圭(URU)2-2佛得角(CPV) [06:00]
 -CPV-05'S.卡布拉尔[Benfica]黄牌(2)
--URU-20'R.本坦库尔[TottenhamHotSpurs]黄牌(1)
+-URU-20'R.本坦库尔[TottenhamHotspur]黄牌(1)
 -CPV-21'K.皮纳[Krasnodar](1)任意球进球
 -URU-44'M.阿劳霍[Sporting](2)头球进球
 -URU-45+6'A.卡诺比奥[Fluminense](1)进球 M.阿劳霍[Sporting](1)助攻
@@ -630,7 +630,7 @@ F组 第2轮 荷兰(NED)5-1瑞典(SWE) [01:00]
 -NED-54'C.加克波[Liverpool](2)进球 C.萨默维尔[WestHam](1)助攻
 -SWE-59'A.埃兰加[Newcastle](1)进球 A.伊萨克[Liverpool](3)助攻
 -SWE-75'Y.阿亚里[Brighton]黄牌(1)
--SWE-80'L.贝里瓦尔[TottenhamHotSpurs]黄牌(1)
+-SWE-80'L.贝里瓦尔[TottenhamHotspur]黄牌(1)
 -NED-89'C.萨默维尔[WestHam](2)进球 M.德佩[Corinthians](1)助攻
 ----------
 0620
@@ -651,7 +651,7 @@ C组 第2轮 巴西(BRA)3-0海地(HAI) [08:30]
 
 C组 第2轮 苏格兰(SCO)0-1摩洛哥(MAR) [06:00]
 -MAR-02'I.赛巴里[Bayern](2)进球 B.迪亚斯[RealMadrid](2)助攻
--SCO-65'A.罗伯逊[TottenhamHotSpurs]黄牌(1)
+-SCO-65'A.罗伯逊[TottenhamHotspur]黄牌(1)
 -MAR-22'I.迪奥普[Fulham]黄牌(1)
 
 D组 第2轮 美国(USA)2-0澳大利亚(AUS) [03:00]
@@ -686,7 +686,7 @@ B组 第2轮 加拿大(CAN)6-0卡塔尔(QAT) [06:00]
 B组 第2轮 瑞士(SUI)4-1波黑(BIH) [03:00]
 -BIH-59'A.德迪奇[Benfica]黄牌(1)
 -BIH-61'E.哲科[Schalke]黄牌(1)
--SUI-66'N.埃尔韦迪[M'Gladbach]黄牌(1)
+-SUI-66'N.埃尔韦迪[Mönchengladbach]黄牌(1)
 -SUI-75'J.曼赞比[Freiburg](1)进球
 -BIH-80'T.穆哈雷莫维奇[Sassolo]红牌(1)
 -SUI-84'R.巴尔加斯[Sevilla](1)进球 D.恩多耶[NottinghamForest](1)助攻
@@ -791,7 +791,7 @@ F组 第1轮 瑞典(SWE)5-1突尼斯(TUN) [10:00]
 -TUN-54'R.赫迪拉[UnionBerlin]黄牌(1)
 -SWE-59'V.哲凯赖什[Arsenal](1)进球 A.伊萨克[Liverpool](1)助攻
 -SWE-84'M.斯万贝里[Wolfsburg](1)进球 A.伊萨克[Liverpool](2)助攻
--SWE-90+6'Y.阿亚里[Brighton](2)进球 L.贝里瓦尔[TottenhamHotSpurs](1)助攻
+-SWE-90+6'Y.阿亚里[Brighton](2)进球 L.贝里瓦尔[TottenhamHotspur](1)助攻
 
 E组 第1轮 科特迪瓦(CIV)1-0厄瓜多尔(ECU) [07:00]
 -CIV-28'S.福法纳[Porto]黄牌(1)
@@ -807,7 +807,7 @@ F组 第1轮 荷兰(NED)2-2日本(JPN) [04:00]
 -NED-64'C.萨默维尔[WestHam](1)进球 R.格拉芬贝赫[Liverpool](2)助攻
 -NED-83'M.德佩[Corinthians]黄牌(1)
 -JPN-89'镰田大地[CrystalPalace](1)进球 小川航基[NEC](1)助攻
--NED-90+1'M.范德芬[TottenhamHotSpurs]黄牌(1)
+-NED-90+1'M.范德芬[TottenhamHotspur]黄牌(1)
 
 E组 第1轮 德国(GER)7-1库拉索(CUW) [01:00]
 -GER-06'F.恩梅查[Dortmund](1)进球 F.维尔茨[Liverpool](1)助攻
@@ -822,7 +822,7 @@ E组 第1轮 德国(GER)7-1库拉索(CUW) [01:00]
 0614
 D组 第1轮 澳大利亚(AUS)2-0土耳其(TUR) [12:00]
 -AUS-27'N.伊兰昆达[Watford](1)进球 P.奥孔-恩斯特勒[SydneyFC](1)助攻
--AUS-75'C.梅特卡夫[StPauli](1)进球
+-AUS-75'C.梅特卡夫[St.Pauli](1)进球
 -TUR-86'Y.阿克金[Galatasaray]黄牌(1)
 
 C组 第1轮 苏格兰(SCO)1-0海地(HAI) [09:00]
@@ -856,7 +856,7 @@ D组 第1轮 美国(USA)4-1巴拉圭(PAR) [09:00]
 -PAR-73'M.普拉多[Palmeiras](1)进球 J.恩西索[Strasbourg](1)助攻
 -PAR-79'G.戈麦斯[Brighton]黄牌(1)
 -PAR-88'A.阿尔塞[IndRiv]黄牌(1)
--USA-90'G.雷纳[M'Gladbach](1)进球 A.弗里曼[Villarreal](1)助攻
+-USA-90'G.雷纳[Mönchengladbach](1)进球 A.弗里曼[Villarreal](1)助攻
 
 B组 第1轮 加拿大(CAN)1-1波黑(BIH) [03:00]
 -CAN-11'A.约翰斯顿[Celtic]黄牌(1)

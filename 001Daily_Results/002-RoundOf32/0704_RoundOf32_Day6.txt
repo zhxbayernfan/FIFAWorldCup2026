@@ -7,7 +7,7 @@
 ---点球大战---
 -AUS1-H.苏塔[Leicester]点球未进❌[0]-[0]
 -EGY1-M.萨比尔[Pyramids]点球命中✅[1]-[0]
--AUS2-J.欧文[StPauli]点球命中✅[1]-[1]
+-AUS2-J.欧文[St.Pauli]点球命中✅[1]-[1]
 -EGY2-R.拉比亚[CairoNat]点球命中✅[2]-[1]
 -AUS3-A.马比尔[Castellon]点球命中✅[2]-[2]
 -EGY3-M.萨拉赫[Liverpool]点球命中✅[3]-[2]
