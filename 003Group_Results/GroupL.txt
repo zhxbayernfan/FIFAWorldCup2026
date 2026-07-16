@@ -1,5 +1,5 @@
 L组
-0618 L组第1轮 英格兰(ENG)4-2克罗地亚(CRO)  [04:00]
+0618 L组第1轮 英格兰(ENG)4-2克罗地亚(CRO) [04:00]
 -ENG-12'H.凯恩[Bayern](1|9)点球命中
 -CRO-36'M.巴图里纳[Como](1)进球 P.苏契奇[InterMilano](1)助攻
 -ENG-42'H.凯恩[Bayern](2|10)头球进球 D.赖斯[Arsenal](1)助攻
@@ -7,30 +7,30 @@ L组
 -ENG-47'J.贝林厄姆[RealMadrid](1)进球 E.安德森[ManchesterCity](1)助攻
 -ENG-85'M.拉什福德[ManchesterUnited](1)进球 B.萨卡[Arsenal](1)助攻
 
-0618 L组第1轮 加纳(GHA)1-0巴拿马(PAN)  [07:00]
+0618 L组第1轮 加纳(GHA)1-0巴拿马(PAN) [07:00]
 -GHA-16'C.伊伦基[Nordsjaelland]黄牌(1)
 -PAN-73'C.布莱克曼[Bratislava]黄牌(1)
 -GHA-90+5'C.伊伦基[Nordsjaelland](1)进球
 -PAN-90+10'C.哈维[MinnesotaU]黄牌(1)
 
-0624 L组第2轮 英格兰(ENG)0-0加纳(GHA)  [04:00]
+0624 L组第2轮 英格兰(ENG)0-0加纳(GHA) [04:00]
 -=-4O: 马宁(CHN)
 -ENG-41'D.赖斯[Arsenal]黄牌(1)
 -GHA-60'I.威廉斯[AthleticBilbao]黄牌(1)
 
-0624 L组第2轮 巴拿马(PAN)0-1克罗地亚(CRO)  [07:00]
+0624 L组第2轮 巴拿马(PAN)0-1克罗地亚(CRO) [07:00]
 -CRO-54'A.布迪米尔[Osasuna](1)进球 J.斯塔尼希奇[Bayern](1)助攻
 -PAN-61'Y.巴尔塞尼亚斯[Mazatlan]黄牌(1)
 -CRO-90+2'P.苏契奇[InterMilano]黄牌(1)
 
-0628 L组第3轮 克罗地亚(CRO)2-1加纳(GHA)  [05:00]
+0628 L组第3轮 克罗地亚(CRO)2-1加纳(GHA) [05:00]
 -CRO-32'P.苏契奇[InterMilano](1)进球
 -CRO-69'I.佩里西奇[PSV]黄牌(1)
 -GHA-78'D.卢卡森[Paphos](1)进球 E.努瓦马[Lyon](1)助攻
 -CRO-83'N.弗拉希奇[Torino](1)头球进球 L.莫德里奇[ACMilan](1)助攻
 -GHA-90+5'K.奥蓬[Nice]黄牌(1)
 
-0628 L组第3轮 巴拿马(PAN)0-2英格兰(ENG)  [05:00]
+0628 L组第3轮 巴拿马(PAN)0-2英格兰(ENG) [05:00]
 -PAN-54'J.法哈多[CatholicU]黄牌(1)
 -ENG-60'J.昆萨[Leverkusen]黄牌(1)
 -ENG-62'J.贝林厄姆[RealMadrid](2)进球 B.萨卡[Arsenal](2)助攻

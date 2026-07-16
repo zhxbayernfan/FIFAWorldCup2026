@@ -1,14 +1,14 @@
 H组
-0616 H组第1轮 西班牙(ESP)0-0佛得角(CPV)  [00:00]
+0616 H组第1轮 西班牙(ESP)0-0佛得角(CPV) [00:00]
 -CPV-16'S.卡布拉尔[Benfica]黄牌(1)
 -ESP-90+3'佩德里[Barcelona]黄牌(1)
 
-0616 H组第1轮 沙特阿拉伯(KSA)1-1乌拉圭(URU)  [06:00]
+0616 H组第1轮 沙特阿拉伯(KSA)1-1乌拉圭(URU) [06:00]
 -KSA-41'A.阿姆里[AlNassr](1)进球
 -KSA-44'A.阿姆里[AlNassr]黄牌(1)
 -URU-80'M.阿劳霍[Sporting](1)进球
 
-0622 H组第2轮 西班牙(ESP)4-0沙特阿拉伯(KSA)  [00:00]
+0622 H组第2轮 西班牙(ESP)4-0沙特阿拉伯(KSA) [00:00]
 -ESP-11'L.亚马尔[Barcelona](1)进球 M.奥亚萨瓦尔[RealSociedad](1)助攻
 -ESP-21'M.奥亚萨瓦尔[RealSociedad](1)进球 A.拉波尔特[AthleticBilbao](1)助攻
 -ESP-24'M.奥亚萨瓦尔[RealSociedad](2)进球 D.奥尔莫[Barcelona](1)助攻
@@ -16,7 +16,7 @@ H组
 -ESP-49'H.坦巴蒂[AlHilal]乌龙(OG)
 -KSA-60'M.卡努[AlHilal]黄牌(1)
 
-0622 H组第2轮 乌拉圭(URU)2-2佛得角(CPV)  [06:00]
+0622 H组第2轮 乌拉圭(URU)2-2佛得角(CPV) [06:00]
 -CPV-05'S.卡布拉尔[Benfica]黄牌(2)
 -URU-20'R.本坦库尔[TottenhamHotSpurs]黄牌(1)
 -CPV-21'K.皮纳[Krasnodar](1)任意球进球
@@ -26,13 +26,13 @@ H组
 -CPV-61'E.瓦雷拉[MaccabiTelAviv](1)进球
 -CPV-90+4'D.博尔赫斯[Bata]黄牌(1)
 
-0627 H组第3轮 佛得角(CPV)0-0沙特阿拉伯(KSA)  [08:00]
+0627 H组第3轮 佛得角(CPV)0-0沙特阿拉伯(KSA) [08:00]
 -KSA-04'S.阿卜杜勒哈米德[Lens]黄牌(1)
 -CPV-09'W.皮纳[Trabzonspor]黄牌(1)
 -KSA-67'N.多萨里[AlHilal]黄牌(1)
 -KSA-90+4'F.布赖坎[AlAhliJeddah]黄牌(1)
 
-0627 H组第3轮 乌拉圭(URU)0-1西班牙(ESP)  [08:00]
+0627 H组第3轮 乌拉圭(URU)0-1西班牙(ESP) [08:00]
 -ESP-42'A.巴埃纳[AtleticoMadrid](1)进球 M.略伦特[AtleticoMadrid](1)助攻
 -ESP-47'A.巴埃纳[AtleticoMadrid]黄牌(1)
 -URU-54'J.萨纳夫里亚[RealSaltLake]黄牌(1)

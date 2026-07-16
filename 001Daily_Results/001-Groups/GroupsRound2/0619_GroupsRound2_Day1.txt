@@ -1,12 +1,12 @@
 0619 GroupsRound2 Day1
-A组 第2轮 捷克(CZE)1-1南非(RSA)  [00:00]
+A组 第2轮 捷克(CZE)1-1南非(RSA) [00:00]
 -CZE-06'M.萨迪莱克[SlaviaPrague](1)进球 A.索伊卡[ViktoriaPlzen](1)助攻
 -RSA-33'T.莫克纳[Sundowns]黄牌(2)
 -RSA-40'T.姆巴塔[OrlandoP]黄牌(1)
 -CZE-78'L.克雷伊奇[Wolves]黄牌(1)
 -RSA-83'T.莫克纳[Sundowns](1)进球
 
-B组 第2轮 瑞士(SUI)4-1波黑(BIH)  [03:00]
+B组 第2轮 瑞士(SUI)4-1波黑(BIH) [03:00]
 -BIH-59'A.德迪奇[Benfica]黄牌(1)
 -BIH-61'E.哲科[Schalke]黄牌(1)
 -SUI-66'N.埃尔韦迪[M'Gladbach]黄牌(1)
@@ -17,7 +17,7 @@ B组 第2轮 瑞士(SUI)4-1波黑(BIH)  [03:00]
 -BIH-90+3'E.马赫米奇[Liberec](1)进球
 -SUI-90+7'G.扎卡[Sunderland](1)点球进球
 
-B组 第2轮 加拿大(CAN)6-0卡塔尔(QAT)  [06:00]
+B组 第2轮 加拿大(CAN)6-0卡塔尔(QAT) [06:00]
 -CAN-09'D.科尼利厄斯[Marseille]黄牌(1)
 -CAN-16'C.拉林[Southampton](2)进球
 -CAN-29'J.戴维[Juventus](1)进球
@@ -29,7 +29,7 @@ B组 第2轮 加拿大(CAN)6-0卡塔尔(QAT)  [06:00]
 -CAN-75'M.马纳伊[Shamal]乌龙(OG)
 -CAN-90+2'J.戴维[Juventus](3)进球 N.萨利巴[Anderlecht](1)助攻
 
-A组 第2轮 墨西哥(MEX)1-0韩国(KOR)  [09:00]
+A组 第2轮 墨西哥(MEX)1-0韩国(KOR) [09:00]
 -KOR-04'李刚仁[ParisSaintGermain]黄牌(1)
 -MEX-50'L.罗莫[Chivas](1)进球
 -KOR-58'白昇浩[Birmingham]黄牌(1)

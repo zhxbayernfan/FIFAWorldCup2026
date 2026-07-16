@@ -1,5 +1,5 @@
 A组
-0612 A组第1轮 墨西哥(MEX)2-0南非(RSA)  [03:00]
+0612 A组第1轮 墨西哥(MEX)2-0南非(RSA) [03:00]
 -MEX-09'J.基尼奥内斯[Al-Qadsiah](1)进球 E.利拉[CruzAzul](1)助攻
 -RSA-17'T.莫克纳[Sundowns]黄牌(1)
 -MEX-23'B.古铁雷斯[Chivas]黄牌(1)
@@ -9,30 +9,30 @@ A组
 -RSA-84'T.兹瓦内[Sundowns]红牌(1)(暴力击打面部)
 -MEX-90+2'C.蒙特斯[Lokomotiv]红牌(1)(阻止反击)
 
-0612 A组第1轮 韩国(KOR)2-1捷克(CZE)  [10:00]
+0612 A组第1轮 韩国(KOR)2-1捷克(CZE) [10:00]
 -CZE-59'L.克雷伊奇[Wolves](1)头球进球 V.曹法尔[Hoffenheim](1)助攻
 -KOR-69'黄仁范[Feyenoord](1)进球 李刚仁[ParisSaintGermain](1)助攻
 -KOR-80'吴贤揆[Besiktas](1)进球 黄仁范[Feyenoord](1)助攻
 -KOR-90+'李期奕[Gangwon]黄牌(1)
 
-0619 A组第2轮 捷克(CZE)1-1南非(RSA)  [00:00]
+0619 A组第2轮 捷克(CZE)1-1南非(RSA) [00:00]
 -CZE-06'M.萨迪莱克[SlaviaPrague](1)进球 A.索伊卡[ViktoriaPlzen](1)助攻
 -RSA-33'T.莫克纳[Sundowns]黄牌(2)
 -RSA-40'T.姆巴塔[OrlandoP]黄牌(1)
 -CZE-78'L.克雷伊奇[Wolves]黄牌(1)
 -RSA-83'T.莫克纳[Sundowns](1)进球
 
-0619 A组第2轮 墨西哥(MEX)1-0韩国(KOR)  [09:00]
+0619 A组第2轮 墨西哥(MEX)1-0韩国(KOR) [09:00]
 -KOR-04'李刚仁[ParisSaintGermain]黄牌(1)
 -MEX-50'L.罗莫[Chivas](1)进球
 -KOR-58'白昇浩[Birmingham]黄牌(1)
 
-0625 A组第3轮 南非(RSA)1-0韩国(KOR)  [09:00]
+0625 A组第3轮 南非(RSA)1-0韩国(KOR) [09:00]
 -RSA-63'T.马塞科[Sundowns](1)进球 T.莫雷米[OrlandoP](1)助攻
 -RSA-73'A.莫迪巴[Sundowns]黄牌(1)
 -KOR-79'曹圭成[Midtjylland]黄牌(1)
 
-0625 A组第3轮 捷克(CZE)0-3墨西哥(MEX)  [09:00]
+0625 A组第3轮 捷克(CZE)0-3墨西哥(MEX) [09:00]
 -MEX-55'M.查韦斯[AZ](1)进球 L.罗莫[Chivas](1)助攻
 -MEX-61'J.基尼奥内斯[Al-Qadsiah](2)进球 J.桑切斯[PAOK](1)助攻
 -MEX-64'E.阿尔瓦雷斯[Fenerbahce]黄牌(1)

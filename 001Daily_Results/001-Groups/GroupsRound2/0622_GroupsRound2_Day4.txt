@@ -1,5 +1,5 @@
 0622 GroupsRound2 Day4
-H组 第2轮 西班牙(ESP)4-0沙特阿拉伯(KSA)  [00:00]
+H组 第2轮 西班牙(ESP)4-0沙特阿拉伯(KSA) [00:00]
 -ESP-11'L.亚马尔[Barcelona](1)进球 M.奥亚萨瓦尔[RealSociedad](1)助攻
 -ESP-21'M.奥亚萨瓦尔[RealSociedad](1)进球 A.拉波尔特[AthleticBilbao](1)助攻
 -ESP-24'M.奥亚萨瓦尔[RealSociedad](2)进球 D.奥尔莫[Barcelona](1)助攻
@@ -7,12 +7,12 @@ H组 第2轮 西班牙(ESP)4-0沙特阿拉伯(KSA)  [00:00]
 -ESP-49'H.坦巴蒂[AlHilal]乌龙(OG)
 -KSA-60'M.卡努[AlHilal]黄牌(1)
 
-G组 第2轮 比利时(BEL)0-0伊朗(IRN)  [03:00]
+G组 第2轮 比利时(BEL)0-0伊朗(IRN) [03:00]
 -BEL-04'R.卢卡库[Napoli]黄牌(1)
 -IRN-33'S.埃扎托拉希[AlNasrDubai]黄牌(1)
 -BEL-67'N.恩戈伊[Lille]红牌(1)
 
-H组 第2轮 乌拉圭(URU)2-2佛得角(CPV)  [06:00]
+H组 第2轮 乌拉圭(URU)2-2佛得角(CPV) [06:00]
 -CPV-05'S.卡布拉尔[Benfica]黄牌(2)
 -URU-20'R.本坦库尔[TottenhamHotSpurs]黄牌(1)
 -CPV-21'K.皮纳[Krasnodar](1)任意球进球
@@ -22,7 +22,7 @@ H组 第2轮 乌拉圭(URU)2-2佛得角(CPV)  [06:00]
 -CPV-61'E.瓦雷拉[MaccabiTelAviv](1)进球
 -CPV-90+4'D.博尔赫斯[Bata]黄牌(1)
 
-G组 第2轮 新西兰(NZL)1-3埃及(EGY)  [09:00]
+G组 第2轮 新西兰(NZL)1-3埃及(EGY) [09:00]
 -NZL-15'F.苏尔曼[PortlandTimbers](1)头球进球 T.佩恩[WellingtonPhoenix](1)助攻
 -EGY-18'M.拉欣[Pyramids]黄牌(1)
 -NZL-20'S.辛格[WellingtonPhoenix]黄牌(1)

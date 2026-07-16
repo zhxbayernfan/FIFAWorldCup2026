@@ -1,5 +1,5 @@
 0705 RoundOf16 Day1
-16强 第1场 加拿大(CAN)0-3摩洛哥(MAR)  [01:00]
+16强 第1场 加拿大(CAN)0-3摩洛哥(MAR) [01:00]
 -MAR-20'R.哈勒哈勒[Mechelen]黄牌(1/0)
 -MAR-40'A.哈基米[ParisSaintGermain]黄牌(1/0)
 -CAN-40'R.拉里亚[TorontoFC]黄牌(1/0)
@@ -12,7 +12,7 @@
 -MAR-82'A.乌纳希[Girona](2)进球 B.迪亚斯[RealMadrid](3)助攻
 -MAR-90+8'S.拉希米[AlAin](2)进球 B.迪亚斯[RealMadrid](4)助攻
 
-16强 第2场 巴拉圭(PAR)0-1法国(FRA)  [05:00]
+16强 第2场 巴拉圭(PAR)0-1法国(FRA) [05:00]
 -FRA-19'B.巴尔科拉[ParisSaintGermain]黄牌(1/0)
 -FRA-70'K.姆巴佩[RealMadrid](7|19)点球进球
 -FRA-82'M.科内[Roma]黄牌(1/0)

@@ -1,12 +1,12 @@
 0702 RoundOf32 Day4
-32强 第8场 英格兰(ENG)2-1刚果民主共和国(COD)  [00:00]
+32强 第8场 英格兰(ENG)2-1刚果民主共和国(COD) [00:00]
 -COD-07'B.西庞加[Almeria](1)进球 S.姆本巴[Lille](1)助攻
 -ENG-19'J.贝林厄姆[RealMadrid]黄牌(1/0)
 -COD-28'N.萨迪基[Sunderland]黄牌(2/0)
 -ENG-75'H.凯恩[Bayern](4|12)进球 A.戈登[Barcelona](1)助攻
 -ENG-86'H.凯恩[Bayern](5|13)进球 A.戈登[Barcelona](2)助攻
 
-32强 第9场 比利时(BEL)3-2塞内加尔(SEN)  [04:00]
+32强 第9场 比利时(BEL)3-2塞内加尔(SEN) [04:00]
 -SEN-25'H.迪亚拉[Sunderland](2)进球
 -SEN-51'I.萨尔[CrystalPalace](4)进球 M.尼亚卡特[Lyon](1)助攻
 -BEL-64'B.梅切勒[Brugge]黄牌(1/0)
@@ -15,7 +15,7 @@
 -BEL-89'Y.蒂勒曼斯[ManchesterUnited](1)进球 L.特罗萨德[Besiktas](4)助攻
 -BEL-120+5'Y.蒂勒曼斯[ManchesterUnited](2)进球
 
-32强 第10场 美国(USA)2-0波黑(BIH)  [08:00]
+32强 第10场 美国(USA)2-0波黑(BIH) [08:00]
 -USA-45'F.巴洛贡[Monaco](3)进球
 -USA-64'F.巴洛贡[Monaco]红牌(1/0)
 -BIH-81'S.巴尔巴雷斯[Bosnia&Herzegovina]黄牌(1/0)

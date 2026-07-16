@@ -1,24 +1,24 @@
 G组
-0616 G组第1轮 比利时(BEL)1-1埃及(EGY)  [03:00]
+0616 G组第1轮 比利时(BEL)1-1埃及(EGY) [03:00]
 -EGY-13'M.阿提亚[CairoNat]黄牌(1)
 -BEL-14'T.卡斯塔涅[Fulham]黄牌(1)
 -EGY-19'I.阿舒尔[CairoNat](1)进球 M.萨拉赫[Liverpool](1)助攻
 -EGY-33'A.法图赫[Gokarli]黄牌(1)
 -BEL-66'M.哈尼[CairoNat]乌龙(OG)
 
-0616 G组第1轮 伊朗(IRN)2-2新西兰(NZL)  [09:00]
+0616 G组第1轮 伊朗(IRN)2-2新西兰(NZL) [09:00]
 -NZL-07'E.贾斯特[Motherwell](1)进球 C.伍德[NottinghamForest](1)助攻
 -IRN-32'R.雷扎伊安[Esteghlal](1)进球
 -NZL-54'E.贾斯特[Motherwell](2)进球 C.伍德[NottinghamForest](2)助攻
 -IRN-64'M.莫赫比[Rostov](1)头球进球 R.雷扎伊安[Esteghlal](1)助攻
 -IRN-89'E.哈吉萨菲[Sepahan]黄牌(1)
 
-0622 G组第2轮 比利时(BEL)0-0伊朗(IRN)  [03:00]
+0622 G组第2轮 比利时(BEL)0-0伊朗(IRN) [03:00]
 -BEL-04'R.卢卡库[Napoli]黄牌(1)
 -IRN-33'S.埃扎托拉希[AlNasrDubai]黄牌(1)
 -BEL-67'N.恩戈伊[Lille]红牌(1)
 
-0622 G组第2轮 新西兰(NZL)1-3埃及(EGY)  [09:00]
+0622 G组第2轮 新西兰(NZL)1-3埃及(EGY) [09:00]
 -NZL-15'F.苏尔曼[PortlandTimbers](1)头球进球 T.佩恩[WellingtonPhoenix](1)助攻
 -EGY-18'M.拉欣[Pyramids]黄牌(1)
 -NZL-20'S.辛格[WellingtonPhoenix]黄牌(1)
@@ -27,7 +27,7 @@ G组
 -EGY-68'M.萨拉赫[Liverpool](1)进球 M.济科[Pyramids](1)助攻
 -EGY-82'M.特雷泽盖[CairoNat](1)头球进球 M.萨拉赫[Liverpool](2)助攻
 
-0627 G组第3轮 埃及(EGY)1-1伊朗(IRN)  [11:00]
+0627 G组第3轮 埃及(EGY)1-1伊朗(IRN) [11:00]
 -EGY-05'M.萨比尔[Pyramids](1)进球 M.特雷泽盖[CairoNat](1)助攻
 -IRN-14'R.雷扎伊安[Esteghlal](2)进球
 -IRN-19'H.卡纳尼[Persepolis]黄牌(1)
@@ -38,7 +38,7 @@ G组
 -EGY-90+2'M.拉欣[Pyramids]黄牌(2)
 -IRN-90+5'S.哈利勒扎德[TabrizTractor]黄牌(1)
 
-0627 G组第3轮 新西兰(NZL)1-5比利时(BEL)  [11:00]
+0627 G组第3轮 新西兰(NZL)1-5比利时(BEL) [11:00]
 -BEL-28'L.特罗萨德[Besiktas](1)进球
 -NZL-47'M.斯塔梅尼奇[Swansea]黄牌(1)
 -BEL-50'L.特罗萨德[Besiktas](2)进球 H.范纳肯[Brugge](1)助攻

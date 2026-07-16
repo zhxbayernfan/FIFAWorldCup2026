@@ -1,5 +1,5 @@
 E组
-0615 E组第1轮 德国(GER)7-1库拉索(CUW)  [01:00]
+0615 E组第1轮 德国(GER)7-1库拉索(CUW) [01:00]
 -GER-06'F.恩梅查[Dortmund](1)进球 F.维尔茨[Liverpool](1)助攻
 -CUW-21'科梅内西亚[Zurich](1)进球(队史首球)
 -GER-38'N.施洛特贝克[Dortmund](1)头球进球 N.布朗[Bayern](1)助攻
@@ -9,19 +9,19 @@ E组
 -GER-78'D.昂达夫[Stuttgart](1)进球 J.基米希[Bayern](2)助攻
 -GER-88'K.哈弗茨[Arsenal](2)进球 D.昂达夫[Stuttgart](2)助攻
 
-0615 E组第1轮 科特迪瓦(CIV)1-0厄瓜多尔(ECU)  [07:00]
+0615 E组第1轮 科特迪瓦(CIV)1-0厄瓜多尔(ECU) [07:00]
 -CIV-28'S.福法纳[Porto]黄牌(1)
 -CIV-38'F.凯西[AlAhliJeddah]黄牌(1)
 -CIV-40'G.杜埃[Strasbourg]黄牌(1)
 -ECU-73'P.波罗索[Troyes]黄牌(1)
 -CIV-90'A.迪亚洛[ManchesterUnited](1)进球 W.辛戈[Galatasaray](1)助攻
 
-0621 E组第2轮 德国(GER)2-1科特迪瓦(CIV)  [04:00]
+0621 E组第2轮 德国(GER)2-1科特迪瓦(CIV) [04:00]
 -CIV-30'F.凯西[AlAhliJeddah](1)进球
 -GER-68'D.昂达夫[Stuttgart](2)进球 N.阿米里[Mainz](1)助攻
 -GER-90+4'D.昂达夫[Stuttgart](3)进球 F.恩梅查[Dortmund](1)助攻
 
-0621 E组第2轮 厄瓜多尔(ECU)0-0库拉索(CUW)  [08:00]
+0621 E组第2轮 厄瓜多尔(ECU)0-0库拉索(CUW) [08:00]
 -=-REF: 马宁(CHN)
 -=-AR: 周飞(CHN),M.马卡莱赫(QAT)
 -=-4O: C.K.卡瓦纳-沃(NZL)
@@ -34,14 +34,14 @@ E组
 -CUW-75'J.加里[AlHazem]黄牌(1)
 -CUW-90+1'G.卡斯塔内尔[Bandung]黄牌(1)
 
-0626 E组第3轮 库拉索(CUW)0-2科特迪瓦(CIV)  [04:00]
+0626 E组第3轮 库拉索(CUW)0-2科特迪瓦(CIV) [04:00]
 -CIV-07'N.佩佩[Villarreal](1)进球 Y.迪奥曼德[Leipzig](1)助攻
 -CIV-36'N.佩佩[Villarreal]黄牌(1)
 -CIV-64'N.佩佩[Villarreal](2)进球 I.桑加雷[NottinghamForest](1)助攻
 -CUW-75'J.巴库纳[Volendam]黄牌(2)
 -CUW-86'G.卡斯塔内尔[Bandung]黄牌(2)
 
-0626 E组第3轮 厄瓜多尔(ECU)2-1德国(GER)  [04:00]
+0626 E组第3轮 厄瓜多尔(ECU)2-1德国(GER) [04:00]
 -GER-02'L.萨内[Galatasaray](1)进球 F.维尔茨[Liverpool](2)助攻
 -ECU-09'N.安古洛[Sunderland](1)进球 P.比特[Pumas](1)助攻
 -ECU-43'P.因卡皮耶[Arsenal]黄牌(1)

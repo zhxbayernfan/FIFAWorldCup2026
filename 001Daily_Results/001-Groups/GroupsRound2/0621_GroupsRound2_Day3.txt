@@ -1,5 +1,5 @@
 0621 GroupsRound2 Day3
-F组 第2轮 荷兰(NED)5-1瑞典(SWE)  [01:00]
+F组 第2轮 荷兰(NED)5-1瑞典(SWE) [01:00]
 -NED-05'B.布罗比[Sunderland](1)进球 C.加克波[Liverpool](1)助攻
 -NED-17'B.布罗比[Sunderland](2)进球 D.邓弗里斯[RealMadrid](1)助攻
 -NED-47'C.加克波[Liverpool](1)进球 D.邓弗里斯[RealMadrid](2)助攻
@@ -10,12 +10,12 @@ F组 第2轮 荷兰(NED)5-1瑞典(SWE)  [01:00]
 -SWE-80'L.贝里瓦尔[TottenhamHotSpurs]黄牌(1)
 -NED-89'C.萨默维尔[WestHam](2)进球 M.德佩[Corinthians](1)助攻
 
-E组 第2轮 德国(GER)2-1科特迪瓦(CIV)  [04:00]
+E组 第2轮 德国(GER)2-1科特迪瓦(CIV) [04:00]
 -CIV-30'F.凯西[AlAhliJeddah](1)进球
 -GER-68'D.昂达夫[Stuttgart](2)进球 N.阿米里[Mainz](1)助攻
 -GER-90+4'D.昂达夫[Stuttgart](3)进球 F.恩梅查[Dortmund](1)助攻
 
-E组 第2轮 厄瓜多尔(ECU)0-0库拉索(CUW)  [08:00]
+E组 第2轮 厄瓜多尔(ECU)0-0库拉索(CUW) [08:00]
 -=-REF: 马宁(CHN)
 -=-AR: 周飞(CHN),M.马卡莱赫(QAT)
 -=-4O: C.K.卡瓦纳-沃(NZL)
@@ -28,7 +28,7 @@ E组 第2轮 厄瓜多尔(ECU)0-0库拉索(CUW)  [08:00]
 -CUW-75'J.加里[AlHazem]黄牌(1)
 -CUW-90+1'G.卡斯塔内尔[Bandung]黄牌(1)
 
-F组 第2轮 突尼斯(TUN)0-4日本(JPN)  [12:00]
+F组 第2轮 突尼斯(TUN)0-4日本(JPN) [12:00]
 -JPN-04'镰田大地[CrystalPalace](2)进球 中村敬斗[Reims](1)助攻
 -JPN-31'上田绮世[Feyenoord](1)进球 板仓滉[Ajax](1)助攻
 -JPN-69'伊东纯也[Genk](1)进球 上田绮世[Feyenoord](1)助攻

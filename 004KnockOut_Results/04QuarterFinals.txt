@@ -1,9 +1,9 @@
-0710 8强 第1场 法国(FRA)2-0摩洛哥(MAR)  [04:00]
+0710 8强 第1场 法国(FRA)2-0摩洛哥(MAR) [04:00]
 -MAR-63'I.迪奥普[Fulham]黄牌(2/1)
 -FRA-60'K.姆巴佩[RealMadrid](8|20)进球 D.杜埃[ParisSaintGermain](2)助攻
 -FRA-66'O.登贝莱[ParisSaintGermain](5)进球 K.姆巴佩[RealMadrid](2)助攻
 
-0711 8强 第2场 西班牙(ESP)2-1比利时(BEL)  [03:00]
+0711 8强 第2场 西班牙(ESP)2-1比利时(BEL) [03:00]
 -ESP-30'法比安·鲁伊斯[ParisSaintGermain](1)进球
 -BEL-41'C.德凯特拉雷[Atalanta](3)进球 T.卡斯塔涅[Fulham](1)助攻
 -ESP-43'P.库巴西[Barcelona]黄牌(1/0)
@@ -12,13 +12,13 @@
 -ESP-90+3'A.拉波尔特[AthleticBilbao]黄牌(1/0)
 -BEL-90+5'E.维特塞尔[Girona]黄牌(1/0)
 
-0712 8强 第3场 挪威(NOR)1-2英格兰(ENG)  [05:00]
+0712 8强 第3场 挪威(NOR)1-2英格兰(ENG) [05:00]
 -NOR-36'A.谢尔德鲁普[Benfica](1)进球 M.厄德高[Arsenal](4)助攻
 -ENG-45+2'J.贝林厄姆[RealMadrid](5)进球 A.戈登[Barcelona](3)助攻
 -ENG-93'J.贝林厄姆[RealMadrid](6)进球
 -NOR-117'K.阿热[Brentford]黄牌(1/0)
 
-0712 8强 第4场 阿根廷(ARG)3-1瑞士(SUI)  [09:00]
+0712 8强 第4场 阿根廷(ARG)3-1瑞士(SUI) [09:00]
 -ARG-10'A.麦卡利斯特[Liverpool](1)头球进球 L.梅西[InterMiami](3|10)助攻
 -SUI-44'B.恩博洛[Rennes]黄牌(1/0)
 -SUI-68'D.恩多耶[NottinghamForest](3)进球 R.罗德里格斯[RealBetis](1)助攻

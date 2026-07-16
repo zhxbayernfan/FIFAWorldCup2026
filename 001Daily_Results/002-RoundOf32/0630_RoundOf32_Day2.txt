@@ -1,5 +1,5 @@
 0630 RoundOf32 Day2
-32强 第2场 巴西(BRA)2-1日本(JPN)  [01:00]
+32强 第2场 巴西(BRA)2-1日本(JPN) [01:00]
 -JPN-12'佐野海舟[Mainz]黄牌(1)
 -BRA-14'C.卡塞米罗[ManchesterUnited]黄牌(1)
 -JPN-29'佐野海舟[Mainz](1)进球
@@ -9,7 +9,7 @@
 -JPN-84'铃木淳之介[Copenhagen]黄牌(1)
 -BRA-90+6'G.马丁内利[Arsenal](1)进球 B.吉马良斯[Newcastle](4)助攻
 
-32强 第3场 德国(GER)1-1巴拉圭(PAR)  [04:30]
+32强 第3场 德国(GER)1-1巴拉圭(PAR) [04:30]
 -=-4O: 马宁(CHN)
 -PAR-42'J.恩西索[Strasbourg](1)进球 M.加拉尔萨[AtlantaUnited](1)助攻
 -GER-54'K.哈弗茨[Arsenal](1)头球进球 F.维尔茨[Liverpool](1)助攻
@@ -33,7 +33,7 @@
 -PAR6-J.卡纳莱[Lanus]点球命中✅[4]-[3]
 -GER6-J.塔[Bayern]点球未进❌[3]-[4]
 
-32强 第4场 荷兰(NED)1-1摩洛哥(MAR)  [09:00]
+32强 第4场 荷兰(NED)1-1摩洛哥(MAR) [09:00]
 -MAR-47'I.迪奥普[Fulham]黄牌(1/1)
 -NED-72'C.加克波[Liverpool](1)进球 C.萨默维尔[WestHam](1)助攻
 -MAR-90+1'I.迪奥普[Fulham](1)进球 C.塔勒比[Sunderland](1)助攻

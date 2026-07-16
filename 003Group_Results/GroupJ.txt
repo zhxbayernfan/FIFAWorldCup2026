@@ -1,17 +1,17 @@
 J组
-0617 J组第1轮 阿根廷(ARG)3-0阿尔及利亚(ALG)  [09:00]
+0617 J组第1轮 阿根廷(ARG)3-0阿尔及利亚(ALG) [09:00]
 -ARG-17'L.梅西[InterMiami](1|14)进球 R.德保罗[InterMiami](1)助攻
 -ARG-60'L.梅西[InterMiami](2|15)进球
 -ARG-76'L.梅西[InterMiami](3|16)进球 N.冈萨雷斯[AtleticoMadrid](1)助攻
 
-0617 J组第1轮 奥地利(AUT)3-1约旦(JOR)  [12:00]
+0617 J组第1轮 奥地利(AUT)3-1约旦(JOR) [12:00]
 -AUT-21'R.施密德[Bremen](1)进球 X.施拉格尔[Leipzig](1)助攻
 -JOR-50'A.乌勒万[SelangorFC](1)进球 拉瓦卜迪赫[SelangorFC](1)助攻
 -AUT-77'Y.阿拉伯[SeoulFC]乌龙(OG)
 -AUT-78'M.萨比策[Dortmund]黄牌(1)
 -AUT-90+12'M.阿瑙托维奇[RedStar](1)点球命中
 
-0623 J组第2轮 阿根廷(ARG)2-0奥地利(AUT)  [01:00]
+0623 J组第2轮 阿根廷(ARG)2-0奥地利(AUT) [01:00]
 -ARG-39'L.梅西[InterMiami](4|17)进球 F.梅迪纳[Marseille](1)助攻
 -AUT-41'S.波施[Mainz]黄牌(1)
 -ARG-76'F.梅迪纳[Marseille]黄牌(1)
@@ -19,14 +19,14 @@ J组
 -ARG-90+2'L.帕雷德斯[BocaJuniors]黄牌(1)
 -ARG-90+5'L.梅西[InterMiami](5|18)进球
 
-0623 J组第2轮 约旦(JOR)1-2阿尔及利亚(ALG)  [11:00]
+0623 J组第2轮 约旦(JOR)1-2阿尔及利亚(ALG) [11:00]
 -JOR-36'N.拉什丹[Zawra](1)进球 M.塔迈里[Rennes](1)助攻
 -ALG-44'R.泽鲁基[Twente]黄牌(1)
 -JOR-64'H.阿布达哈卜[Faisaly](1)黄牌
 -ALG-69'N.本布阿利[Gyori](1)头球进球 R.马赫雷斯[AlAhliJeddah](1)助攻
 -ALG-82'A.古伊里[Marseille](1)进球
 
-0628 J组第3轮 阿尔及利亚(ALG)3-3奥地利(AUT)  [10:00]
+0628 J组第3轮 阿尔及利亚(ALG)3-3奥地利(AUT) [10:00]
 -AUT-11'M.阿瑙托维奇[RedStar]黄牌(1)
 -AUT-28'M.阿瑙托维奇[RedStar](2)进球 D.阿拉巴[RealMadrid](1)助攻
 -ALG-45'贝尔加利[Verona](1)进球
@@ -35,7 +35,7 @@ J组
 -ALG-90+3'R.马赫雷斯[AlAhliJeddah](2)进球 H.阿瓦尔[AlIttihad](2)助攻
 -AUT-90+6'S.卡莱季奇[LASK](1)头球进球 M.格雷戈里奇[Augsburg](1)助攻
 
-0628 J组第3轮 约旦(JOR)1-3阿根廷(ARG)  [10:00]
+0628 J组第3轮 约旦(JOR)1-3阿根廷(ARG) [10:00]
 -JOR-17'M.阿布塔哈[Wehdat]黄牌(1)
 -ARG-19'G.洛塞尔索[RealBetis](1)任意球进球
 -ARG-31'La.马丁内斯[InterMilano](1)点球

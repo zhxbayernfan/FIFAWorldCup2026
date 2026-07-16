@@ -1,16 +1,16 @@
 0701 RoundOf32 Day3
-32强 第5场 科特迪瓦(CIV)1-2挪威(NOR)  [01:00]
+32强 第5场 科特迪瓦(CIV)1-2挪威(NOR) [01:00]
 -NOR-39'A.努萨[Leipzig](1)进球 M.厄德高[Arsenal](3)助攻
 -NOR-45+1'A.努萨[Leipzig]黄牌(1/0)
 -CIV-74'A.迪亚洛[ManchesterUnited](2)进球 N.佩佩[Villarreal](1)助攻
 -NOR-86'E.哈兰德[ManchesterCity](5)进球 P.贝格[BodoGlimt](2)助攻
 
-32强 第6场 法国(FRA)3-0瑞典(SWE)  [05:00]
+32强 第6场 法国(FRA)3-0瑞典(SWE) [05:00]
 -FRA-45'K.姆巴佩[RealMadrid](5|17)进球 O.登贝莱[ParisSaintGermain](2)助攻
 -FRA-53'B.巴尔科拉[ParisSaintGermain](2)进球 M.奥利塞[Bayern](4)助攻
 -FRA-74'K.姆巴佩[RealMadrid](6|18)进球 M.奥利塞[Bayern](5)助攻
 
-32强 第7场 墨西哥(MEX)2-0厄瓜多尔(ECU)  [10:00]
+32强 第7场 墨西哥(MEX)2-0厄瓜多尔(ECU) [10:00]
 -ECU-45+2'A.弗兰科[AtleticoMineiro]黄牌(1/1)
 -MEX-22'J.基尼奥内斯[Al-Qadsiah](3)进球 R.阿尔瓦拉多[Chivas](3)助攻
 -MEX-31'S.希门尼斯[ACMilan](2)进球 J.基尼奥内斯[Al-Qadsiah](1)助攻

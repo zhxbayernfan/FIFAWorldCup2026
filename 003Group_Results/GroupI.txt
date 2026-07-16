@@ -1,11 +1,11 @@
 I组
-0617 I组第1轮 法国(FRA)3-1塞内加尔(SEN)  [03:00]
+0617 I组第1轮 法国(FRA)3-1塞内加尔(SEN) [03:00]
 -FRA-66'K.姆巴佩[RealMadrid](1|13)进球 M.奥利塞[Bayern](1)助攻
 -FRA-82'B.巴尔科拉[ParisSaintGermain](1)进球 A.拉比奥[ACMilan](1)助攻
 -SEN-90+5'I.姆巴耶[ParisSaintGermain](1)进球 I.恩迪亚耶[Everton](1)助攻
 -FRA-90+6'K.姆巴佩[RealMadrid](2|14)进球
 
-0617 I组第1轮 挪威(NOR)4-1伊拉克(IRQ)  [06:00]
+0617 I组第1轮 挪威(NOR)4-1伊拉克(IRQ) [06:00]
 -NOR-29'E.哈兰德[ManchesterCity](1)进球 S.沃尔费[Wolves](1)助攻
 -IRQ-39'A.侯赛因[AlWakra](1)进球 M.阿马里[Cracovia](1)助攻
 -NOR-43'E.哈兰德[ManchesterCity](2)进球(门将失误)
@@ -13,20 +13,20 @@ I组
 -IRQ-86'Z.塔赫辛[BaghdadStudent]黄牌(1)
 -NOR-90+6'A.侯赛因[AlWakra]乌龙(OG)
 
-0623 I组第2轮 法国(FRA)3-0伊拉克(IRQ)  [05:00]
+0623 I组第2轮 法国(FRA)3-0伊拉克(IRQ) [05:00]
 -IRQ-07'M.阿马里[Cracovia]黄牌(1)
 -FRA-15'K.姆巴佩[RealMadrid](3|15)进球 M.奥利塞[Bayern](2)助攻
 -FRA-55'K.姆巴佩[RealMadrid](4|16)进球 O.登贝莱[ParisSaintGermain](1)助攻
 -FRA-66'O.登贝莱[ParisSaintGermain](1)进球 M.奥利塞[Bayern](3)助攻
 
-0623 I组第2轮 挪威(NOR)3-2塞内加尔(SEN)  [08:00]
+0623 I组第2轮 挪威(NOR)3-2塞内加尔(SEN) [08:00]
 -NOR-43'M.彼得森[Torino](1)进球
 -NOR-48'E.哈兰德[ManchesterCity](3)进球 M.厄德高[Arsenal](2)助攻
 -SEN-53'I.萨尔[CrystalPalace](1)进球 S.马内[AlNassr](1)助攻
 -NOR-58'E.哈兰德[ManchesterCity](4)进球 P.贝格[BodoGlimt](1)助攻
 -SEN-90+3'I.萨尔[CrystalPalace](2)进球 N.雅克松[Chelsea](1)助攻
 
-0627 I组第3轮 塞内加尔(SEN)5-0伊拉克(IRQ)  [03:00]
+0627 I组第3轮 塞内加尔(SEN)5-0伊拉克(IRQ) [03:00]
 -SEN-04'H.迪亚拉[Sunderland](1)进球 A.塞克[HaifaMaccabi](1)助攻
 -IRQ-13'R.苏尔卡[Port]红牌(1)
 -SEN-19'A.塞克[HaifaMaccabi]黄牌(1)
@@ -38,7 +38,7 @@ I组
 -SEN-82'I.恩迪亚耶[Everton](1)进球 P.盖伊[Villarreal](1)助攻
 -IRQ-90'M.多斯基[ViktoriaPlzen]黄牌(1)
 
-0627 I组第3轮 挪威(NOR)1-4法国(FRA)  [03:00]
+0627 I组第3轮 挪威(NOR)1-4法国(FRA) [03:00]
 -=-4O: 马宁(CHN)
 -FRA-07'O.登贝莱[ParisSaintGermain](2)进球 K.姆巴佩[RealMadrid](1)助攻
 -NOR-10'P.贝格[BodoGlimt]黄牌(1)

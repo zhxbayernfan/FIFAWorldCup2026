@@ -1,5 +1,5 @@
 0618 GroupsRound1 Day7
-K组 第1轮 葡萄牙(POR)1-1民主刚果(COD)  [01:00]
+K组 第1轮 葡萄牙(POR)1-1民主刚果(COD) [01:00]
 -POR-06'J.内维斯[ParisSaintGermain](1)头球进球 P.内托[Chelsea](1)助攻
 -POR-13'B.席尔瓦[RealMadrid]黄牌(1)
 -COD-32'C.姆本巴[Lille]黄牌(1)
@@ -7,7 +7,7 @@ K组 第1轮 葡萄牙(POR)1-1民主刚果(COD)  [01:00]
 -POR-88'N.塞梅多[Fenerbahce]黄牌(1)
 -POR-90+2'T.阿劳若[Benfica]黄牌(1)
 
-L组 第1轮 英格兰(ENG)4-2克罗地亚(CRO)  [04:00]
+L组 第1轮 英格兰(ENG)4-2克罗地亚(CRO) [04:00]
 -ENG-12'H.凯恩[Bayern](1|9)点球命中
 -CRO-36'M.巴图里纳[Como](1)进球 P.苏契奇[InterMilano](1)助攻
 -ENG-42'H.凯恩[Bayern](2|10)头球进球 D.赖斯[Arsenal](1)助攻
@@ -15,13 +15,13 @@ L组 第1轮 英格兰(ENG)4-2克罗地亚(CRO)  [04:00]
 -ENG-47'J.贝林厄姆[RealMadrid](1)进球 E.安德森[ManchesterCity](1)助攻
 -ENG-85'M.拉什福德[ManchesterUnited](1)进球 B.萨卡[Arsenal](1)助攻
 
-L组 第1轮 加纳(GHA)1-0巴拿马(PAN)  [07:00]
+L组 第1轮 加纳(GHA)1-0巴拿马(PAN) [07:00]
 -GHA-16'C.伊伦基[Nordsjaelland]黄牌(1)
 -PAN-73'C.布莱克曼[Bratislava]黄牌(1)
 -GHA-90+5'C.伊伦基[Nordsjaelland](1)进球
 -PAN-90+10'C.哈维[MinnesotaU]黄牌(1)
 
-K组 第1轮 乌兹别克斯坦(UZB)1-3哥伦比亚(COL)  [10:00]
+K组 第1轮 乌兹别克斯坦(UZB)1-3哥伦比亚(COL) [10:00]
 -COL-08'J.莫希卡[Mallorca]黄牌(1)
 -UZB-34'A.胡桑诺夫[ManchesterCity]黄牌(1)
 -COL-41'D.穆尼奥斯[CrystalPalace](1)进球 L.迪亚斯[Bayern](1)助攻

@@ -1,5 +1,5 @@
 0704 RoundOf32 Day6
-32强 第14场 澳大利亚(AUS)1-1埃及(EGY)  [02:00]
+32强 第14场 澳大利亚(AUS)1-1埃及(EGY) [02:00]
 -EGY-13'I.阿舒尔[CairoNat](2)进球 K.哈菲兹[Pyramids](1)助攻
 -AUS-55'M.哈尼[CairoNat]乌龙(OG)
 -EGY-105'H.海.哈桑[RealOviedo]黄牌(1/0)
@@ -14,7 +14,7 @@
 -AUS4-L.赫林顿[ColoradoRapids]点球未进❌[3]-[2]
 -EGY4-H.阿卜杜勒马吉德[Zamalek]点球命中✅[4]-[2]
 
-32强 第15场 阿根廷(ARG)3-2佛得角(CPV)  [06:00]
+32强 第15场 阿根廷(ARG)3-2佛得角(CPV) [06:00]
 -ARG-29'L.梅西[InterMiami](7|20)进球 Li.马丁内斯[ManchesterUnited](1)助攻
 -CPV-59'德罗伊[Ludogorets](1)进球 R.门德斯[Igdir](1)助攻
 -CPV-68'K.皮纳[Krasnodar]黄牌(1/0)
@@ -23,7 +23,7 @@
 -ARG-111'D.博尔赫斯[Bata]乌龙(OG)
 -ARG-115'G.蒙铁尔[RiverPlate]黄牌(1/0)
 
-32强 第16场 哥伦比亚(COL)1-0加纳(GHA)  [09:30]
+32强 第16场 哥伦比亚(COL)1-0加纳(GHA) [09:30]
 -COL-13'H.阿里亚斯[Palmeiras]黄牌(1/0)
 -COL-14'H.阿里亚斯[Palmeiras](1)进球 L.苏亚雷斯[Sporting](1)助攻
 -GHA-50'C.伊伦基[Nordsjaelland]黄牌(1/1)
