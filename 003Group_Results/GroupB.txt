@@ -19,10 +19,10 @@ B组
 -BIH-59'A.德迪奇[Benfica]黄牌(1)
 -BIH-61'E.哲科[Schalke]黄牌(1)
 -SUI-66'N.埃尔韦迪[Mönchengladbach]黄牌(1)
--SUI-75'J.曼赞比[Freiburg](1)进球
+-SUI-75'J.曼赞比[AstonVilla](1)进球
 -BIH-80'T.穆哈雷莫维奇[Leeds]红牌(1)
 -SUI-84'R.巴尔加斯[Sevilla](1)进球 D.恩多耶[NottinghamForest](1)助攻
--SUI-90'J.曼赞比[Freiburg](2)进球 R.巴尔加斯[Sevilla](1)助攻
+-SUI-90'J.曼赞比[AstonVilla](2)进球 R.巴尔加斯[Sevilla](1)助攻
 -BIH-90+3'E.马赫米奇[Liberec](1)进球
 -SUI-90+7'G.扎卡[Sunderland](1)点球进球
 
@@ -49,7 +49,7 @@ B组
 0625 B组第3轮 瑞士(SUI)2-1加拿大(CAN) [03:00]
 -CAN-32'C.拉林[Southampton]黄牌(1)
 -SUI-32'G.扎卡[Sunderland]黄牌(1)
--SUI-46'R.巴尔加斯[Sevilla](2)进球 J.曼赞比[Freiburg](1)助攻
--SUI-57'J.曼赞比[Freiburg](3)进球 B.恩博洛[Rennes](1)助攻
+-SUI-46'R.巴尔加斯[Sevilla](2)进球 J.曼赞比[AstonVilla](1)助攻
+-SUI-57'J.曼赞比[AstonVilla](3)进球 B.恩博洛[Rennes](1)助攻
 -CAN-76'P.戴维[USG](1)进球 N.萨利巴[Anderlecht](2)助攻
 -CAN-87'L.米勒[HullCity]黄牌(1)
